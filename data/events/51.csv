@@ -1,0 +1,25 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Universität Stuttgart,Germany,COMBUSTION,1,4,83.8,2,73.5,1,150.0,3,64.9,1,50.0,2,149.0,1,390.1,,,0.0,961.0
+University of Western Australia,Australia,COMBUSTION,2,7,78.0,8,65.1,3,140.0,7,53.1,7,34.9,1,150.0,2,289.2,,,0.0,810.0
+Sophia University,Japan,COMBUSTION,3,11,70.7,13,54.0,4,120.0,8,45.7,3,42.9,4,126.5,3,282.4,,,0.0,742.0
+Monash University,Australia,COMBUSTION,4,2,88.7,5,69.0,4,120.0,5,56.1,2,44.4,7,121.6,5,176.9,,,0.0,677.0
+University of New South Wales,Australia,COMBUSTION,5,8,75.7,14,53.8,7,115.0,2,66.0,6,38.1,6,122.7,7,145.5,,,0.0,617.0
+University of Adelaide,Australia,COMBUSTION,6,13,67.3,10,59.4,9,113.0,10,34.5,4,41.9,11,42.6,4,214.2,,,0.0,573.0
+Swinburne University of Technology,Australia,COMBUSTION,7,9,75.1,7,68.7,12,111.0,6,53.6,12,19.4,12,25.9,6,157.5,,,0.0,511.0
+University of Auckland,New Zealand,COMBUSTION,8,16,64.1,1,75.0,2,145.0,1,75.0,5,38.5,8,107.2,,,,,0.0,505.0
+University of Wollongong,Australia,COMBUSTION,9,3,84.7,6,68.8,11,112.0,9,43.4,9,30.4,5,124.9,,,,,0.0,464.0
+University of Melbourne,Australia,COMBUSTION,10,19,59.0,9,62.2,8,114.0,4,56.6,13,10.4,9,58.9,8,93.5,,,0.0,455.0
+RMIT University,Australia,COMBUSTION,11,6,79.0,3,73.3,6,116.0,12,24.2,11,22.7,3,134.4,,,,,0.0,450.0
+University of Sydney,Australia,COMBUSTION,12,5,81.7,4,69.2,9,113.0,13,20.3,8,33.6,,,,,,,0.0,318.0
+Deakin University,Australia,COMBUSTION,13,12,67.9,23,28.5,14,82.0,10,34.5,14,2.5,10,55.1,,,,,0.0,270.0
+The University of Newcastle,Australia,COMBUSTION,14,18,60.1,11,55.8,15,80.0,14,18.6,10,28.3,13,24.6,,,,,0.0,267.0
+Edith Cowan University,Australia,COMBUSTION,15,17,60.4,17,41.3,13,101.0,16,3.5,14,2.5,,,,,,,0.0,209.0
+Queensland University of Technology,Australia,COMBUSTION,16,15,64.6,15,51.8,16,78.0,,,,,,,,,,,0.0,194.0
+University of Southern Queensland,Australia,COMBUSTION,17,10,71.5,22,33.5,18,61.0,15,12.6,14,2.5,14,7.5,,,,,0.0,189.0
+Curtin University,Australia,COMBUSTION,18,21,48.4,16,50.8,16,78.0,,,,,14,7.5,,,,,0.0,185.0
+"Victoria University, Australia",Australia,COMBUSTION,19,14,65.1,12,54.2,20,60.0,,,,,,,,,,,0.0,179.0
+Guru Gobind Singh Indraprastha University,India,COMBUSTION,20,1,89.5,24,13.4,21,50.0,,,,,,,,,,,0.0,153.0
+Federation University Australia,Australia,COMBUSTION,21,24,34.5,19,38.4,18,61.0,,,,,14,7.5,,,,,0.0,141.0
+"Chitkara University, Punjab",India,COMBUSTION,22,22,41.2,20,35.8,21,50.0,,,,,,,,,,,0.0,127.0
+Ramaiah Institute of Technology,India,COMBUSTION,23,23,37.7,18,39.0,23,40.0,,,,,,,,,,,0.0,117.0
+PES Institute of Technology,India,COMBUSTION,24,20,54.4,21,33.9,,,,,,,,,,,,,0.0,88.0

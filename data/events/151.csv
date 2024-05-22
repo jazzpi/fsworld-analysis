@@ -1,0 +1,22 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Universität Stuttgart,Germany,COMBUSTION,1,9,79.7,6,68.0,3,140.0,7,69.0,1,75.0,3,95.7,1,325.0,6,81.1,0.0,933.0
+GFR DHBW Ravensburg & Oregon State University,Bermuda,COMBUSTION,2,6,81.7,3,71.0,15,99.9,14,49.1,3,72.5,2,96.9,2,308.3,1,100.0,-10.0,870.0
+Fachhochschule Joanneum Graz,Austria,COMBUSTION,3,12,67.2,10,64.3,2,145.0,2,74.9,6,63.4,6,78.1,6,239.9,11,69.9,0.0,803.0
+Technische Universität Graz,Austria,COMBUSTION,4,10,76.3,16,42.4,5,128.3,12,57.5,2,73.2,5,80.7,3,263.2,2,97.8,-40.0,780.0
+Fachhochschule München,Germany,COMBUSTION,5,2,88.2,8,66.3,10,108.6,5,73.2,4,66.9,4,82.2,7,236.8,13,54.8,0.0,777.0
+Karlsruhe Institute of Technology,Germany,COMBUSTION,6,8,79.8,2,71.5,4,129.6,4,74.6,9,53.7,7,75.6,8,181.6,4,86.1,0.0,752.0
+University of Applied Sciences Ravensburg-Weingarten,Germany,COMBUSTION,7,7,80.5,9,65.5,9,112.9,3,74.7,15,37.9,17,33.4,5,247.1,12,57.0,0.0,709.0
+Hochschule für Angewandte Wissenschaften Hamburg,Germany,COMBUSTION,8,16,57.0,19,29.3,7,117.6,9,63.4,8,56.0,14,40.6,4,248.5,8,79.7,0.0,692.0
+Ostbayerische Technische Hochschule Regensburg,Germany,COMBUSTION,9,11,73.6,13,47.1,13,102.5,6,69.1,10,47.7,8,66.9,10,155.1,10,70.1,0.0,632.0
+UAS Kempten,Germany,COMBUSTION,10,15,59.6,12,54.0,19,71.3,8,68.3,16,34.6,16,38.8,11,141.5,9,75.9,0.0,544.0
+Technical University of Munich,Germany,COMBUSTION,11,3,84.3,5,68.8,1,150.0,10,62.2,7,62.3,1,100.0,17,10.0,,,0.0,538.0
+Technische Hochschule Ostwestfalen-Lippe,Germany,COMBUSTION,12,20,43.3,15,46.7,18,74.4,11,61.1,13,40.6,11,46.6,9,158.6,16,43.6,0.0,515.0
+Hochschule Karlsruhe,Germany,COMBUSTION,13,5,82.6,20,28.7,11,108.3,13,51.3,5,66.2,9,63.1,14,19.0,3,86.3,0.0,505.0
+Monash University,Australia,COMBUSTION,14,4,84.2,1,75.0,6,128.1,15,42.9,18,29.9,10,58.9,17,10.0,15,45.6,0.0,474.0
+Ulm University of Applied Sciences,Germany,COMBUSTION,15,14,60.7,11,61.8,16,79.0,17,33.6,11,44.5,13,41.7,13,20.0,7,79.8,0.0,421.0
+Universität Kassel,Germany,COMBUSTION,16,13,64.4,4,69.2,12,105.5,1,75.0,12,44.3,12,42.1,20,8.0,,,0.0,408.0
+Fachhochschule Konstanz,Germany,COMBUSTION,17,1,90.8,7,67.5,14,100.8,16,35.6,17,30.8,20,8.1,16,16.0,,,0.0,350.0
+FH Campus Wien,Austria,COMBUSTION,18,19,43.5,17,31.3,17,75.8,20,3.5,19,29.7,19,17.0,12,28.3,5,85.0,0.0,314.0
+Loughborough University,United Kingdom,COMBUSTION,19,21,39.9,21,25.0,21,57.2,18,32.8,14,40.5,15,39.4,15,17.0,14,48.1,0.0,300.0
+"Cardiff University, Wales",United Kingdom,COMBUSTION,20,18,46.9,14,46.9,8,115.3,,,20,15.8,18,23.0,,,,,0.0,248.0
+Hochschule Heilbronn,Germany,COMBUSTION,21,17,50.4,18,29.9,20,60.9,19,26.4,21,3.5,21,4.5,17,10.0,,,-50.0,136.0

@@ -1,0 +1,30 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Westsächsische Hochschule Zwickau,Germany,ELECTRIC,1,14,72.43,9,63.35,3,146.83,2,73.4,1,75.0,1,100.0,1,325.0,1,100.0,0.0,956.0
+Tallinn TU UAS,Estonia,ELECTRIC,2,7,94.96,22,43.37,1,150.0,1,75.0,2,57.51,2,76.51,2,238.12,2,58.98,0.0,794.0
+Politecnico di Milano,Italy,ELECTRIC,3,5,96.89,1,75.0,2,148.94,4,51.06,3,53.74,3,57.48,,,,,0.0,483.0
+Università degli studi di Padova,Italy,ELECTRIC,4,1,100.0,5,70.15,4,143.66,3,64.1,4,21.65,4,27.7,,,,,0.0,427.0
+TECNUN - University of Navarra,Spain,ELECTRIC,5,15,70.58,12,59.52,8,130.99,9,3.5,8,14.78,6,18.38,3,25.0,,,0.0,323.0
+Escola Tècnica Superior d,Spain,ELECTRIC,6,10,83.12,4,70.58,5,138.38,,,,,5,22.14,,,,,0.0,314.0
+Technische Universität Darmstadt,Germany,ELECTRIC,7,3,97.25,7,64.2,8,130.99,,,7,15.04,9,4.5,,,,,0.0,312.0
+Università degli Studi di Parma,Italy,ELECTRIC,8,8,91.33,16,51.02,18,70.78,5,46.43,6,16.2,8,7.47,3,25.0,,,0.0,308.0
+Università degli Studi di Trento,Italy,ELECTRIC,9,2,99.14,14,52.72,11,109.86,,,,,7,9.73,3,25.0,,,0.0,296.0
+Wroclaw University of Technology,Poland,ELECTRIC,10,9,89.31,6,65.47,6,134.16,,,,,9,4.5,,,,,0.0,293.0
+Bern University of Applied Sciences,Switzerland,ELECTRIC,11,22,51.48,10,60.8,10,121.48,7,27.87,5,20.92,9,4.5,,,,,0.0,287.0
+Hochschule Bonn-Rhein-Sieg,Germany,ELECTRIC,12,6,95.17,18,48.89,7,133.1,,,,,,,,,,,0.0,277.0
+Università di Pisa,Italy,ELECTRIC,13,4,96.93,3,71.0,12,106.69,,,,,,,,,,,0.0,275.0
+Hochschule für Angewandte Wissenschaften Hof,Germany,ELECTRIC,14,19,58.12,20,45.49,13,97.18,8,24.21,10,10.2,9,4.5,,,,,0.0,240.0
+Universidad Pontificia Comillas,Spain,ELECTRIC,15,11,81.43,2,73.0,19,63.38,,,,,,,,,,,0.0,218.0
+Helsinki Metropolia University of Applied Sciences,Finland,ELECTRIC,16,12,76.81,19,47.62,14,88.73,,,,,,,,,,,0.0,213.0
+University of Agder,Norway,ELECTRIC,17,21,54.44,13,53.14,22,45.42,6,37.29,9,12.01,9,4.5,,,,,0.0,207.0
+Democritus University of Thrace,Greece,ELECTRIC,18,17,66.76,16,51.02,16,86.62,,,,,,,,,,,0.0,204.0
+"Università degli Studi di Roma ""La Sapienza""",Italy,ELECTRIC,19,23,44.57,8,63.77,14,88.73,,,,,,,,,,,0.0,197.0
+Università degli studi di Udine ,Italy,ELECTRIC,20,16,67.04,21,44.64,17,78.17,,,,,9,4.5,,,,,0.0,194.0
+University of Bath,United Kingdom,ELECTRIC,21,13,75.32,15,51.44,21,51.76,,,,,,,,,,,0.0,179.0
+Hochschule Düsseldorf,Germany,ELECTRIC,22,18,62.15,23,42.09,23,35.91,,,,,,,,,,,0.0,140.0
+University of Kocaeli,Turkey,ELECTRIC,23,24,34.85,26,19.56,20,58.1,,,,,,,,,,,0.0,113.0
+Università degli Studi di Napoli Federico II,Italy,ELECTRIC,24,20,56.53,24,31.46,24,22.18,,,,,,,,,,,0.0,110.0
+Alma Mater Studiorum - Università di Bologna,Italy,ELECTRIC,25,,,10,60.8,,,,,,,,,,,,,0.0,61.0
+Technische Universität Graz,Austria,ELECTRIC,26,,,25,22.11,,,,,,,,,,,,,0.0,22.0
+Hochschule Ruhr West - UAS,Germany,ELECTRIC,27,,,27,15.31,,,,,,,,,,,,,0.0,15.0
+Universität Siegen,Germany,ELECTRIC,28,,,28,13.18,,,,,,,,,,,,,0.0,13.0
+Brunel University London,United Kingdom,ELECTRIC,29,,,29,12.75,,,,,,,,,,,,,0.0,13.0

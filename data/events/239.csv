@@ -1,0 +1,16 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Gujarat Technological University,India,COMBUSTION,1,4,94.66,6,66.79,3,115.0,1,75.0,,,1,100.0,1,325.0,1,100.0,0.0,876.0
+SRM Institute of Science and Technology - Kattankulathur,India,COMBUSTION,2,2,97.0,8,64.92,9,96.55,2,71.18,,,2,83.41,2,25.0,,,0.0,438.0
+Thapar Institute of Engineering and Technology,India,COMBUSTION,3,1,100.0,3,71.0,2,120.0,,,,,,,,,,,0.0,291.0
+R.V.College of Engineering,India,COMBUSTION,4,9,80.69,2,72.0,1,125.0,,,,,,,,,,,0.0,278.0
+Aligarh Muslim University,India,COMBUSTION,5,3,95.0,1,75.0,5,106.6,,,,,,,,,,,0.0,277.0
+Vishwakarma Institute of Information Technology,India,COMBUSTION,6,8,80.81,5,67.56,6,105.36,,,,,,,,,,,0.0,254.0
+Shri G.S. Institute of Technology and Science Indore,India,COMBUSTION,7,5,91.56,4,70.0,12,88.21,,,,,,,,,,,0.0,250.0
+Marathwada Mitra Mandal,India,COMBUSTION,8,6,89.84,12,56.97,8,97.01,,,,,,,,,,,0.0,244.0
+Ramaiah Institute of Technology,India,COMBUSTION,9,7,86.39,7,66.53,13,81.16,,,,,,,,,,,0.0,234.0
+Nirma University,India,COMBUSTION,10,12,43.85,9,64.44,7,103.18,,,,,,,,,,,0.0,211.0
+Thakur College of Engineering and Technology,India,COMBUSTION,11,10,58.1,11,57.73,10,90.19,,,,,,,,,,,0.0,206.0
+"J.C. Bose University of Science and Technology, YMCA",India,COMBUSTION,12,13,38.64,14,54.6,4,106.74,,,,,,,,,,,0.0,200.0
+Amity School of Engineering and Technology,India,COMBUSTION,13,11,54.53,15,43.36,14,57.92,,,,,,,,,,,0.0,156.0
+Kumaraguru College of Technology,India,COMBUSTION,14,,,10,59.22,11,88.84,,,,,,,,,,,0.0,148.0
+Netaji Subhas Institute of Technology,India,COMBUSTION,15,14,34.54,13,56.39,15,22.07,,,,,,,,,,,0.0,113.0

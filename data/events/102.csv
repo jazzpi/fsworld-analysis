@@ -1,0 +1,38 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Hochschule Esslingen,Germany,COMBUSTION,1,13,83.2,7,69.3,2,147.0,5,60.9,2,48.1,6,141.4,1,300.0,5,48.4,0.0,898.0
+Karlsruhe Institute of Technology,Germany,COMBUSTION,2,2,95.9,8,68.5,4,141.0,8,59.2,1,50.0,3,147.3,4,275.5,6,47.2,0.0,885.0
+Hochschule für Angewandte Wissenschaften Hamburg,Germany,COMBUSTION,3,18,75.3,3,73.0,5,138.0,10,56.3,4,47.9,2,148.5,2,291.8,9,35.8,0.0,866.0
+Karlsruhe Institute of Technology,Germany,ELECTRIC,4,4,93.4,18,62.0,7,132.0,1,75.0,28,2.5,1,150.0,7,243.0,2,89.9,0.0,848.0
+Fachhochschule Joanneum Graz,Austria,COMBUSTION,5,1,98.5,16,62.7,8,129.0,4,61.8,6,43.6,11,124.1,6,244.0,8,45.0,0.0,809.0
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,COMBUSTION,6,17,76.3,5,70.0,16,104.85,19,44.9,5,46.8,9,129.6,3,284.0,4,49.0,0.0,806.0
+Czech Technical University in Prague,Czech Republic,COMBUSTION,7,11,83.3,5,70.0,14,107.61,3,67.0,7,41.7,4,143.1,8,231.7,13,28.6,0.0,773.0
+University of Applied Sciences Ravensburg-Weingarten,Germany,COMBUSTION,8,11,83.3,15,63.4,18,89.21,7,59.5,10,36.4,5,142.2,5,268.7,15,22.6,0.0,765.0
+Budapest University of Technology and Economics,Hungary,ELECTRIC,9,5,89.8,16,62.7,1,150.0,16,46.8,12,33.9,14,110.8,11,148.4,1,100.0,0.0,742.0
+Universität Kassel,Germany,COMBUSTION,10,7,85.4,23,56.9,10,117.72,22,41.7,9,36.7,10,125.6,9,194.7,7,45.8,0.0,704.0
+Ostfalia University of Applied Sciences,Germany,ELECTRIC,11,26,66.7,26,54.7,11,113.12,12,54.1,15,32.0,24,74.8,12,146.7,3,89.7,0.0,632.0
+Hochschule für Technik und Wirtschaft Berlin,Germany,COMBUSTION,12,25,67.0,1,75.0,13,109.45,9,56.5,23,20.2,21,78.6,13,146.1,12,29.5,0.0,582.0
+Technische Universität Darmstadt,Germany,ELECTRIC,13,19,71.2,21,58.3,3,144.0,11,55.2,3,48.0,8,131.1,,,,,0.0,508.0
+Hochschule Hannover,Germany,COMBUSTION,14,28,60.9,29,52.5,34,48.74,26,36.7,13,33.6,22,76.9,10,161.8,14,23.2,0.0,494.0
+Tallinn TU UAS,Estonia,ELECTRIC,15,9,84.8,11,65.6,17,96.57,2,71.4,17,24.9,7,131.6,,,,,0.0,475.0
+University of Belgrade,Serbia,COMBUSTION,16,29,59.8,21,58.3,27,71.74,20,44.3,26,10.6,22,76.9,14,120.2,11,32.9,0.0,475.0
+Technische Universität Wien,Austria,COMBUSTION,17,22,69.3,13,64.9,6,135.0,21,42.3,14,33.3,12,115.2,,,,,0.0,460.0
+John von Neumann University,Hungary,COMBUSTION,18,30,55.3,30,49.6,28,68.06,13,52.0,22,20.5,16,90.2,15,111.8,16,7.0,0.0,454.0
+Brno University of Technology,Czech Republic,COMBUSTION,19,10,84.3,20,61.3,14,107.61,29,24.8,8,40.9,13,114.7,,,,,0.0,434.0
+TAMK University of Applied Sciences,Finland,COMBUSTION,20,36,35.4,36,15.5,21,81.85,14,50.5,20,23.3,18,86.8,16,80.7,10,34.5,0.0,408.0
+Fachhochschule Konstanz,Germany,COMBUSTION,21,14,80.7,4,72.0,25,73.58,6,60.0,18,24.7,15,92.3,,,,,0.0,403.0
+University of Huddersfield,United Kingdom,COMBUSTION,22,3,94.3,9,67.8,22,80.01,27,32.8,19,23.4,17,87.8,,,,,0.0,386.0
+University of Zagreb,Croatia,COMBUSTION,23,6,88.0,10,67.1,20,82.77,18,45.3,25,13.4,29,54.0,,,,,0.0,351.0
+University of Southern Denmark,Denmark,ELECTRIC,24,8,85.3,18,62.0,33,56.1,25,39.0,11,34.9,26,66.8,,,,,0.0,344.0
+Czech University of Life Sciences Prague,Czech Republic,COMBUSTION,25,35,51.2,23,56.9,22,80.01,15,48.9,24,14.9,25,68.3,,,,,0.0,320.0
+Czech Technical University in Prague,Czech Republic,ELECTRIC,26,27,65.3,34,40.1,19,86.45,28,30.3,16,26.5,27,60.6,,,,,0.0,309.0
+Białystok University of Technology,Poland,COMBUSTION,27,23,68.4,11,65.6,32,57.02,30,24.3,27,8.8,20,79.3,,,,,0.0,304.0
+University of West Bohemia,Czech Republic,COMBUSTION,28,21,70.0,37,2.5,28,68.06,23,39.9,21,22.9,19,86.3,,,,,0.0,290.0
+Slovak University of Technology in Bratislava,Slovakia,ELECTRIC,29,24,67.4,14,64.2,35,45.99,17,45.8,28,2.5,28,58.2,,,,,0.0,284.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,ELECTRIC,30,15,80.0,2,74.0,12,110.36,,,,,,,,,,,0.0,264.0
+Helsinki Metropolia University of Applied Sciences,Finland,ELECTRIC,31,20,70.2,26,54.7,9,126.0,,,,,,,,,,,0.0,251.0
+Gheorghe Asachi Technical University of Iaşi,Romania,COMBUSTION,32,33,51.5,30,49.6,25,73.58,24,39.1,28,2.5,30,32.4,,,,,0.0,249.0
+AGH University of Science and Technology,Poland,COMBUSTION,33,16,78.0,25,56.1,31,67.14,31,16.5,28,2.5,32,7.5,,,,,0.0,228.0
+Moscow State Automobile & Road Technical University - MADI,Russia,COMBUSTION,34,34,51.4,28,53.2,24,78.18,,,,,,,,,,,0.0,183.0
+Brandenburgische Technische Universität Cottbus,Germany,COMBUSTION,35,31,54.8,32,45.2,28,68.06,,,,,,,,,,,0.0,168.0
+Warsaw University of Technology,Poland,COMBUSTION,36,32,54.5,33,43.8,36,29.43,,,28,2.5,31,9.1,,,,,0.0,139.0
+Odessa Polytechnic National State University,Ukraine,COMBUSTION,37,,,35,23.3,37,13.8,,,,,,,,,,,0.0,37.0

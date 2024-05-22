@@ -1,0 +1,31 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Universität Stuttgart,Germany,ELECTRIC,1,16,62.0,3,72.0,5,141.9,1,75.0,1,75.0,1,100.0,1,325.0,1,100.0,0.0,951.0
+Technische Universität Hamburg,Germany,ELECTRIC,2,12,69.0,25,33.9,10,128.9,10,20.8,5,41.3,8,28.6,2,183.3,2,79.6,0.0,585.0
+Duale Hochschule Baden-Württemberg Stuttgart,Germany,ELECTRIC,3,3,83.0,12,60.3,17,104.8,2,70.6,2,56.2,3,75.8,,,,,0.0,451.0
+Tallinn TU UAS,Estonia,ELECTRIC,4,10,73.0,13,59.7,6,138.5,4,60.8,10,36.6,2,78.9,,,,,0.0,448.0
+TU Delft,Netherlands,ELECTRIC,5,8,79.0,6,68.8,4,142.4,3,64.3,4,45.3,6,43.0,,,,,0.0,443.0
+Fachhochschule Joanneum Graz,Austria,ELECTRIC,6,4,82.0,1,75.0,2,146.5,13,3.5,9,38.5,5,43.9,,,,,0.0,389.0
+ETH Zürich,Switzerland,ELECTRIC,7,17,61.0,9,65.1,1,149.0,9,25.2,7,41.0,7,34.2,,,,,-10.0,366.0
+Technische Universität Graz,Austria,ELECTRIC,8,28,39.0,5,69.0,9,131.4,11,11.3,8,40.3,4,55.8,,,,,-20.0,327.0
+Budapest University of Technology and Economics,Hungary,ELECTRIC,9,8,79.0,23,39.6,15,105.9,6,55.4,3,54.6,,,3,25.0,,,-40.0,319.0
+Chalmers University of Technology,Sweden,ELECTRIC,10,18,59.0,28,13.7,12,120.2,7,53.4,5,41.3,9,24.9,,,,,0.0,312.0
+Technische Universität Wien,Austria,ELECTRIC,11,7,80.0,19,44.1,8,131.8,5,59.2,16,3.5,,,,,,,-10.0,309.0
+Technical University of Munich,Germany,ELECTRIC,12,12,69.0,4,71.0,7,133.7,,,13,21.9,,,,,,,0.0,296.0
+Technische Universität Dresden,Germany,ELECTRIC,13,5,81.0,10,63.8,11,127.3,,,,,,,,,,,0.0,272.0
+Leopold-Franzens-Universität Innsbruck,Austria,ELECTRIC,14,27,42.0,11,62.1,13,112.1,13,3.5,11,31.7,12,4.5,,,,,-10.0,246.0
+Aristotle University of Thessaloniki,Greece,ELECTRIC,15,21,53.0,8,66.5,20,89.1,,,,,12,4.5,3,25.0,,,0.0,238.0
+Technische Hochschule Augsburg,Germany,ELECTRIC,16,30,37.0,20,43.3,23,76.6,8,46.9,12,23.0,12,4.5,,,,,0.0,231.0
+K. J. Somaiya College of Engineering,India,ELECTRIC,17,2,86.0,16,50.3,19,89.4,,,,,,,,,,,0.0,226.0
+Rheinisch-Westfälische Technische Hochschule Aachen,Germany,ELECTRIC,18,1,87.0,2,74.0,3,144.2,,,,,,,,,,,-85.0,220.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,ELECTRIC,19,21,53.0,15,52.1,16,105.7,,,,,11,5.9,,,,,0.0,217.0
+University of Patras,Greece,ELECTRIC,20,15,64.0,22,41.0,14,109.4,,,,,,,,,,,-10.0,204.0
+Duale Hochschule Baden-Württemberg - Mannheim,Germany,ELECTRIC,21,10,73.0,18,45.3,21,83.8,13,3.5,15,3.9,12,4.5,,,,,-10.0,204.0
+Universität Siegen,Germany,ELECTRIC,22,20,54.0,17,47.3,18,90.3,13,3.5,16,3.5,10,12.5,,,,,-10.0,201.0
+Fachhochschule für Wirtschaft und Technik,Germany,ELECTRIC,23,19,58.0,7,66.9,24,75.7,,,,,,,,,,,-10.0,191.0
+Technische Hochschule Ingolstadt,Germany,ELECTRIC,24,5,81.0,26,27.2,25,74.1,,,,,,,,,,,0.0,182.0
+Fachhochschule Konstanz,Germany,ELECTRIC,25,24,47.0,24,34.8,22,78.4,,,14,7.6,12,4.5,,,,,0.0,172.0
+Ruhr-Universität Bochum,Germany,ELECTRIC,26,14,65.0,21,42.4,26,64.2,,,,,,,,,,,-10.0,162.0
+University of Ljubljana,Slovenia,ELECTRIC,27,23,52.0,29,10.1,27,60.9,12,5.0,16,3.5,12,4.5,,,,,-10.0,126.0
+Ghent University,Belgium,ELECTRIC,28,26,43.0,14,57.2,28,36.9,,,,,,,,,,,-20.0,117.0
+Slovak University of Technology in Bratislava,Slovakia,ELECTRIC,29,25,45.0,27,14.3,29,33.9,,,,,,,,,,,-10.0,83.0
+Fachhochschule Osnabrück,Germany,ELECTRIC,30,28,39.0,30,4.7,30,32.9,,,,,,,,,,,-40.0,37.0

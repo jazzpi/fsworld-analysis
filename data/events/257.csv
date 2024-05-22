@@ -1,0 +1,15 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Hochschule Esslingen,Germany,COMBUSTION,1,1,100.0,10,42.8,1,150.0,3,65.4,1,75.0,1,100.0,1,325.0,2,77.1,0.0,935.0
+Fachhochschule Coburg,Germany,COMBUSTION,2,6,76.6,8,49.1,6,93.5,1,75.0,7,30.7,4,61.8,2,315.4,3,72.3,-20.0,754.0
+Budapest University of Technology and Economics,Hungary,COMBUSTION,3,7,75.5,2,74.0,3,136.0,9,48.6,5,32.8,5,56.5,4,226.0,1,100.0,0.0,750.0
+Czech University of Life Sciences Prague,Czech Republic,COMBUSTION,4,5,80.9,6,50.2,10,79.6,5,59.3,4,38.7,6,52.3,3,246.6,5,15.1,0.0,623.0
+Rzeszów University of Technology,Poland,COMBUSTION,5,4,92.6,3,71.0,8,83.8,6,55.8,10,26.0,8,39.9,5,178.6,,,0.0,548.0
+Czech Technical University in Prague,Czech Republic,COMBUSTION,6,2,98.9,7,49.6,4,128.8,2,74.5,2,55.8,3,76.1,,,,,0.0,484.0
+Universität Stuttgart,Germany,COMBUSTION,7,3,97.9,9,48.1,2,143.0,4,61.3,3,45.6,2,85.3,,,,,-50.0,431.0
+VŠB - Technical University of Ostrava,Czech Republic,COMBUSTION,8,9,64.9,1,75.0,5,102.5,8,51.3,8,26.8,10,24.8,,,,,-48.0,297.0
+Gdańsk University of Technology,Poland,COMBUSTION,9,8,69.1,12,33.4,11,74.8,12,44.4,6,31.3,7,47.2,,,,,-33.0,267.0
+University of Maribor,Slovenia,COMBUSTION,10,12,37.2,4,70.0,7,91.8,10,47.2,9,26.3,11,4.5,,,,,-20.0,257.0
+Universitatea Transilvania din Braşov,Romania,COMBUSTION,11,10,63.8,14,14.7,9,81.2,7,52.5,11,3.5,9,26.9,,,,,0.0,243.0
+University of Split,Croatia,COMBUSTION,12,11,38.3,5,55.4,13,52.0,11,44.7,,,11,4.5,,,,,0.0,195.0
+University of Rijeka,Croatia,COMBUSTION,13,,,11,35.5,12,60.5,13,3.5,,,11,4.5,6,25.0,4,16.9,0.0,146.0
+Gheorghe Asachi Technical University of Iaşi,Romania,COMBUSTION,14,13,27.7,13,31.4,14,30.5,13,3.5,11,3.5,11,4.5,,,,,0.0,101.0

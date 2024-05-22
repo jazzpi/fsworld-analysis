@@ -1,0 +1,16 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Sophia University,Japan,COMBUSTION,1,9,52.1,2,73.5,1,116.0,1,75.0,12,2.5,1,150.0,2,356.01,,,0.0,825.0
+Kokushikan University,Japan,COMBUSTION,2,5,65.7,5,63.6,2,115.0,6,34.75,3,48.5,4,97.39,1,390.41,,,0.0,815.0
+The University of Tokyo,Japan,COMBUSTION,3,12,43.5,1,75.0,9,77.0,11,11.08,6,38.13,2,113.56,3,345.51,,,0.0,704.0
+Kanagawa Institute of Technology,Japan,COMBUSTION,4,6,58.5,2,73.5,2,115.0,8,23.09,2,49.25,10,54.12,6,201.87,,,0.0,575.0
+Utsunomiya University,Japan,COMBUSTION,5,8,56.9,4,70.6,4,98.0,5,35.64,1,50.0,3,111.02,9,134.72,,,0.0,557.0
+Kanazawa University,Japan,COMBUSTION,6,3,69.7,5,63.6,12,66.0,12,2.5,7,26.65,12,24.47,4,271.88,,,0.0,525.0
+"College of Science and Technology, Nihon University",Japan,COMBUSTION,7,11,46.1,10,47.3,6,92.0,2,47.14,12,2.5,11,49.26,5,235.54,,,0.0,520.0
+Meijo University,Japan,COMBUSTION,8,10,50.2,9,52.2,11,74.0,12,2.5,11,3.46,13,23.63,8,193.55,,,0.0,400.0
+Tokyo Denki University,Japan,COMBUSTION,9,1,84.5,7,60.4,5,97.0,9,16.78,5,43.04,6,87.66,,,,,0.0,389.0
+Kanazawa Institute of Technology,Japan,COMBUSTION,10,2,74.0,8,55.5,6,92.0,4,38.81,9,13.34,5,90.33,,,,,0.0,364.0
+Tokyo Metropolitan College of Industrial Technology,Japan,COMBUSTION,11,7,57.6,11,45.6,10,75.0,2,47.14,8,16.45,9,55.45,10,1.21,,,0.0,298.0
+Nagoya Institute of Technology,Japan,COMBUSTION,12,4,69.5,12,41.2,8,84.0,10,12.3,10,10.31,8,56.52,,,,,0.0,274.0
+Tokyo City University,Japan,COMBUSTION,13,14,20.7,13,36.8,15,20.0,7,28.87,4,45.56,7,73.25,,,,,0.0,225.0
+Doshisha University,Japan,COMBUSTION,14,15,-100.0,14,23.5,13,53.0,12,2.5,12,2.5,,,7,199.0,,,0.0,180.0
+Keio University,Japan,COMBUSTION,15,13,32.0,15,19.1,14,52.0,12,2.5,12,2.5,14,7.5,,,,,0.0,116.0

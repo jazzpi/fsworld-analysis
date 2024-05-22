@@ -1,0 +1,17 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Hochschule Bonn-Rhein-Sieg,Germany,ELECTRIC,1,3,95.0,12,54.7,1,150.0,1,75.0,4,56.2,6,58.7,2,249.3,5,79.9,0.0,819.0
+Czech Technical University in Prague,Czech Republic,ELECTRIC,2,7,81.1,6,65.0,9,89.0,,,,,1,100.0,1,325.0,6,67.0,0.0,727.0
+GFR DHBW Ravensburg & Oregon State University,Bermuda,ELECTRIC,3,8,78.9,5,65.4,3,128.0,,,,,8,41.8,3,219.0,3,84.5,0.0,618.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,ELECTRIC,4,12,68.9,3,66.1,4,125.0,4,41.7,3,61.1,3,90.0,5,57.6,2,88.4,0.0,599.0
+UAS Würzburg-Schweinfurt,Germany,ELECTRIC,5,9,78.4,8,59.4,16,16.0,5,36.4,,,7,58.3,4,160.0,4,82.4,0.0,491.0
+University of Seville,Spain,ELECTRIC,6,5,89.2,9,59.0,9,89.0,8,3.5,6,30.0,9,12.6,6,25.0,1,100.0,0.0,408.0
+University of Ljubljana,Slovenia,ELECTRIC,7,15,54.4,15,52.0,12,82.0,3,49.9,2,71.7,4,79.1,,,,,0.0,389.0
+Escola Tècnica Superior d,Spain,ELECTRIC,8,10,74.4,4,66.0,7,120.0,2,53.1,1,75.0,2,99.0,,,,,-100.0,388.0
+University of the Basque Country,Spain,ELECTRIC,9,1,96.3,10,56.9,6,121.0,6,25.3,5,55.9,,,,,,,0.0,355.0
+Chalmers University of Technology,Sweden,ELECTRIC,10,4,90.0,7,61.6,4,125.0,,,,,,,,,,,0.0,277.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,Germany,ELECTRIC,11,2,95.3,,,13,75.0,7,12.1,,,5,69.5,,,,,0.0,252.0
+Politecnico di Torino,Italy,ELECTRIC,12,13,63.3,13,52.8,2,134.0,,,,,,,,,,,0.0,250.0
+Technische Universität Chemnitz,Germany,ELECTRIC,13,6,88.2,1,73.0,11,88.0,,,,,,,,,,,0.0,249.0
+TECNUN - University of Navarra,Spain,ELECTRIC,14,11,72.6,14,52.4,8,92.0,,,,,,,,,,,0.0,217.0
+Universidad Pontificia Comillas,Spain,ELECTRIC,15,16,36.7,2,69.0,14,61.0,,,,,,,,,,,-100.0,67.0
+Universidad de Oviedo,Spain,ELECTRIC,16,14,55.6,11,55.8,15,49.0,,,,,,,,,,,-100.0,60.0

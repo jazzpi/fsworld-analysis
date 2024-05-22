@@ -1,0 +1,18 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Fachhochschule Joanneum Graz,Austria,COMBUSTION,1,3,98.39,1,75.0,2,148.91,9,57.87,5,61.96,3,113.92,1,275.0,1,100.0,0.0,931.0
+University of Modena and Reggio Emilia,Italy,COMBUSTION,2,10,70.18,8,37.9,5,138.04,1,100.0,3,65.74,2,124.34,2,265.56,6,71.15,0.0,873.0
+Università degli studi di Padova,Italy,COMBUSTION,3,5,87.93,3,55.05,4,139.13,4,76.98,1,75.0,1,125.0,3,220.15,5,72.64,0.0,852.0
+Alma Mater Studiorum - Università di Bologna,Italy,COMBUSTION,4,2,99.64,4,49.47,1,150.0,3,86.4,9,39.2,5,109.65,5,200.71,3,83.47,0.0,819.0
+Wroclaw University of Technology,Poland,COMBUSTION,5,12,61.53,4,49.47,7,122.83,5,72.66,4,64.49,6,98.29,4,208.5,8,66.36,0.0,744.0
+Czech Technical University in Prague,Czech Republic,COMBUSTION,6,4,91.33,7,38.3,8,121.74,2,93.25,6,61.05,4,111.17,14,1.0,,,0.0,518.0
+Università di Pisa,Italy,COMBUSTION,7,1,100.0,2,61.44,11,111.96,15,13.62,13,15.18,11,64.32,8,64.94,7,66.53,0.0,498.0
+Università della Calabria,Italy,COMBUSTION,8,7,82.41,11,14.36,14,68.48,12,46.55,12,16.37,13,42.62,7,117.32,2,85.56,0.0,474.0
+Marche Polytechnic University,Italy,COMBUSTION,9,6,85.71,6,44.68,3,140.22,7,62.16,8,40.4,9,79.71,,,,,0.0,453.0
+Czech University of Life Sciences Prague,Czech Republic,COMBUSTION,10,16,9.38,10,24.73,10,118.48,8,61.09,14,3.5,8,90.1,6,137.72,4,76.63,-100.0,422.0
+Białystok University of Technology,Poland,COMBUSTION,11,15,38.84,16,4.79,9,120.65,6,66.42,2,66.21,7,96.47,11,14.0,,,0.0,407.0
+UAS Kempten,Germany,COMBUSTION,12,8,81.08,9,30.72,6,135.87,14,19.32,14,3.5,15,14.99,10,34.73,10,32.5,0.0,353.0
+Università degli Studi di Roma Tor Vergata,Italy,COMBUSTION,13,11,66.37,13,9.57,12,93.48,10,50.81,11,27.0,10,72.76,13,4.0,,,0.0,324.0
+Gdańsk University of Technology,Poland,COMBUSTION,14,13,44.97,14,6.38,13,81.52,11,47.7,10,30.28,12,62.85,9,43.24,9,57.81,-60.0,315.0
+Escola Politècnica Superior d,Spain,COMBUSTION,15,9,80.29,15,5.59,15,61.96,13,24.16,7,40.84,14,24.86,12,13.0,,,0.0,251.0
+University of Kocaeli,Turkey,COMBUSTION,16,,,16,3.19,,,,,,,,,,,,,0.0,3.0
+Politecnico di Bari,Italy,COMBUSTION,17,,,17,1.6,,,,,,,,,,,,,0.0,2.0

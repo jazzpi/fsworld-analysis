@@ -1,0 +1,17 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+TU Delft,Netherlands,ELECTRIC,1,4,85.0,2,74.0,1,150.0,3,71.75,3,59.64,2,95.49,1,325.0,1,100.0,0.0,961.0
+Tallinn TU UAS,Estonia,ELECTRIC,2,1,97.5,8,58.88,3,134.0,2,74.04,2,66.42,3,58.92,2,310.52,3,94.9,0.0,895.0
+Technische Universität Bergakademie Freiberg,Germany,ELECTRIC,3,2,95.5,5,71.0,6,103.5,7,36.13,4,46.16,4,51.68,3,287.4,4,93.28,0.0,785.0
+Rheinisch-Westfälische Technische Hochschule Aachen,Germany,ELECTRIC,4,5,82.0,4,72.0,5,118.0,5,51.25,7,32.61,6,49.57,5,196.87,2,96.38,0.0,699.0
+Aristotle University of Thessaloniki,Greece,ELECTRIC,5,8,60.2,12,49.35,10,86.0,6,47.21,8,24.27,8,4.5,4,206.09,5,91.16,0.0,569.0
+Universität Stuttgart,Germany,ELECTRIC,6,3,89.0,3,73.0,2,142.0,1,75.0,1,75.0,1,100.0,,,,,0.0,554.0
+Czech Technical University in Prague,Czech Republic,ELECTRIC,7,6,67.3,1,75.0,7,95.0,4,66.25,5,41.21,5,50.35,,,,,0.0,395.0
+Université Laval,Canada,ELECTRIC,8,13,38.0,13,48.49,4,126.0,,,,,,,,,,,0.0,212.0
+University of Ljubljana,Slovenia,ELECTRIC,9,15,12.5,15,43.29,12,64.5,8,24.38,6,32.79,7,21.6,,,,,0.0,199.0
+Budapest University of Technology and Economics,Hungary,ELECTRIC,10,10,56.8,11,51.09,8,91.0,,,,,,,,,,,0.0,199.0
+Technische Universität Wien,Austria,ELECTRIC,11,11,54.2,9,53.68,9,88.0,,,,,,,,,,,0.0,196.0
+Leibniz Universität Hannover,Germany,ELECTRIC,12,7,63.7,9,53.68,13,60.0,,,,,,,,,,,0.0,177.0
+Hochschule Mannheim,Germany,ELECTRIC,13,9,59.0,6,64.07,15,49.0,,,,,,,,,,,0.0,172.0
+Slovak University of Technology in Bratislava,Slovakia,ELECTRIC,14,12,44.1,14,45.89,14,57.0,,,,,,,,,,,0.0,147.0
+AGH University of Science and Technology,Poland,ELECTRIC,15,14,22.3,16,26.84,11,73.0,,,,,,,,,,,0.0,122.0
+Dwarkadas. J. Sanghvi College of Engineering,India,ELECTRIC,16,16,9.0,7,61.48,16,8.0,,,,,,,,,,,0.0,78.0

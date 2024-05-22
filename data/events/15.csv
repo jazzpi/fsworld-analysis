@@ -1,0 +1,112 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Wollongong,Australia,COMBUSTION,1,7,85.74,4,72.79,1,150.0,26,47.79,7,32.07,7,126.29,1,380.44,,,0.0,895.0
+University of Missouri,United States,COMBUSTION,2,3,87.25,6,69.53,2,145.0,9,59.16,10,31.01,1,150.0,3,340.96,,,0.0,883.0
+Michigan State University,United States,COMBUSTION,3,1,96.36,12,63.73,9,120.0,6,65.74,3,43.52,4,136.66,2,349.69,,,0.0,876.0
+Georgia Institute of Technology,United States,COMBUSTION,4,14,82.95,2,74.69,4,140.0,13,54.06,13,28.29,12,120.42,7,309.65,,,0.0,810.0
+Auburn University,United States,COMBUSTION,5,64,70.33,17,59.92,5,125.0,33,44.57,35,13.03,16,112.58,4,340.54,,,0.0,766.0
+Virginia Polytechnic Institute and State University,United States,COMBUSTION,6,25,80.26,14,62.87,43,80.0,12,54.11,18,25.78,14,117.79,5,329.3,,,0.0,750.0
+University of Minnesota Twin Cities,United States,COMBUSTION,7,86,59.91,91,30.66,15,100.0,22,49.46,17,26.06,12,120.42,6,315.78,,,0.0,702.0
+North Carolina State University,United States,COMBUSTION,8,48,75.54,15,62.82,15,100.0,42,39.64,19,25.71,19,107.68,8,281.56,,,0.0,693.0
+Cornell University,United States,COMBUSTION,9,41,77.4,7,68.52,2,145.0,3,69.27,8,31.74,33,82.64,14,212.7,,,0.0,687.0
+"California State University, Northridge",United States,COMBUSTION,10,22,81.03,30,54.65,15,100.0,28,46.28,51,5.27,23,94.36,10,268.52,,,0.0,650.0
+Oklahoma State University - Stillwater,United States,COMBUSTION,11,13,83.05,24,56.36,15,100.0,46,35.06,34,14.14,39,73.69,11,253.02,,,0.0,615.0
+Rochester Institute of Technology,United States,COMBUSTION,12,2,89.16,20,57.98,15,100.0,19,50.93,42,10.38,29,86.05,15,198.18,,,0.0,593.0
+Oakland University,United States,COMBUSTION,13,6,85.86,79,36.49,43,80.0,16,53.13,29,16.03,41,68.0,12,245.24,,,0.0,585.0
+Université du Québec à Trois-Rivières,Canada,COMBUSTION,14,16,82.52,59,43.09,9,120.0,54,30.37,26,18.93,26,90.09,17,189.21,,,0.0,574.0
+"California State Polytechnic University, Pomona",United States,COMBUSTION,15,55,74.57,35,53.47,15,100.0,33,44.57,27,17.55,9,122.29,27,122.62,,,0.0,535.0
+Milwaukee School of Engineering,United States,COMBUSTION,16,88,59.0,96,26.87,71,60.0,41,39.77,16,26.19,58,41.72,9,272.54,,,0.0,526.0
+University of Kansas,United States,COMBUSTION,17,67,68.07,11,64.82,15,100.0,50,33.08,56,2.5,31,84.19,20,158.26,,,0.0,511.0
+Dartmouth College,United States,COMBUSTION,18,33,78.87,12,63.73,90,40.0,55,30.25,31,14.88,34,81.76,16,192.2,,,0.0,502.0
+University of Southern California,United States,COMBUSTION,19,62,71.38,50,45.55,71,60.0,30,44.88,54,3.53,55,45.94,13,226.71,,,0.0,498.0
+University of Washington,United States,COMBUSTION,20,42,76.82,1,75.0,5,125.0,4,66.89,20,25.12,6,128.86,,,,,0.0,498.0
+California State Polytechnic University - San Luis Obispo,United States,COMBUSTION,21,38,77.99,63,42.17,15,100.0,18,51.88,53,3.84,36,77.43,24,130.53,,,0.0,484.0
+Iowa State University,United States,COMBUSTION,22,10,83.8,21,57.74,15,100.0,20,50.36,55,3.06,54,54.63,23,131.58,,,0.0,481.0
+Ryerson University,Canada,COMBUSTION,23,96,55.02,66,41.59,43,80.0,40,40.11,41,10.63,17,110.5,21,134.65,,,0.0,472.0
+University of Texas at Arlington,United States,COMBUSTION,24,79,63.53,18,58.94,15,100.0,7,63.97,11,29.41,2,149.34,,,,,0.0,465.0
+The Ohio State University,United States,COMBUSTION,25,4,86.81,3,74.57,15,100.0,1,75.0,21,24.28,21,96.96,,,,,0.0,458.0
+Texas A&M University,United States,COMBUSTION,26,57,73.76,5,69.72,15,100.0,29,45.33,22,23.07,3,143.06,,,,,0.0,455.0
+University of Waterloo,Canada,COMBUSTION,27,49,75.49,19,58.01,5,125.0,2,70.17,4,42.01,37,76.95,,,,,0.0,448.0
+University of Wisconsin-Madison,United States,COMBUSTION,28,9,85.38,28,55.14,15,100.0,39,41.44,1,50.0,20,107.53,,,,,0.0,439.0
+Monroe County Community College,United States,COMBUSTION,29,27,79.86,46,47.72,90,40.0,37,42.62,37,12.81,57,44.64,18,170.05,,,0.0,438.0
+Clemson University,United States,COMBUSTION,30,5,85.98,25,56.24,43,80.0,24,48.39,56,2.5,71,19.57,26,127.01,,,0.0,420.0
+University of Toledo,United States,COMBUSTION,31,17,82.51,61,42.82,15,100.0,25,47.93,50,6.17,41,68.0,30,66.78,,,0.0,414.0
+University of Michigan - Ann Arbor,United States,COMBUSTION,32,18,82.05,47,47.5,15,100.0,43,38.45,12,28.41,15,116.79,,,,,0.0,413.0
+The University of Akron,United States,COMBUSTION,33,26,80.01,89,31.14,9,120.0,23,48.72,25,19.71,18,110.23,,,,,0.0,410.0
+Missouri University of Science and Technology,United States,COMBUSTION,34,73,66.11,9,66.06,9,120.0,36,43.06,23,21.97,28,89.33,,,,,0.0,407.0
+University of North Carolina at Charlotte,United States,COMBUSTION,35,80,63.45,68,40.78,15,100.0,5,66.29,39,11.74,10,122.16,,,,,0.0,404.0
+McGill University,Canada,COMBUSTION,36,23,80.51,49,46.58,15,100.0,64,19.98,30,15.71,5,130.25,,,,,0.0,393.0
+University of Illinois at Urbana-Champaign,United States,COMBUSTION,37,50,75.23,48,47.23,9,120.0,10,54.59,56,2.5,25,91.7,,,,,0.0,391.0
+Helsinki Metropolia University of Applied Sciences,Finland,COMBUSTION,38,74,66.0,27,55.21,43,80.0,35,43.46,24,21.7,8,124.65,,,,,0.0,391.0
+Clarkson University,United States,COMBUSTION,39,59,72.15,68,40.78,43,80.0,67,17.14,49,7.53,53,56.38,28,112.47,,,0.0,386.0
+École Polytechnique de Montréal,Canada,COMBUSTION,40,35,78.3,72,38.87,15,100.0,51,32.09,14,27.77,27,89.8,,,,,0.0,367.0
+University of Colorado at Boulder,United States,COMBUSTION,41,58,73.25,60,43.0,43,80.0,65,19.74,56,2.5,46,64.5,29,83.43,,,0.0,366.0
+Lawrence Technological University,United States,COMBUSTION,42,97,54.66,36,52.45,43,80.0,8,60.7,9,31.18,30,84.27,,,,,0.0,363.0
+University of Toronto,Canada,COMBUSTION,43,20,81.57,40,50.1,14,115.0,15,53.23,35,13.03,56,45.53,,,,,0.0,358.0
+Western University,Canada,COMBUSTION,44,46,75.78,44,49.25,71,60.0,45,36.83,46,9.37,11,121.98,,,,,0.0,353.0
+Oregon State University,United States,COMBUSTION,45,76,65.16,30,54.65,43,80.0,17,52.7,45,9.56,32,83.05,,,,,0.0,345.0
+University of Pittsburgh,United States,COMBUSTION,46,37,78.07,55,44.89,71,60.0,27,47.52,32,14.65,22,95.16,,,,,0.0,340.0
+University of Guelph,Canada,COMBUSTION,47,78,64.16,81,35.16,43,80.0,21,50.22,6,33.77,38,76.69,,,,,0.0,340.0
+Brown University,United States,COMBUSTION,48,12,83.31,40,50.1,15,100.0,48,34.29,33,14.51,52,57.07,,,,,0.0,339.0
+South Dakota School of Mines and Technology,United States,COMBUSTION,49,110,-14.18,42,49.93,15,100.0,57,29.67,56,2.5,74,7.5,19,163.44,,,0.0,339.0
+Yeungnam University College,South Korea,COMBUSTION,50,69,66.74,88,31.39,71,60.0,44,37.91,56,2.5,74,7.5,25,128.4,,,0.0,334.0
+Rensselaer Polytechnic Institute,United States,COMBUSTION,51,66,68.87,10,65.59,43,80.0,47,34.94,,,35,78.49,,,,,0.0,328.0
+University of Oklahoma,United States,COMBUSTION,52,11,83.69,39,50.77,15,100.0,53,30.76,56,2.5,50,59.5,,,,,0.0,327.0
+Kettering University,United States,COMBUSTION,53,70,66.6,26,55.66,5,125.0,68,16.8,44,9.75,62,39.64,,,,,0.0,313.0
+University of Idaho,United States,COMBUSTION,54,43,76.8,37,52.38,90,40.0,31,44.75,5,34.1,51,59.28,,,,,0.0,307.0
+Tokyo Denki University,Japan,COMBUSTION,55,52,75.0,76,37.72,15,100.0,61,25.71,15,27.33,60,41.01,,,,,0.0,307.0
+Pennsylvania State University,United States,COMBUSTION,56,47,75.75,95,27.36,43,80.0,11,54.55,56,2.5,44,66.61,,,,,0.0,307.0
+LeTourneau University,United States,COMBUSTION,57,82,62.53,72,38.87,15,100.0,56,29.91,43,10.11,48,62.34,,,,,0.0,304.0
+University of Delaware,United States,COMBUSTION,58,30,79.1,70,39.26,43,80.0,49,34.01,48,8.01,49,59.76,,,,,0.0,300.0
+University of Alberta,Canada,COMBUSTION,59,99,52.83,33,53.95,90,40.0,74,3.5,56,2.5,74,7.5,22,133.59,,,0.0,294.0
+University of Texas at Austin,United States,COMBUSTION,60,36,78.26,72,38.87,15,100.0,32,44.7,52,3.97,67,26.6,,,,,0.0,292.0
+University of Florida,United States,COMBUSTION,61,31,78.95,75,38.63,15,100.0,,,,,40,70.38,,,,,0.0,288.0
+University of New Mexico,United States,COMBUSTION,62,93,56.3,87,31.79,71,60.0,14,53.52,38,12.02,45,65.81,,,,,0.0,279.0
+University of Cincinnati,United States,COMBUSTION,63,32,78.94,23,57.3,43,80.0,38,41.75,47,8.5,73,9.58,,,,,0.0,276.0
+Queen,Canada,COMBUSTION,64,15,82.68,38,52.27,15,100.0,,,,,59,41.1,,,,,0.0,276.0
+University of British Columbia - Vancouver,Canada,COMBUSTION,65,24,80.41,29,54.82,43,80.0,59,28.03,56,2.5,68,26.3,,,,,0.0,272.0
+Universidad Simón Bolívar,Venezuela,COMBUSTION,66,56,73.9,34,53.88,15,100.0,,,,,63,33.95,,,,,0.0,262.0
+Lehigh University,United States,COMBUSTION,67,92,56.42,102,18.08,43,80.0,74,3.5,,,24,94.14,,,,,0.0,252.0
+Université du Québec à Chicoutimi,Canada,COMBUSTION,68,44,76.23,62,42.38,71,60.0,60,27.39,40,11.19,65,27.08,,,,,0.0,244.0
+Saginaw Valley State University,United States,COMBUSTION,69,21,81.08,16,62.03,15,100.0,,,,,,,,,,,0.0,243.0
+Northern Illinois University,United States,COMBUSTION,70,77,64.19,86,33.21,71,60.0,70,10.3,56,2.5,43,66.64,,,,,0.0,237.0
+Kennesaw State University,United States,COMBUSTION,71,54,74.92,64,41.91,71,60.0,66,19.36,28,16.35,70,22.07,,,,,0.0,235.0
+Kokushikan University,Japan,COMBUSTION,72,85,59.94,65,41.76,71,60.0,63,21.27,2,44.1,74,7.5,,,,,0.0,235.0
+Carleton University,Canada,COMBUSTION,73,34,78.61,8,67.9,43,80.0,,,,,74,7.5,,,,,0.0,234.0
+United States Air Force Academy,United States,COMBUSTION,74,103,49.38,57,44.21,43,80.0,62,24.17,56,2.5,64,32.32,,,,,0.0,233.0
+"California State University, Fresno",United States,COMBUSTION,75,89,58.58,99,26.06,43,80.0,,,,,47,63.53,,,,,0.0,228.0
+University of Puerto Rico,Puerto Rico,COMBUSTION,76,19,81.98,58,43.73,43,80.0,73,4.05,56,2.5,74,7.5,,,,,0.0,220.0
+University of Utah,United States,COMBUSTION,77,72,66.35,97,26.31,43,80.0,52,31.11,56,2.5,74,7.5,,,,,0.0,214.0
+Carnegie Mellon University,United States,COMBUSTION,78,65,69.19,56,44.73,71,60.0,71,9.25,56,2.5,69,26.24,,,,,0.0,212.0
+Purdue University - West Lafayette,United States,COMBUSTION,79,8,85.49,50,45.55,43,80.0,,,,,,,,,,,0.0,211.0
+Florida Institute of Technology,United States,COMBUSTION,80,83,62.32,83,33.91,43,80.0,58,28.6,56,2.5,,,,,,,0.0,207.0
+Bradley University,United States,COMBUSTION,81,81,62.97,93,28.27,71,60.0,72,4.66,56,2.5,61,40.32,,,,,0.0,199.0
+University of North Dakota,United States,COMBUSTION,82,75,65.58,90,30.79,43,80.0,69,10.55,56,2.5,74,7.5,,,,,0.0,197.0
+University of Calgary,Canada,COMBUSTION,83,61,72.11,80,35.59,43,80.0,,,,,74,7.5,,,,,0.0,195.0
+Université de Sherbrooke,Canada,COMBUSTION,84,63,70.86,67,41.0,43,80.0,,,,,,,,,,,0.0,192.0
+"Rutgers, The State University of New Jersey",United States,COMBUSTION,85,40,77.68,32,54.08,71,60.0,,,,,,,,,,,0.0,192.0
+University of Victoria,Canada,COMBUSTION,86,39,77.98,54,45.16,71,60.0,,,,,74,7.5,,,,,0.0,191.0
+Marquette University,United States,COMBUSTION,87,29,79.3,94,27.8,43,80.0,,,,,,,,,,,0.0,187.0
+University of Manitoba,Canada,COMBUSTION,88,51,75.17,45,47.78,71,60.0,,,,,,,,,,,0.0,183.0
+"California State University, Sacramento",United States,COMBUSTION,89,45,76.17,83,33.91,89,45.0,,,,,66,26.85,,,,,0.0,182.0
+United States Naval Academy,United States,COMBUSTION,90,89,58.58,43,49.68,71,60.0,74,3.5,56,2.5,74,7.5,,,,,0.0,182.0
+University of Central Florida,United States,COMBUSTION,91,28,79.8,53,45.25,90,40.0,,,,,74,7.5,,,,,0.0,173.0
+Duke University,United States,COMBUSTION,92,59,72.15,52,45.38,90,40.0,,,,,,,,,,,0.0,158.0
+Memorial University of Newfoundland,Canada,COMBUSTION,93,101,51.58,101,20.25,43,80.0,,,,,,,,,,,0.0,152.0
+South Dakota State University,United States,COMBUSTION,94,53,74.98,78,36.62,90,40.0,,,,,,,,,,,0.0,152.0
+Sophia University,Japan,COMBUSTION,95,102,49.9,22,57.64,90,40.0,,,,,,,,,,,0.0,148.0
+Tennessee Technological University,United States,COMBUSTION,96,100,51.98,77,37.06,90,40.0,,,,,,,,,,,0.0,129.0
+Massachusetts Institute of Technology,United States,COMBUSTION,97,107,40.44,82,34.68,88,50.0,,,,,,,,,,,0.0,125.0
+University of Windsor,Canada,COMBUSTION,98,87,59.25,71,38.89,103,20.0,,,,,,,,,,,0.0,118.0
+Kansas State University,United States,COMBUSTION,99,105,46.4,98,26.23,90,40.0,,,,,,,,,,,0.0,113.0
+Georgia Southern University,United States,COMBUSTION,100,91,57.69,103,13.36,90,40.0,,,,,,,,,,,0.0,111.0
+University of Wisconsin-Platteville,United States,COMBUSTION,101,84,60.15,,,90,40.0,,,,,74,7.5,,,,,0.0,108.0
+University of California Irvine,United States,COMBUSTION,102,71,66.54,,,90,40.0,,,,,,,,,,,0.0,107.0
+Colorado School of Mines,United States,COMBUSTION,103,94,56.01,100,23.73,103,20.0,,,,,,,,,,,0.0,100.0
+Portland State University,United States,COMBUSTION,104,68,68.05,92,30.46,,,,,,,,,,,,,0.0,99.0
+Worcester Polytechnic Institute,United States,COMBUSTION,105,95,55.68,,,,,74,3.5,56,2.5,72,18.99,,,,,0.0,81.0
+"California State University, Long Beach",United States,COMBUSTION,106,111,-22.38,85,33.79,71,60.0,,,,,,,,,,,0.0,71.0
+Temple University,United States,COMBUSTION,107,98,53.86,,,,,,,,,,,,,,,0.0,54.0
+Vanderbilt University,United States,COMBUSTION,108,104,47.5,,,,,,,,,,,,,,,0.0,48.0
+State University of New York at Buffalo,United States,COMBUSTION,109,106,44.28,,,,,,,,,,,,,,,0.0,44.0
+Western Michigan University,United States,COMBUSTION,110,108,23.34,,,,,,,,,,,,,,,0.0,23.0
+San Diego State University,United States,COMBUSTION,111,109,22.5,,,,,,,,,,,,,,,0.0,22.0

@@ -1,0 +1,19 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Rochester Institute of Technology,United States,COMBUSTION,1,1,81.4,9,64.8,1,150.0,1,75.0,2,35.6,3,147.2,4,316.3,3,31.3,0.0,902.0
+University of Wollongong,Australia,COMBUSTION,2,8,65.4,5,69.1,2,145.0,4,59.5,3,30.1,1,150.0,2,339.8,5,22.3,0.0,881.0
+University of Leeds,United Kingdom,COMBUSTION,3,2,75.3,6,68.5,7,122.0,5,43.8,1,50.0,4,141.5,1,350.0,4,26.0,0.0,877.0
+University of New South Wales,Australia,COMBUSTION,4,15,47.1,16,44.3,5,124.0,3,66.1,5,23.4,2,148.5,3,322.6,2,31.4,0.0,807.0
+University Of Hertfordshire,United Kingdom,COMBUSTION,5,7,67.2,2,73.2,3,144.0,9,26.9,9,1.8,8,62.5,10,137.0,1,50.0,0.0,562.0
+University of Tasmania,Australia,COMBUSTION,6,14,48.7,14,60.0,16,90.0,2,69.8,8,5.2,9,60.9,6,191.2,8,20.1,0.0,546.0
+Fachhochschule Stralsund,Germany,COMBUSTION,7,3,75.1,12,61.1,9,119.0,,,6,22.2,6,74.5,7,185.7,,,0.0,538.0
+University of Western Australia,Australia,COMBUSTION,8,5,70.0,7,66.4,8,121.0,11,20.3,4,23.9,10,47.1,9,166.3,6,22.0,0.0,537.0
+Australian National University,Australia,COMBUSTION,9,13,50.4,17,33.4,14,100.0,10,24.0,10,1.5,7,68.9,5,207.6,7,21.3,0.0,507.0
+University of Sydney,Australia,COMBUSTION,10,11,61.2,1,75.0,13,105.0,6,37.1,,,5,76.3,11,75.7,9,12.9,0.0,443.0
+Swinburne University of Technology,Australia,COMBUSTION,11,9,63.7,8,65.3,5,124.0,8,27.1,7,16.0,11,37.7,,,,,0.0,334.0
+"University of Technology, Sydney",Australia,COMBUSTION,12,12,59.1,15,44.6,15,95.0,,,,,,,12,67.0,10,10.9,0.0,277.0
+Monash University,Australia,COMBUSTION,13,10,61.8,3,70.6,4,128.0,,,,,,,,,,,0.0,260.0
+RMIT University,Australia,COMBUSTION,14,4,74.9,10,62.7,9,119.0,,,,,,,,,,,0.0,257.0
+University of Queensland,Australia,COMBUSTION,15,18,-100.0,13,60.2,11,112.0,,,,,,,8,177.0,11,1.8,0.0,251.0
+University of Melbourne,Australia,COMBUSTION,16,6,67.8,3,70.6,12,110.0,,,,,,,,,,,0.0,248.0
+Deakin University,Australia,COMBUSTION,17,17,25.9,11,62.6,18,80.0,7,33.7,,,,,,,,,0.0,202.0
+University of Adelaide,Australia,COMBUSTION,18,16,30.3,18,26.1,17,82.0,,,,,,,,,,,0.0,138.0

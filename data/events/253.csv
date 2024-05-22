@@ -1,0 +1,20 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Hochschule Karlsruhe,Germany,COMBUSTION,1,1,100.0,2,74.0,3,142.0,8,53.3,1,75.0,4,67.81,1,325.0,1,100.0,0.0,937.0
+Universität Stuttgart,Germany,COMBUSTION,2,2,92.35,3,73.0,1,150.0,4,58.9,3,64.45,2,94.29,2,316.85,2,67.23,0.0,917.0
+Széchenyi István University,Hungary,COMBUSTION,3,7,76.53,10,57.79,5,134.0,5,58.66,7,48.02,3,80.59,3,244.43,3,62.31,0.0,762.0
+Università degli studi di Padova,Italy,COMBUSTION,4,11,72.45,5,67.04,4,138.0,10,46.06,16,24.88,6,53.93,7,164.51,,,0.0,567.0
+Hochschule Esslingen,Germany,COMBUSTION,5,4,87.24,4,71.43,2,146.0,7,53.89,2,74.37,1,100.0,,,,,0.0,533.0
+Białystok University of Technology,Poland,COMBUSTION,6,17,37.24,17,35.13,18,58.5,2,67.58,11,35.44,9,44.68,4,232.64,,,0.0,511.0
+Ecole Nationale d,France,COMBUSTION,7,16,46.63,12,50.5,14,79.5,6,55.88,15,25.39,,,6,171.57,,,0.0,429.0
+Czech Technical University in Prague,Czech Republic,COMBUSTION,8,8,75.0,6,66.1,8,89.0,3,63.67,4,61.66,5,65.56,,,,,0.0,421.0
+Budapest University of Technology and Economics,Hungary,COMBUSTION,9,5,79.59,7,65.08,6,118.0,9,52.99,6,51.48,7,49.01,,,,,0.0,416.0
+Università degli Studi di Roma Tor Vergata,Italy,COMBUSTION,10,15,47.96,18,35.05,16,65.0,,,14,29.29,13,4.65,5,171.87,4,39.91,0.0,394.0
+University of Bath,United Kingdom,COMBUSTION,11,3,91.33,9,59.75,10,85.0,11,24.88,5,54.54,8,46.59,,,,,0.0,362.0
+University of Seville,Spain,COMBUSTION,12,9,74.59,1,75.0,7,115.0,13,11.36,9,39.49,11,25.12,,,,,0.0,341.0
+University of Modena and Reggio Emilia,Italy,COMBUSTION,13,12,66.33,13,47.99,9,88.5,1,75.0,10,39.46,10,30.91,,,,,-10.0,338.0
+Università di Pisa,Italy,COMBUSTION,14,6,77.45,8,61.16,12,83.0,,,13,32.74,14,4.5,,,,,0.0,259.0
+TAMK University of Applied Sciences,Finland,COMBUSTION,15,10,72.55,19,34.03,13,82.0,12,21.81,12,34.81,12,17.89,,,,,-20.0,243.0
+Aristotle University of Thessaloniki,Greece,COMBUSTION,16,14,57.24,15,46.01,11,84.0,,,8,41.35,,,,,,,0.0,229.0
+University of Maribor,Slovenia,COMBUSTION,17,12,66.33,16,37.48,15,69.0,,,,,,,,,,,0.0,173.0
+Universidad de Vigo,Spain,COMBUSTION,18,18,15.82,14,46.5,17,64.5,,,,,,,,,,,0.0,127.0
+John von Neumann University,Hungary,COMBUSTION,19,19,11.22,11,51.12,19,46.0,,,,,,,,,,,-20.0,88.0

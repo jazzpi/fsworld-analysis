@@ -1,0 +1,29 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Universität Stuttgart,Germany,COMBUSTION,1,1,93.11,1,75.0,2,140.0,3,73.3,2,73.74,1,100.0,1,325.0,1,100.0,0.0,980.0
+Fachhochschule Coburg,Germany,COMBUSTION,2,9,56.14,13,56.58,10,104.0,5,68.78,5,54.86,2,91.33,2,295.31,6,67.36,0.0,794.0
+Karlsruhe Institute of Technology,Germany,COMBUSTION,3,3,77.48,4,72.0,1,150.0,8,66.42,10,42.65,8,41.92,4,228.08,2,94.29,0.0,773.0
+Hochschule für Angewandte Wissenschaften Hamburg,Germany,COMBUSTION,4,21,31.0,17,53.7,8,114.0,11,53.94,1,75.0,3,72.82,3,285.83,7,65.72,0.0,752.0
+Fachhochschule München,Germany,COMBUSTION,5,7,68.09,6,65.21,5,121.0,2,74.67,3,72.35,6,55.03,7,221.86,5,67.77,0.0,746.0
+University of Bath,United Kingdom,COMBUSTION,6,14,49.22,10,61.37,5,121.0,9,54.44,9,45.38,7,53.4,5,225.68,4,72.1,0.0,683.0
+Universitat Politécnica de Valéncia,Spain,COMBUSTION,7,17,39.57,13,56.58,7,117.0,7,66.98,6,54.53,9,37.35,6,222.56,11,8.11,0.0,603.0
+UAS Kempten,Germany,COMBUSTION,8,19,33.82,6,65.21,13,97.0,6,67.59,7,51.14,5,56.42,9,104.28,9,33.9,0.0,509.0
+Hochschule Esslingen,Germany,COMBUSTION,9,2,79.0,9,63.29,4,123.0,4,72.28,4,68.98,4,61.58,,,,,0.0,468.0
+University of Applied Sciences Ravensburg-Weingarten,Germany,COMBUSTION,10,4,74.42,17,53.7,15,95.0,1,75.0,17,20.77,15,4.5,8,110.56,10,18.34,0.0,452.0
+Universidad Europea de Madrid,Spain,COMBUSTION,11,15,48.5,21,46.99,21,74.0,13,50.59,16,27.93,15,4.5,10,26.77,3,73.2,0.0,352.0
+Ostbayerische Technische Hochschule Regensburg,Germany,COMBUSTION,12,6,69.68,8,64.25,3,130.0,,,,,10,26.67,,,8,58.04,0.0,349.0
+Hochschule Karlsruhe,Germany,COMBUSTION,13,10,54.81,2,74.0,9,106.0,18,24.81,8,47.28,12,12.71,,,,,0.0,320.0
+Fachhochschule Aachen,Germany,COMBUSTION,14,13,50.13,11,59.45,12,99.0,12,53.27,11,37.07,14,9.76,,,,,0.0,309.0
+TECNUN - University of Navarra,Spain,COMBUSTION,15,8,60.79,3,73.0,22,71.0,17,34.52,12,36.8,15,4.5,,,,,0.0,281.0
+Universidad Politécnica de Madrid (UPM),Spain,COMBUSTION,16,12,53.0,15,55.62,19,76.0,14,44.55,14,33.65,15,4.5,,,,,0.0,267.0
+Università del Salento,Italy,COMBUSTION,17,20,31.3,15,55.62,11,101.0,20,19.51,18,20.28,13,11.57,11,25.0,,,0.0,264.0
+AGH University of Science and Technology,Poland,COMBUSTION,18,22,26.49,12,58.49,19,76.0,16,39.03,13,35.03,11,16.18,,,,,0.0,251.0
+University of Seville,Spain,COMBUSTION,19,23,23.53,22,46.03,16,85.0,10,54.35,15,33.43,15,4.5,,,,,0.0,247.0
+Ulm University of Applied Sciences,Germany,COMBUSTION,20,11,54.3,5,71.0,14,96.0,,,,,,,,,,,0.0,221.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,COMBUSTION,21,5,70.15,17,53.7,23,58.0,21,3.5,19,3.5,15,4.5,,,,,0.0,193.0
+"Università degli Studi di Roma ""La Sapienza""",Italy,COMBUSTION,22,18,35.37,20,48.9,17,84.0,,,,,15,4.5,,,,,0.0,173.0
+University of Portsmouth,United Kingdom,COMBUSTION,23,24,22.86,26,40.27,25,54.0,15,39.37,19,3.5,15,4.5,,,,,0.0,165.0
+Universitatea Transilvania din Braşov,Romania,COMBUSTION,24,26,8.34,22,46.03,24,56.0,19,24.23,,,,,11,25.0,,,0.0,160.0
+Universidad de Vigo,Spain,COMBUSTION,25,25,8.61,24,45.07,18,78.0,,,,,,,,,,,0.0,132.0
+Universidad de Castilla-La Mancha,Spain,COMBUSTION,26,16,45.55,27,37.4,26,46.0,,,,,,,,,,,0.0,129.0
+Escola Politècnica Superior d,Spain,COMBUSTION,27,,,25,43.15,28,25.0,,,,,,,,,,,0.0,68.0
+Universitat de Girona,Spain,COMBUSTION,28,,,,,27,27.0,,,,,,,,,,,0.0,27.0

@@ -1,0 +1,20 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+ETH Zürich,Switzerland,ELECTRIC,1,12,84.0,6,65.3,2,140.0,2,66.0,6,69.0,1,100.0,1,325.0,1,100.0,0.0,949.0
+Karlsruhe Institute of Technology,Germany,ELECTRIC,2,3,99.0,5,66.6,3,130.0,4,56.5,2,74.5,2,87.3,2,284.4,4,93.3,0.0,892.0
+Universität Stuttgart,Germany,ELECTRIC,3,2,99.5,1,75.0,4,126.9,1,75.0,3,71.5,3,83.6,4,182.8,3,95.4,0.0,810.0
+Technische Universität Dresden,Germany,ELECTRIC,4,5,95.0,10,51.6,17,66.5,9,19.4,8,54.0,,,3,190.4,,,0.0,477.0
+Hochschule Bonn-Rhein-Sieg,Germany,ELECTRIC,5,16,63.0,7,58.7,7,113.3,,,7,64.2,,,5,57.1,2,99.2,0.0,455.0
+Technical University of Munich,Germany,ELECTRIC,6,6,92.0,4,66.8,1,150.0,3,64.9,4,71.0,9,7.5,,,,,-25.0,427.0
+Fachhochschule München,Germany,ELECTRIC,7,4,96.0,2,70.5,6,118.3,,,1,75.0,4,76.9,,,,,-25.0,412.0
+Technische Universiteit Eindhoven,Netherlands,ELECTRIC,8,11,85.0,8,56.9,8,111.7,6,42.8,4,71.0,6,23.3,,,,,0.0,391.0
+Escola Tècnica Superior d,Spain,ELECTRIC,9,1,100.0,11,51.2,9,105.1,5,49.2,9,50.4,5,33.1,,,,,0.0,389.0
+Technische Universität Hamburg,Germany,ELECTRIC,10,7,90.0,12,50.9,14,81.6,7,33.5,11,8.1,8,8.6,,,,,0.0,273.0
+Rheinisch-Westfälische Technische Hochschule Aachen,Germany,ELECTRIC,11,9,88.0,3,68.0,5,119.6,,,,,,,,,,,-30.0,246.0
+Technische Universität Wien,Austria,ELECTRIC,12,10,87.0,9,55.1,10,91.8,,,,,,,,,,,0.0,234.0
+Hochschule Aalen - Technik und Wirtschaft,Germany,ELECTRIC,13,7,90.0,15,37.0,13,83.9,,,,,7,8.8,,,,,-10.0,210.0
+Leibniz Universität Hannover,Germany,ELECTRIC,14,17,60.0,13,48.3,15,76.2,,,,,,,,,,,0.0,184.0
+Technische Hochschule Augsburg,Germany,ELECTRIC,15,18,51.0,17,31.1,12,84.5,,,,,,,,,,,0.0,167.0
+Bern University of Applied Sciences,Switzerland,ELECTRIC,16,15,74.0,19,26.3,18,59.6,,,,,,,,,,,-5.0,155.0
+Technische Hochschule Ingolstadt,Germany,ELECTRIC,17,14,77.0,16,33.7,11,89.3,,,,,,,,,,,-55.0,145.0
+Technische Universität Clausthal,Germany,ELECTRIC,18,19,48.0,14,39.3,19,47.8,8,30.6,10,15.1,10,4.5,,,,,-50.0,135.0
+University of Iceland,Iceland,ELECTRIC,19,13,82.0,18,29.4,16,68.3,,,,,,,,,,,-99.0,81.0

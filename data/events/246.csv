@@ -1,0 +1,22 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Duale Hochschule Baden-Württemberg Stuttgart,Germany,ELECTRIC,1,9,84.44,5,70.0,4,115.43,2,65.79,2,67.25,1,100.0,1,325.0,2,88.11,0.0,916.0
+TU Delft,Netherlands,ELECTRIC,2,3,97.0,1,75.0,2,122.46,4,43.33,,,3,53.33,2,155.51,1,100.0,0.0,647.0
+Universität Stuttgart,Germany,ELECTRIC,3,1,99.0,6,67.74,,,1,75.0,1,75.0,2,73.42,,,,,-20.0,370.0
+Technische Hochschule Augsburg,Germany,ELECTRIC,4,6,93.68,17,50.65,11,70.89,3,49.17,3,40.96,5,18.39,,,,,0.0,324.0
+Escola Superior d,Spain,ELECTRIC,5,10,80.49,4,71.0,5,114.84,,,,,4,51.38,,,,,0.0,318.0
+Fachhochschule Joanneum Graz,Austria,ELECTRIC,6,6,93.68,2,74.0,1,150.0,,,,,,,,,,,0.0,318.0
+Universität Bayreuth,Germany,ELECTRIC,7,2,98.0,11,59.68,14,65.04,5,34.67,4,40.11,6,10.61,,,,,0.0,308.0
+Norwegian University of Science and Technology,Norway,ELECTRIC,8,8,87.08,7,65.08,3,121.29,,,,,,,,,,,0.0,273.0
+Technische Universität Dresden,Germany,ELECTRIC,9,5,95.0,3,73.0,6,97.27,,,,,,,,,,,0.0,265.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,Germany,ELECTRIC,10,4,96.0,16,52.26,8,83.5,,,,,,,,,,,-10.0,222.0
+Leibniz Universität Hannover,Germany,ELECTRIC,11,11,71.25,10,60.48,9,80.57,,,,,,,,,,,0.0,212.0
+Leopold-Franzens-Universität Innsbruck,Austria,ELECTRIC,12,11,71.25,9,60.97,10,71.48,6,3.5,,,,,,,,,0.0,207.0
+Hochschule RheinMain,Germany,ELECTRIC,13,11,71.25,12,56.85,12,69.73,,,,,,,,,,,0.0,198.0
+Università degli Studi di Parma,Italy,ELECTRIC,14,15,59.38,8,61.94,13,66.8,,,,,,,,,,,0.0,188.0
+Technische Universität Bergakademie Freiberg,Germany,ELECTRIC,15,14,67.29,13,56.77,15,61.52,,,,,,,,,,,0.0,186.0
+Technische Universität Berlin,Germany,ELECTRIC,16,18,50.14,14,54.92,7,91.4,,,,,,,,,,,-20.0,176.0
+KU Leuven - Group T Campus,Belgium,ELECTRIC,17,17,58.06,18,44.19,16,59.18,,,,,,,,,,,0.0,161.0
+Technische Universität Dortmund,Germany,ELECTRIC,18,15,59.38,20,36.45,17,53.91,,,,,,,,,,,-30.0,120.0
+Vrije Universiteit Brussel,Belgium,ELECTRIC,19,20,36.94,19,39.44,19,21.68,,,,,,,,,,,0.0,98.0
+Ghent University,Belgium,ELECTRIC,20,19,38.26,15,53.23,18,49.8,,,,,,,,,,,-50.0,91.0
+University of Belgrade,Serbia,ELECTRIC,21,,,21,33.63,,,,,,,,,,,,,-10.0,24.0

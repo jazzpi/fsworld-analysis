@@ -1,0 +1,22 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Centro Universitário da FEI,Brazil,COMBUSTION,1,1,88.6,4,67.27,2,121.75,4,59.72,3,48.11,1,150.0,1,300.0,4,80.48,0.0,916.0
+Universidade Estadual de Campinas,Brazil,COMBUSTION,2,2,88.4,2,71.13,3,118.83,3,73.03,2,49.24,6,83.09,2,263.61,1,100.0,0.0,847.0
+Centro Universitário Facens,Brazil,COMBUSTION,3,6,77.6,3,68.81,4,98.33,5,48.26,5,44.42,2,138.19,3,250.68,3,86.79,0.0,813.0
+Universidade Paulista,Brazil,COMBUSTION,4,7,67.0,6,58.76,11,66.67,1,75.0,1,50.0,5,90.62,4,247.55,21,-56.77,0.0,599.0
+Escola de Engenharia de São Carlos da Universidade de São Paulo,Brazil,COMBUSTION,5,4,83.5,1,75.0,1,126.5,2,74.57,4,45.51,3,130.65,,,,,0.0,536.0
+Centro Federal de Educação Tecnológica de Minas Gerais,Brazil,COMBUSTION,6,10,61.2,4,67.27,6,85.17,7,35.63,8,2.5,8,9.41,6,123.98,2,89.21,0.0,474.0
+Escola Politécnica da Universidade de São Paulo,Brazil,COMBUSTION,7,3,84.8,11,38.66,7,81.17,8,22.41,6,19.63,4,104.02,7,7.0,,,0.0,358.0
+Universidade Federal de Santa Maria,Brazil,COMBUSTION,8,9,62.5,12,37.11,5,87.33,6,44.31,7,5.57,7,29.8,5,130.43,20,-52.35,0.0,345.0
+Universidade Federal Fluminense - Niterói,Brazil,COMBUSTION,9,5,79.0,9,41.75,8,80.83,,,,,,,,,,,0.0,202.0
+Universidade Federal do Rio de Janeiro,Brazil,COMBUSTION,10,8,66.6,10,40.98,10,72.58,,,,,9,7.5,8,6.0,,,0.0,194.0
+Universidade Federal de Minas Gerais,Brazil,COMBUSTION,11,11,58.5,8,48.71,12,62.92,,,,,,,,,,,0.0,170.0
+Universidade Tecnológica Federal do Paraná,Brazil,COMBUSTION,12,13,51.0,13,30.15,13,42.17,,,,,,,,,,,0.0,123.0
+Universidade Estadual Paulista - Guaratinguetá,Brazil,COMBUSTION,13,14,49.3,,,9,73.5,,,,,,,,,,,0.0,123.0
+Centro integrado de Manufatura e Tecnologia - SENAI/CIMATEC,Brazil,COMBUSTION,14,17,24.0,7,51.03,15,37.33,,,,,,,,,,,0.0,112.0
+Universidade Federal de Santa Catarina,Brazil,COMBUSTION,15,12,51.3,,,14,38.83,,,,,9,7.5,,,,,0.0,98.0
+Universidade de Brasília,Brazil,COMBUSTION,16,15,48.6,,,18,10.0,,,,,,,,,,,0.0,59.0
+Universidade Federal do Rio Grande do Sul,Brazil,COMBUSTION,17,16,41.1,,,17,15.0,,,,,,,,,,,0.0,56.0
+UNESP - Campus de Ilha Solteira,Brazil,COMBUSTION,18,17,24.0,,,16,18.67,,,,,,,,,,,0.0,43.0
+Federal University of Paraíba,Brazil,COMBUSTION,19,19,22.7,,,,,,,,,,,,,,,0.0,23.0
+Universidade Federal de Santa Catarina - Joinville,Brazil,COMBUSTION,20,20,8.0,,,,,,,,,,,,,,,0.0,8.0
+Universidade Federal da Bahia,Brazil,COMBUSTION,21,,,,,19,5.87,,,,,,,,,,,0.0,6.0

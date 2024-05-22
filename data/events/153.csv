@@ -1,0 +1,26 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Bath,United Kingdom,COMBUSTION,1,1,83.0,2,74.0,2,140.0,7,40.9,12,24.73,2,148.49,2,278.11,1,100.0,0.0,889.0
+Brno University of Technology,Czech Republic,COMBUSTION,2,3,75.0,1,75.0,1,150.0,6,44.72,2,42.02,7,129.15,3,269.67,2,87.73,0.0,873.0
+Czech Technical University in Prague,Czech Republic,COMBUSTION,3,16,43.0,10,59.0,4,128.0,5,47.8,7,36.65,4,146.53,1,300.0,7,67.14,0.0,828.0
+Białystok University of Technology,Poland,COMBUSTION,4,3,75.0,3,73.0,10,116.0,4,48.25,4,39.99,1,150.0,5,245.99,9,56.65,0.0,805.0
+Wroclaw University of Technology,Poland,COMBUSTION,5,16,43.0,8,60.0,9,118.0,2,63.33,1,50.0,3,146.66,7,214.97,8,63.88,0.0,760.0
+Hochschule RheinMain,Germany,COMBUSTION,6,6,71.0,25,20.0,17,102.0,12,32.19,8,33.07,8,128.79,6,215.72,3,78.78,0.0,682.0
+"Hochschule Darmstadt, UAS",Germany,COMBUSTION,7,18,42.0,6,64.0,12,112.0,9,34.48,6,37.62,6,132.91,4,254.35,,,0.0,677.0
+Technion - Israel Institute of Technology,Israel,COMBUSTION,8,7,68.0,14,55.0,11,114.0,8,39.66,9,30.54,10,109.84,8,191.92,11,52.42,0.0,661.0
+Alma Mater Studiorum - Università di Bologna,Italy,COMBUSTION,9,11,65.0,7,61.0,5,126.0,3,50.07,13,24.4,12,91.51,10,96.2,6,69.9,0.0,584.0
+Széchenyi István University,Hungary,COMBUSTION,10,11,65.0,5,67.0,6,124.0,13,31.44,17,11.76,18,7.88,9,187.55,4,75.66,0.0,570.0
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,COMBUSTION,11,10,66.0,13,57.0,14,108.0,1,75.0,3,40.8,5,144.46,,,,,0.0,491.0
+Technische Universität Berlin,Germany,COMBUSTION,12,7,68.0,8,60.0,3,130.0,14,29.6,11,26.9,13,77.17,,,5,71.21,0.0,463.0
+University of Birmingham,United Kingdom,COMBUSTION,13,13,54.0,10,59.0,15,106.0,16,27.08,4,39.99,9,124.16,,,13,30.9,0.0,441.0
+University of Southampton,United Kingdom,COMBUSTION,14,20,36.0,4,68.0,8,120.0,17,22.6,18,2.5,11,93.07,,,,,0.0,342.0
+Bauman Moscow State Technical University,Russia,COMBUSTION,15,14,53.0,22,34.0,7,122.0,18,18.35,15,18.0,17,40.75,,,10,52.7,0.0,339.0
+Manipal Academy of Higher Education,India,COMBUSTION,16,5,72.0,18,45.0,16,104.0,11,33.33,14,21.83,,,,,,,0.0,276.0
+University of Belgrade,Serbia,COMBUSTION,17,21,34.0,15,51.0,20,96.0,9,34.48,18,2.5,19,7.5,11,50.0,,,0.0,275.0
+Tel Aviv University,Israel,COMBUSTION,18,15,51.0,15,51.0,21,94.0,20,9.63,18,2.5,15,57.32,,,,,0.0,265.0
+Moscow Polytechnic University,Russia,COMBUSTION,19,9,67.0,19,43.0,13,110.0,21,3.5,10,28.09,19,7.5,,,,,0.0,259.0
+Instituto Superior de Engenharia de Lisboa,Portugal,COMBUSTION,20,19,40.0,21,36.0,22,92.0,19,11.94,18,2.5,14,66.99,,,,,0.0,249.0
+Hochschule Hannover,Germany,COMBUSTION,21,25,4.0,24,24.0,25,86.0,14,29.6,16,14.38,16,48.07,,,12,40.26,0.0,246.0
+R.V.College of Engineering,India,COMBUSTION,22,2,77.0,12,58.0,18,100.0,,,,,,,,,,,0.0,235.0
+Universidad de Vigo,Spain,COMBUSTION,23,22,25.0,23,33.0,19,98.0,,,,,,,,,,,0.0,156.0
+National Technical University of Athens,Greece,COMBUSTION,24,23,21.0,20,39.0,23,90.0,,,,,,,,,,,0.0,150.0
+"Chitkara University, Punjab",India,COMBUSTION,25,24,10.0,17,49.0,24,88.0,,,,,,,,,,,0.0,147.0

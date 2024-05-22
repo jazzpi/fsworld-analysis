@@ -1,0 +1,23 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Wollongong,Australia,COMBUSTION,1,9,70.5,2,69.43,8,98.0,3,63.72,3,42.14,1,150.0,1,358.96,,,0.0,853.0
+RMIT University,Australia,COMBUSTION,2,5,76.5,1,75.0,6,111.0,9,46.98,9,26.42,2,144.41,2,356.55,,,0.0,837.0
+University of Western Australia,Australia,COMBUSTION,3,3,84.0,8,63.43,2,133.0,4,62.72,1,50.0,3,103.08,3,339.1,,,0.0,835.0
+University of Queensland,Australia,COMBUSTION,4,11,67.0,11,57.13,10,84.0,1,75.0,5,37.66,5,85.36,4,334.72,,,0.0,741.0
+Rochester Institute of Technology,United States,COMBUSTION,5,1,92.0,4,67.97,5,116.0,2,63.78,11,22.59,8,73.44,6,249.15,,,0.0,685.0
+University of Auckland,New Zealand,COMBUSTION,6,10,70.0,7,65.92,11,82.0,7,54.1,6,36.18,11,48.85,5,297.75,,,0.0,655.0
+Swinburne University of Technology,Australia,COMBUSTION,7,7,73.0,16,46.88,4,129.0,8,47.03,8,29.96,7,76.19,7,242.87,,,0.0,645.0
+University of Missouri,United States,COMBUSTION,8,2,87.0,6,67.38,3,131.0,6,59.09,4,41.91,10,55.74,10,169.25,,,0.0,611.0
+University of Sydney,Australia,COMBUSTION,9,12,66.0,14,48.93,19,65.0,5,59.55,10,24.34,4,91.55,8,236.22,,,0.0,592.0
+University of Melbourne,Australia,COMBUSTION,10,16,58.0,13,50.1,17,69.0,12,34.14,13,12.19,15,9.73,11,142.18,,,0.0,375.0
+The University of Newcastle,Australia,COMBUSTION,11,15,61.0,15,47.02,14,75.0,14,26.79,14,8.36,16,7.5,12,135.92,,,0.0,362.0
+University of Adelaide,Australia,COMBUSTION,12,18,43.5,10,61.96,1,136.0,11,42.95,2,44.01,14,18.53,,,,,0.0,347.0
+"University of Technology, Sydney",Australia,COMBUSTION,13,14,64.0,19,29.15,15,74.0,,,,,,,9,172.08,,,0.0,339.0
+Australian National University,Australia,COMBUSTION,14,6,76.0,5,67.68,21,54.0,10,45.62,15,6.82,9,65.87,,,,,0.0,316.0
+University of New South Wales,Australia,COMBUSTION,15,12,66.0,3,68.12,11,82.0,,,,,6,78.38,,,,,0.0,294.0
+University of Birmingham,United Kingdom,COMBUSTION,16,4,80.0,12,53.61,9,93.0,16,5.0,12,17.59,12,38.91,,,,,0.0,288.0
+Queensland University of Technology,Australia,COMBUSTION,17,20,36.25,22,20.95,13,76.0,17,3.5,,,13,25.84,13,88.79,,,0.0,251.0
+Deakin University,Australia,COMBUSTION,18,8,71.0,9,63.28,7,105.0,,,,,,,,,,,0.0,239.0
+University of New South Wales - Australian Defence Force Academy,Australia,COMBUSTION,19,17,56.0,18,30.47,17,69.0,13,29.43,7,35.54,16,7.5,,,,,0.0,228.0
+Monash University,Australia,COMBUSTION,20,19,39.0,20,29.0,16,70.0,,,,,,,,,,,0.0,138.0
+Federation University Australia,Australia,COMBUSTION,21,21,36.0,21,28.42,,,,,,,,,,,,,0.0,64.0
+University of Southern Queensland,Australia,COMBUSTION,22,22,-76.0,17,33.98,20,58.0,15,8.85,16,2.5,16,7.5,,,,,0.0,35.0

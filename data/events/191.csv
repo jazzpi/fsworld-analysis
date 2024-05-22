@@ -1,0 +1,20 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Technische Universität Hamburg,Germany,ELECTRIC,1,8,91.0,18,31.0,5,122.0,6,54.8,6,60.0,7,66.4,2,320.6,7,80.7,0.0,826.0
+Technische Universität Bergakademie Freiberg,Germany,ELECTRIC,2,2,97.0,6,58.4,13,108.0,5,55.4,11,37.3,12,47.9,1,325.0,4,89.4,-5.0,814.0
+Chalmers University of Technology,Sweden,ELECTRIC,3,4,95.0,8,52.5,10,109.0,4,59.9,9,38.0,5,75.6,3,296.0,5,85.4,0.0,811.0
+Monash University,Australia,ELECTRIC,4,8,91.0,2,72.5,9,112.0,14,34.6,12,32.1,10,55.2,4,276.9,8,72.2,-5.0,742.0
+ETH Zürich,Switzerland,ELECTRIC,5,1,98.0,4,67.2,1,150.0,12,40.0,2,71.5,2,85.6,8,86.6,1,100.0,0.0,699.0
+Universität Stuttgart,Germany,ELECTRIC,6,5,93.0,1,75.0,4,125.0,7,50.3,3,67.8,4,78.5,7,122.0,3,92.0,-5.0,698.0
+Fachhochschule München,Germany,ELECTRIC,7,6,92.0,11,47.6,17,97.0,,,,,3,80.7,5,230.3,2,99.2,0.0,647.0
+Deggendorf Institute of Technology,Germany,ELECTRIC,8,16,70.0,16,42.9,19,74.0,10,47.8,15,8.4,13,14.7,6,197.4,6,84.3,0.0,539.0
+Tallinn TU UAS,Estonia,ELECTRIC,9,6,92.0,9,50.4,3,130.0,2,72.4,5,61.7,8,65.8,,,,,0.0,472.0
+TU Delft,Netherlands,ELECTRIC,10,3,96.0,5,58.8,2,140.0,15,22.6,13,22.1,1,100.0,,,,,0.0,440.0
+Technische Universität Dresden,Germany,ELECTRIC,11,8,91.0,12,45.0,10,109.0,11,47.1,1,75.0,6,69.1,,,,,-10.0,426.0
+Norwegian University of Science and Technology,Norway,ELECTRIC,12,13,86.0,3,71.8,5,122.0,1,75.0,4,63.3,,,,,,,0.0,418.0
+Rheinisch-Westfälische Technische Hochschule Aachen,Germany,ELECTRIC,13,11,89.0,14,44.6,8,117.0,9,48.2,7,57.5,9,56.6,,,,,0.0,413.0
+Westsächsische Hochschule Zwickau,Germany,ELECTRIC,14,11,89.0,19,20.8,10,109.0,3,61.9,10,37.6,11,51.9,,,,,0.0,370.0
+Technische Universität Wien,Austria,ELECTRIC,15,16,70.0,10,49.4,15,100.0,8,48.7,8,48.4,14,4.5,,,,,0.0,321.0
+Karlsruhe Institute of Technology,Germany,ELECTRIC,16,13,86.0,15,44.2,5,122.0,,,,,14,4.5,,,,,-19.0,238.0
+Hochschule Aalen - Technik und Wirtschaft,Germany,ELECTRIC,17,15,77.0,7,56.6,16,99.0,,,,,,,,,,,-5.0,228.0
+Hochschule Bonn-Rhein-Sieg,Germany,ELECTRIC,18,18,66.0,17,36.2,14,104.0,,,,,,,,,,,0.0,206.0
+Georg-Simon-Ohm-Hochschule Nürnberg,Germany,ELECTRIC,19,19,62.0,12,45.0,18,91.0,13,38.2,14,12.8,,,,,,,-75.0,174.0

@@ -1,0 +1,29 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Wisconsin-Madison,United States,COMBUSTION,1,1,92.0,2,74.3,1,150.0,5,61.0,3,38.2,1,150.0,1,374.2,,,0.0,940.0
+Missouri University of Science and Technology,United States,COMBUSTION,2,4,88.9,14,59.8,3,135.0,6,59.6,7,26.4,2,146.8,2,359.6,,,0.0,876.0
+University of Illinois at Urbana-Champaign,United States,COMBUSTION,3,6,83.2,9,65.4,5,100.0,3,61.8,4,36.9,3,145.8,3,332.0,,,0.0,825.0
+University of Cincinnati,United States,COMBUSTION,4,12,77.6,13,60.3,4,130.0,8,55.1,8,25.6,6,126.0,6,295.9,,,0.0,770.0
+Drexel University,United States,COMBUSTION,5,3,89.1,16,56.6,16,80.0,4,61.3,5,26.8,4,131.6,5,310.1,,,0.0,755.0
+University of Maryland,United States,COMBUSTION,6,10,80.6,2,74.3,5,100.0,1,75.0,2,43.4,,,4,315.9,,,0.0,689.0
+Virginia Polytechnic Institute and State University,United States,COMBUSTION,7,8,82.6,1,75.0,2,145.0,2,64.7,1,50.0,5,129.0,,,,,0.0,546.0
+University of Alabama,United States,COMBUSTION,8,13,76.4,6,70.7,5,100.0,7,59.1,11,19.5,9,19.3,7,111.0,,,0.0,456.0
+State University of New York at Buffalo,United States,COMBUSTION,9,5,83.6,4,72.2,5,100.0,13,50.1,12,12.1,7,75.2,,,,,0.0,393.0
+Oklahoma State University - Stillwater,United States,COMBUSTION,10,7,82.7,8,68.2,5,100.0,17,28.3,15,2.5,8,37.2,,,,,0.0,319.0
+York College of Pennsylvania,United States,COMBUSTION,11,9,81.6,20,45.4,16,80.0,16,35.9,8,25.6,11,7.5,,,,,0.0,276.0
+University of Calgary,Canada,COMBUSTION,12,19,70.0,7,70.5,16,80.0,14,44.6,15,2.5,11,7.5,,,,,0.0,275.0
+Pittsburg State University,United States,COMBUSTION,13,21,66.5,24,36.3,5,100.0,18,23.3,10,23.6,10,13.7,,,,,0.0,263.0
+Mississippi State University,United States,COMBUSTION,14,25,55.3,19,49.2,5,100.0,12,52.2,,,,,,,,,0.0,257.0
+Northern Illinois University,United States,COMBUSTION,15,2,91.8,11,62.1,5,100.0,,,,,,,,,,,0.0,254.0
+Cedarville University,United States,COMBUSTION,16,11,79.7,16,56.6,5,100.0,,,,,11,7.5,,,,,0.0,244.0
+Lafayette College,United States,COMBUSTION,17,18,70.5,23,40.9,24,60.0,11,52.7,13,11.6,11,7.5,,,,,0.0,243.0
+Central Piedmont Community College,United States,COMBUSTION,18,14,76.2,12,62.0,16,80.0,19,19.4,,,,,,,,,0.0,238.0
+Auburn University,United States,COMBUSTION,19,24,56.8,15,59.0,5,100.0,,,,,,,,,,,0.0,216.0
+Cooper Union,United States,COMBUSTION,20,15,73.6,18,53.7,16,80.0,,,,,,,,,,,0.0,207.0
+University of Massachusetts Lowell,United States,COMBUSTION,21,16,72.0,21,44.4,16,80.0,,,15,2.5,11,7.5,,,,,0.0,206.0
+Middle Tennessee State University,United States,COMBUSTION,22,26,53.2,,,16,80.0,9,55.0,14,6.8,11,7.5,,,,,0.0,202.0
+Marquette University,United States,COMBUSTION,23,22,61.6,9,65.4,24,60.0,22,4.0,,,11,7.5,,,,,0.0,198.0
+United States Air Force Academy,United States,COMBUSTION,24,17,71.6,22,43.1,24,60.0,21,10.8,15,2.5,11,7.5,,,,,0.0,196.0
+Southern Illinois University Edwardsville,United States,COMBUSTION,25,20,67.8,26,28.8,24,60.0,20,17.1,15,2.5,11,7.5,,,,,0.0,184.0
+Old Dominion University,United States,COMBUSTION,26,28,-21.3,5,71.2,16,80.0,15,41.6,,,11,7.5,,,,,0.0,179.0
+Lehigh University,United States,COMBUSTION,27,27,-14.4,,,5,100.0,10,53.3,6,26.7,11,7.5,,,,,0.0,173.0
+Temple University,United States,COMBUSTION,28,23,59.2,25,32.4,24,60.0,,,,,11,7.5,,,,,0.0,159.0

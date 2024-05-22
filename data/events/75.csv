@@ -1,0 +1,28 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+GFR DHBW Ravensburg & Oregon State University,Bermuda,COMBUSTION,1,18,58.1,2,74.0,7,120.0,10,59.7,4,62.6,1,100.0,1,325.0,4,44.8,0.0,844.0
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,COMBUSTION,2,14,62.9,13,57.9,1,150.0,4,72.0,1,75.0,3,62.9,2,230.4,3,59.7,0.0,771.0
+Technical University of Munich,Germany,COMBUSTION,3,13,64.4,6,70.0,5,130.0,5,70.0,2,69.5,5,58.9,3,217.8,6,22.1,0.0,703.0
+ETH Zürich,Switzerland,ELECTRIC,4,10,67.9,22,34.6,2,145.0,1,75.0,6,58.6,7,54.8,7,159.0,2,83.3,0.0,678.0
+Karlsruhe Institute of Technology,Germany,COMBUSTION,5,4,74.4,3,73.0,4,135.0,11,57.5,9,47.5,7,54.8,6,172.4,25,-4.4,0.0,610.0
+Hochschule Esslingen,Germany,COMBUSTION,6,12,66.0,21,36.2,6,125.0,6,68.5,8,48.8,9,53.4,4,208.8,8,1.1,0.0,608.0
+Tallinn TU UAS,Estonia,COMBUSTION,7,20,56.4,24,33.0,13,100.0,8,67.6,3,64.6,6,56.5,5,179.9,25,-4.4,-10.0,544.0
+Technische Universität Graz,Austria,COMBUSTION,8,3,76.9,1,75.0,3,143.0,2,73.6,11,41.8,4,59.5,,,,,0.0,470.0
+Rochester Institute of Technology,United States,COMBUSTION,9,7,68.5,8,66.0,13,100.0,7,67.8,7,54.2,2,79.6,,,,,0.0,436.0
+Fachhochschule Stralsund,Germany,COMBUSTION,10,2,77.2,9,65.2,19,70.0,15,51.1,12,39.6,15,28.6,8,85.0,7,18.6,0.0,435.0
+Technische Universität Darmstadt,Germany,COMBUSTION,11,19,57.0,14,56.3,7,120.0,14,53.1,17,3.5,18,19.8,9,79.6,5,37.3,0.0,426.0
+Technische Universiteit Eindhoven,Netherlands,ELECTRIC,12,9,68.1,12,58.7,9,110.0,,,,,13,33.5,10,25.0,1,100.0,0.0,395.0
+Fachhochschule Joanneum Graz,Austria,COMBUSTION,13,11,66.3,4,72.0,9,110.0,16,41.2,13,36.0,10,50.8,,,,,0.0,376.0
+Technical University of Munich,Germany,ELECTRIC,14,22,51.4,10,64.4,9,110.0,3,72.9,14,28.3,12,45.4,,,,,0.0,372.0
+Hochschule für Angewandte Wissenschaften Hamburg,Germany,COMBUSTION,15,17,58.9,18,41.8,9,110.0,12,54.7,5,61.9,16,27.8,,,,,0.0,355.0
+The University of Akron,United States,COMBUSTION,16,6,69.6,15,51.5,17,80.0,9,65.6,15,22.0,11,49.9,,,,,0.0,339.0
+GFR DHBW Ravensburg & Oregon State University,Bermuda,ELECTRIC,17,26,33.1,7,67.6,13,100.0,17,37.3,10,42.3,14,32.1,,,,,-10.0,302.0
+Fachhochschule Coburg,Germany,COMBUSTION,18,7,68.5,19,40.2,16,90.0,13,53.7,16,10.7,20,5.7,,,,,0.0,269.0
+Escola Tècnica Superior d,Spain,COMBUSTION,19,1,85.1,11,61.1,17,80.0,,,,,17,27.5,10,25.0,27,-17.2,0.0,262.0
+University of Liverpool,United Kingdom,COMBUSTION,20,5,71.5,17,44.3,19,70.0,,,,,,,,,,,0.0,186.0
+Technische Universität Graz,Austria,ELECTRIC,21,16,60.1,16,49.9,19,70.0,,,,,,,,,,,0.0,180.0
+Fachhochschule München,Germany,ELECTRIC,22,24,42.0,5,71.0,23,60.0,,,,,,,,,,,0.0,173.0
+"Hochschule Darmstadt, UAS",Germany,COMBUSTION,23,25,33.7,25,31.4,25,40.0,18,30.8,17,3.5,19,11.1,,,,,0.0,150.0
+Moscow Polytechnic University,Russia,COMBUSTION,24,23,50.6,20,37.0,24,50.0,,,,,,,,,,,0.0,138.0
+"Amrita School of Engineering, Coimbatore",India,COMBUSTION,25,15,60.9,26,20.1,26,30.0,,,,,,,,,,,0.0,111.0
+M.H. Saboo Siddik College of Engineering,India,COMBUSTION,26,21,56.1,23,33.8,27,20.0,,,,,,,,,,,0.0,110.0
+Universidad Europea de Madrid,Spain,COMBUSTION,27,27,9.9,27,14.5,19,70.0,,,,,,,,,,,-50.0,44.0

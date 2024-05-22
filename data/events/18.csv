@@ -1,0 +1,22 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Georgia Institute of Technology,United States,COMBUSTION,1,4,81.07,5,66.31,5,122.0,7,63.92,1,50.0,6,125.01,3,360.23,,,0.0,869.0
+Chalmers University of Technology,Sweden,COMBUSTION,2,6,76.78,3,68.38,6,121.5,1,75.0,2,40.49,5,126.66,5,347.52,,,0.0,856.0
+University of Queensland,Australia,COMBUSTION,3,8,74.3,14,53.35,4,123.5,4,68.44,6,38.32,12,85.53,2,373.13,,,0.0,817.0
+Auburn University,United States,COMBUSTION,4,14,62.76,6,65.07,7,120.5,3,69.04,4,38.86,8,100.77,4,356.23,,,0.0,813.0
+University of New South Wales,Australia,COMBUSTION,5,11,66.28,8,64.11,13,90.9,9,57.74,10,27.43,9,97.17,1,381.48,,,0.0,785.0
+University of Wollongong,Australia,COMBUSTION,6,3,82.17,9,60.11,3,124.0,2,69.61,13,22.33,3,131.22,8,277.98,,,0.0,767.0
+Rochester Institute of Technology,United States,COMBUSTION,7,2,86.0,7,64.94,8,112.0,6,64.44,7,36.99,11,86.32,7,296.05,,,0.0,747.0
+University of Adelaide,Australia,COMBUSTION,8,13,64.44,10,58.04,10,106.8,10,52.94,12,26.95,7,112.33,6,315.9,,,0.0,737.0
+RMIT University,Australia,COMBUSTION,9,15,61.74,12,56.8,12,102.0,12,47.45,11,27.19,2,146.86,9,247.22,,,0.0,689.0
+Swinburne University of Technology,Australia,COMBUSTION,10,7,76.17,4,67.69,2,143.6,5,66.52,5,38.59,4,129.32,,,,,0.0,522.0
+Monash University,Australia,COMBUSTION,11,9,74.04,2,70.45,11,106.0,11,50.58,8,32.84,1,150.0,,,,,0.0,484.0
+University of Sydney,Australia,COMBUSTION,12,19,54.45,19,39.15,15,85.0,13,46.55,14,4.59,14,60.28,10,193.54,,,0.0,484.0
+University of Western Australia,Australia,COMBUSTION,13,12,66.06,17,49.08,1,144.9,8,59.99,3,39.94,10,90.13,,,,,0.0,450.0
+Tokyo Denki University,Japan,COMBUSTION,14,5,79.71,16,49.36,14,85.5,14,46.42,9,30.09,15,50.15,,,,,0.0,341.0
+University of Melbourne,Australia,COMBUSTION,15,10,67.63,15,51.84,9,107.0,,,,,13,70.24,,,,,0.0,297.0
+Technische Universität Braunschweig,Germany,COMBUSTION,16,1,86.16,1,75.0,18,77.3,,,,,,,,,,,0.0,238.0
+Curtin University,Australia,COMBUSTION,17,16,58.63,21,16.54,19,66.3,15,37.43,15,2.5,16,43.76,,,,,0.0,225.0
+Deakin University,Australia,COMBUSTION,18,18,56.11,13,55.56,21,47.9,16,24.97,15,2.5,17,35.87,,,,,0.0,223.0
+Australian National University,Australia,COMBUSTION,19,17,56.36,11,57.35,17,78.6,,,,,,,,,,,0.0,192.0
+"University of Technology, Sydney",Australia,COMBUSTION,20,20,50.85,20,26.88,20,61.0,,,,,18,7.5,,,,,0.0,146.0
+The University of Newcastle,Australia,COMBUSTION,21,21,10.0,18,48.67,16,82.0,,,,,,,,,,,0.0,141.0

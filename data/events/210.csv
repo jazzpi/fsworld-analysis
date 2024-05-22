@@ -1,0 +1,41 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Politecnico di Milano,Italy,COMBUSTION,1,8,84.6,2,73.45,1,150.0,10,78.05,3,66.7,2,111.11,1,275.0,3,81.01,0.0,920.0
+Università degli studi di Padova,Italy,COMBUSTION,2,3,96.37,15,51.8,4,137.96,2,88.7,1,75.0,1,125.0,3,226.64,13,62.05,0.0,864.0
+Czech Technical University in Prague,Czech Republic,COMBUSTION,3,13,74.09,10,57.6,2,144.53,8,82.73,8,56.36,3,105.83,6,199.42,9,69.85,0.0,790.0
+Technische Hochschule Mittelhessen,Germany,COMBUSTION,4,14,72.2,16,50.26,6,135.77,3,88.35,,,5,98.35,2,231.22,5,75.15,0.0,751.0
+Wroclaw University of Technology,Poland,COMBUSTION,5,9,82.67,3,72.68,7,122.63,13,73.85,9,56.09,8,84.8,7,189.36,11,68.78,0.0,751.0
+University of West Bohemia,Czech Republic,COMBUSTION,6,24,59.08,13,53.74,22,98.54,1,100.0,10,53.81,6,94.83,5,201.71,14,48.26,0.0,710.0
+Yıldız Technical University,Turkey,COMBUSTION,7,7,84.93,22,46.01,15,111.68,7,84.15,15,42.68,4,99.41,9,149.33,12,66.55,0.0,685.0
+Università di Pisa,Italy,COMBUSTION,8,1,100.0,1,75.0,19,106.2,5,87.23,11,50.58,9,79.46,12,108.84,10,68.99,0.0,676.0
+VŠB - Technical University of Ostrava,Czech Republic,COMBUSTION,9,25,58.91,11,57.22,8,121.53,11,76.57,16,42.01,10,78.78,11,117.08,4,77.38,0.0,629.0
+Poznan University of Technology,Poland,COMBUSTION,10,20,63.97,31,27.45,5,136.86,4,88.14,2,68.84,7,92.31,4,210.49,8,70.99,-150.0,609.0
+Università degli Studi di Napoli Federico II,Italy,COMBUSTION,11,30,48.09,32,25.9,16,108.39,20,31.79,7,56.92,17,52.23,10,126.04,6,73.45,0.0,523.0
+University Of Hertfordshire,United Kingdom,COMBUSTION,12,2,98.01,21,46.78,8,121.53,16,65.24,19,18.68,13,73.86,20,16.0,7,73.06,0.0,513.0
+Togliatti State University,Russia,COMBUSTION,13,17,68.66,24,44.07,34,55.84,18,42.13,14,43.12,19,42.22,13,88.44,1,100.0,0.0,484.0
+École Centrale de Lyon,France,COMBUSTION,14,12,75.18,5,69.59,14,116.06,9,78.96,12,48.73,14,64.42,26,6.0,,,0.0,459.0
+Ulm University of Applied Sciences,Germany,COMBUSTION,15,26,53.74,4,71.91,22,98.54,12,76.44,6,56.99,12,75.83,22,9.0,,,0.0,442.0
+Alma Mater Studiorum - Università di Bologna,Italy,COMBUSTION,16,5,89.46,8,57.99,10,120.44,6,85.1,5,62.59,23,14.6,28,3.0,,,0.0,433.0
+University of Thessaly,Greece,COMBUSTION,17,21,62.31,19,49.1,16,108.39,14,69.96,13,44.31,11,76.8,27,4.0,,,0.0,415.0
+Brunel University London,United Kingdom,COMBUSTION,18,16,69.6,8,57.99,10,120.44,15,66.24,3,66.7,25,6.5,22,9.0,,,0.0,396.0
+Technical University of Liberec,Czech Republic,COMBUSTION,19,37,22.98,28,35.18,29,68.98,22,4.5,,,15,63.27,8,161.3,15,30.98,-40.0,347.0
+Democritus University of Thrace,Greece,COMBUSTION,20,11,76.03,18,49.49,32,63.5,,,,,22,16.76,19,17.0,2,85.95,0.0,309.0
+Università degli Studi di Firenze,Italy,COMBUSTION,21,4,90.4,25,40.98,24,96.35,17,55.76,17,35.55,25,6.5,20,16.0,,,-50.0,292.0
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,COMBUSTION,22,22,61.46,35,24.74,3,139.05,,,,,16,58.39,,,,,0.0,284.0
+Białystok University of Technology,Poland,COMBUSTION,23,23,59.63,6,63.4,12,119.34,,,,,25,6.5,18,23.0,16,8.42,0.0,280.0
+University of Leeds,United Kingdom,COMBUSTION,24,15,70.89,23,45.23,35,52.55,21,31.61,18,34.8,21,28.46,30,1.0,,,0.0,265.0
+Marche Polytechnic University,Italy,COMBUSTION,25,28,49.21,14,52.19,12,119.34,,,,,,,14,25.0,,,0.0,246.0
+Hochschule Heilbronn,Germany,COMBUSTION,26,19,64.67,27,38.27,21,102.92,,,,,18,48.12,,,,,-20.0,234.0
+Ruhr-Universität Bochum,Germany,COMBUSTION,27,10,80.43,7,60.7,19,106.2,,,,,,,,,,,-40.0,207.0
+Escola Universitària Salesiana de Sarrià (UAB),Spain,COMBUSTION,28,36,26.49,16,50.26,25,91.97,,,,,,,14,25.0,,,0.0,194.0
+Universität der Bundeswehr München,Germany,COMBUSTION,29,29,49.02,29,30.16,18,107.3,,,,,,,,,,,0.0,186.0
+"Arab Academy for Science, Technology & Maritime Transport (AASTMT)",Egypt,COMBUSTION,30,6,87.45,35,24.74,28,73.36,,,,,,,,,,,0.0,186.0
+Belgorod state technological university named after V. G. Shukhov,Russia,COMBUSTION,31,,,38,21.65,31,64.6,19,35.06,20,7.56,20,41.61,14,25.0,,,-10.0,185.0
+Ural State University of Railway Transport,Russia,COMBUSTION,32,18,64.75,33,25.52,36,40.51,,,,,24,13.14,14,25.0,,,0.0,169.0
+Hacettepe University,Turkey,COMBUSTION,33,27,53.11,12,56.06,33,59.12,,,,,,,,,,,0.0,168.0
+University of Perugia,Italy,COMBUSTION,34,33,34.71,30,27.84,25,91.97,,,,,,,,,,,-10.0,145.0
+Gdańsk University of Technology,Poland,COMBUSTION,35,35,29.09,37,24.36,27,79.93,,,,,25,6.5,28,3.0,,,-10.0,133.0
+Cherepovets State University,Russia,COMBUSTION,36,31,37.34,20,47.55,38,30.66,,,,,,,22,9.0,,,0.0,125.0
+Tel Aviv University,Israel,COMBUSTION,37,,,26,38.66,30,66.79,,,,,,,,,,,0.0,105.0
+Gheorghe Asachi Technical University of Iaşi,Romania,COMBUSTION,38,34,31.33,39,18.94,37,39.42,,,,,,,,,,,0.0,90.0
+Università degli Studi di Salerno,Italy,COMBUSTION,39,32,35.25,34,25.13,39,21.9,,,,,,,,,,,0.0,82.0
+University of Mostar,Bosnia and Herzegovina,COMBUSTION,40,,,,,,,,,,,,,25,8.0,,,0.0,8.0

@@ -1,0 +1,59 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Toronto,Canada,COMBUSTION,1,4,87.0,16,63.6,5,127.0,4,62.59,20,30.65,4,125.21,2,339.68,21,8.11,0.0,844.0
+Technische Universität Graz,Austria,COMBUSTION,2,10,81.0,4,72.3,1,138.0,1,75.0,2,49.46,17,92.52,4,314.76,17,10.35,0.0,834.0
+Oxford Brookes University,United Kingdom,COMBUSTION,3,1,92.0,7,70.2,4,130.0,8,55.2,21,28.77,22,67.88,1,350.0,22,7.55,0.0,802.0
+Helsinki Metropolia University of Applied Sciences,Finland,COMBUSTION,4,11,79.0,2,73.6,7,123.0,6,56.16,9,38.69,7,110.19,5,313.59,23,4.34,0.0,798.0
+University Of Hertfordshire,United Kingdom,COMBUSTION,5,4,87.0,19,61.4,18,98.0,7,55.68,14,34.12,6,114.76,6,308.34,15,12.39,0.0,771.0
+Fachhochschule Stralsund,Germany,COMBUSTION,6,11,79.0,17,62.7,21,88.0,19,47.87,16,33.46,9,108.03,3,327.14,25,0.32,0.0,747.0
+Dartmouth College,United States,COMBUSTION,7,37,61.0,9,68.6,10,113.0,18,48.76,25,27.54,11,102.92,7,291.36,12,17.52,0.0,731.0
+Queen,United Kingdom,COMBUSTION,8,16,76.0,26,54.5,2,135.0,2,65.69,12,35.02,13,98.93,11,240.37,10,22.75,0.0,729.0
+Loughborough University,United Kingdom,COMBUSTION,9,22,70.0,10,68.2,33,69.0,21,45.25,5,43.04,2,129.29,10,245.52,1,50.0,0.0,721.0
+University of Leeds,United Kingdom,COMBUSTION,10,28,67.0,36,50.5,23,86.0,11,53.32,9,38.69,1,150.0,9,251.07,20,8.68,0.0,706.0
+Universität Stuttgart,Germany,COMBUSTION,11,40,55.0,28,53.2,3,133.0,28,36.99,5,43.04,12,100.82,12,234.64,9,23.13,0.0,680.0
+University of Burgundy - ISAT,France,COMBUSTION,12,29,66.0,28,53.2,14,103.0,17,49.2,11,37.29,16,93.34,14,231.11,13,15.91,0.0,649.0
+University of Bath,United Kingdom,COMBUSTION,13,34,64.0,13,66.8,22,87.0,9,54.73,8,38.93,18,91.9,13,232.12,16,12.13,0.0,648.0
+KTH Royal Institute of Technology,Sweden,COMBUSTION,14,24,69.0,25,55.9,28,81.0,13,52.39,36,7.08,20,80.26,8,264.87,25,0.32,0.0,611.0
+University of Modena and Reggio Emilia,Italy,COMBUSTION,15,11,79.0,23,57.3,18,98.0,27,39.4,3,44.28,19,84.43,19,140.15,4,36.69,0.0,579.0
+University of Strathclyde,United Kingdom,COMBUSTION,16,8,82.0,17,62.7,24,85.0,12,52.85,21,28.77,27,42.57,17,166.21,11,19.4,0.0,540.0
+Luleå University of Technology,Sweden,COMBUSTION,17,11,79.0,1,75.0,37,63.0,14,51.01,18,31.94,25,53.78,20,134.24,7,30.89,0.0,519.0
+Politecnico di Milano,Italy,COMBUSTION,18,16,76.0,52,31.4,44,47.0,41,4.85,32,10.31,15,96.85,15,186.38,5,33.06,0.0,486.0
+"Cardiff University, Wales",United Kingdom,COMBUSTION,19,16,76.0,2,73.6,9,119.0,,,,,30,32.6,16,174.94,18,9.62,0.0,486.0
+Fachhochschule Joanneum Graz,Austria,COMBUSTION,20,22,70.0,26,54.5,16,101.0,5,58.1,1,50.0,3,128.84,,,,,0.0,463.0
+Technische Universität Braunschweig,Germany,COMBUSTION,21,8,82.0,15,64.1,15,102.0,25,42.28,16,33.46,5,120.94,,,,,0.0,444.0
+Technical University of Munich,Germany,COMBUSTION,22,16,76.0,28,53.2,8,120.0,24,43.12,7,41.32,8,109.32,,,,,0.0,443.0
+TU Delft,Netherlands,COMBUSTION,23,29,66.0,46,42.3,5,127.0,20,46.11,4,43.28,14,97.89,,,,,0.0,423.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),Germany,COMBUSTION,24,26,68.0,44,44.3,30,76.0,14,51.01,28,19.46,33,24.43,21,104.38,6,32.08,0.0,419.0
+University of Wales Trinity Saint David,United Kingdom,COMBUSTION,25,43,53.0,28,53.2,32,70.0,23,43.54,13,34.79,10,106.96,,,,,0.0,361.0
+University of Central Lancashire,United Kingdom,COMBUSTION,26,26,68.0,50,38.2,13,107.0,29,35.82,29,19.28,21,79.27,,,,,0.0,347.0
+University of Nottingham,United Kingdom,COMBUSTION,27,52,46.0,35,51.1,46,43.0,36,27.24,15,33.9,,,18,141.01,24,3.01,0.0,345.0
+University of Warwick,United Kingdom,COMBUSTION,28,41,54.0,6,71.6,35,64.0,22,43.96,19,31.08,23,65.99,,,,,0.0,331.0
+Technische Universiteit Eindhoven,Netherlands,COMBUSTION,29,49,49.0,4,72.3,17,100.0,16,50.1,26,24.16,31,30.58,,,,,0.0,326.0
+Chalmers University of Technology,Sweden,COMBUSTION,30,37,61.0,12,67.5,11,110.0,3,64.65,37,2.75,35,10.15,,,,,0.0,316.0
+University of Maribor,Slovenia,COMBUSTION,31,4,87.0,39,49.1,40,56.0,33,33.5,35,7.23,29,36.17,,,14,13.47,0.0,282.0
+Coventry University,United Kingdom,COMBUSTION,32,3,90.0,56,18.6,20,91.0,35,27.6,38,2.5,26,47.5,,,,,0.0,278.0
+Universidad Politécnica de Madrid (UPM),Spain,COMBUSTION,33,36,63.0,10,68.2,12,108.0,39,15.61,30,13.39,37,7.5,,,,,0.0,276.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,COMBUSTION,34,7,83.0,13,66.8,39,60.0,37,25.48,34,8.14,37,7.5,,,,,0.0,251.0
+University of Zagreb,Croatia,COMBUSTION,35,50,48.0,19,61.4,51,14.0,31,35.04,31,11.91,28,38.58,,,3,41.29,0.0,250.0
+University of Calgary,Canada,COMBUSTION,36,43,53.0,33,51.8,42,51.0,10,54.26,24,27.94,37,7.5,,,,,0.0,246.0
+University of Liverpool,United Kingdom,COMBUSTION,37,24,69.0,8,69.5,47,42.0,39,15.61,38,2.5,37,7.5,,,8,30.66,0.0,237.0
+Universität Bayreuth,Germany,COMBUSTION,38,43,53.0,36,50.5,52,8.0,26,41.45,21,28.77,32,27.24,,,,,0.0,209.0
+University of Huddersfield,United Kingdom,COMBUSTION,39,31,65.0,39,49.1,34,66.0,38,17.5,38,2.5,37,7.5,,,,,0.0,208.0
+University of Birmingham,United Kingdom,COMBUSTION,40,15,77.0,47,39.5,27,83.0,,,,,36,7.66,,,,,0.0,208.0
+Brunel University London,United Kingdom,COMBUSTION,41,20,74.0,21,58.6,41,54.0,,,,,34,18.73,,,,,0.0,205.0
+City University London,United Kingdom,COMBUSTION,42,53,44.0,21,58.6,25,84.0,42,3.5,38,2.5,37,7.5,,,,,0.0,200.0
+Politecnico di Torino,Italy,COMBUSTION,43,31,65.0,43,45.0,45,46.0,34,33.12,38,2.5,37,7.5,,,,,0.0,199.0
+University of Ulster,United Kingdom,COMBUSTION,44,53,44.0,36,50.5,48,38.0,32,33.88,27,21.3,37,7.5,,,,,0.0,195.0
+Lancaster  University,United Kingdom,COMBUSTION,45,21,73.0,32,52.5,38,62.0,,,,,,,,,,,0.0,188.0
+Fachhochschule Konstanz,Germany,COMBUSTION,46,51,47.0,33,51.8,25,84.0,,,,,,,,,,,0.0,183.0
+Ostfalia University of Applied Sciences,Germany,COMBUSTION,47,31,65.0,51,32.7,29,77.0,,,,,37,7.5,,,,,0.0,182.0
+Swansea University,United Kingdom,COMBUSTION,48,41,54.0,41,47.7,30,76.0,,,,,,,,,,,0.0,178.0
+Duale Hochschule Baden-Württemberg Ravensburg,Germany,COMBUSTION,49,48,50.0,45,43.6,35,64.0,,,,,37,7.5,,,,,0.0,165.0
+University of Sunderland,United Kingdom,COMBUSTION,50,55,38.0,42,46.4,50,21.0,,,,,37,7.5,,,2,48.55,0.0,162.0
+University College London,United Kingdom,COMBUSTION,51,39,59.0,24,56.6,,,30,35.43,,,,,,,19,9.15,0.0,160.0
+Delhi Technological University,India,COMBUSTION,52,2,91.0,53,30.0,49,31.0,,,,,,,,,,,0.0,152.0
+University of the West of Scotland,United Kingdom,COMBUSTION,53,34,64.0,55,19.1,,,42,3.5,33,9.68,24,54.69,,,,,0.0,151.0
+Aston University,United Kingdom,COMBUSTION,54,47,51.0,47,39.5,43,50.0,,,,,,,,,,,0.0,140.0
+University of Manchester,United Kingdom,COMBUSTION,55,43,53.0,49,38.6,,,,,,,,,,,,,0.0,92.0
+Aalborg University,Denmark,COMBUSTION,56,58,11.0,54,24.1,53,4.0,,,,,,,,,,,0.0,39.0
+Rheinisch-Westfälische Technische Hochschule Aachen,Germany,COMBUSTION,58,56,26.0,,,,,,,,,,,,,,,0.0,26.0
+Sheffield Hallam University,United Kingdom,COMBUSTION,59,57,22.0,,,,,,,,,,,,,,,0.0,22.0

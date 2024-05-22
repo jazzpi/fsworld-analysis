@@ -1,0 +1,65 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Kyoto Institute of Technology,Japan,COMBUSTION,1,1,78.27,4,66.03,4,132.0,9,49.97,1,75.0,1,125.0,1,275.0,7,65.22,-10.0,856.0
+Nihon Automobile College,Japan,COMBUSTION,2,24,38.03,46,40.76,12,85.0,2,69.1,7,62.19,6,109.5,2,253.46,13,58.77,0.0,717.0
+Gifu University,Japan,COMBUSTION,3,30,34.5,18,57.06,7,95.0,15,41.71,3,68.7,5,109.78,3,223.23,12,59.34,0.0,689.0
+Kogakuin University,Japan,COMBUSTION,4,19,39.09,7,64.4,11,86.0,8,52.4,11,55.78,2,120.14,4,222.22,10,59.95,-30.0,670.0
+Meijo University,Japan,COMBUSTION,5,16,40.81,10,61.14,20,75.0,23,28.56,2,70.47,4,110.2,6,199.87,6,70.21,0.0,656.0
+Kobe University,Japan,COMBUSTION,6,7,51.12,26,53.8,17,81.0,4,63.66,9,58.16,14,92.82,10,191.48,8,63.79,0.0,656.0
+Chiba University,Japan,COMBUSTION,7,11,43.72,40,45.65,12,85.0,7,56.23,5,63.12,3,113.24,5,213.44,19,49.56,-30.0,640.0
+Doshisha University,Japan,COMBUSTION,8,5,62.18,8,63.58,7,95.0,11,49.43,16,50.27,17,87.13,13,166.45,9,60.52,0.0,635.0
+Nippon Institute of Technology,Japan,COMBUSTION,9,3,68.92,37,47.28,31,58.0,22,31.02,14,51.4,15,92.6,8,198.26,5,73.68,0.0,621.0
+Prince of Songkla University,Thailand,COMBUSTION,10,34,32.11,37,47.28,21,73.0,3,64.26,15,50.65,9,98.02,7,198.96,14,56.47,-10.0,611.0
+Honda Technical College Kanto,Japan,COMBUSTION,11,23,38.18,15,58.69,25,64.0,27,10.6,10,56.32,19,85.74,9,192.84,3,80.73,-10.0,577.0
+Kyushu Institute of Technology,Japan,COMBUSTION,12,2,75.74,26,53.8,14,83.0,5,60.82,12,54.73,13,93.08,15,130.54,22,44.31,-20.0,576.0
+Kyoto University,Japan,COMBUSTION,13,4,66.03,6,65.21,2,140.0,30,4.5,,,7,101.2,16,119.98,24,40.4,0.0,537.0
+Ibaraki University,Japan,COMBUSTION,14,8,48.45,41,44.83,31,58.0,13,45.71,8,60.49,18,86.02,14,139.08,16,52.36,0.0,535.0
+Nagoya University,Japan,ELECTRIC,15,27,36.81,1,75.0,1,150.0,1,100.0,4,63.66,10,97.24,28,10.0,,,-10.0,523.0
+Shibaura Institute of Technology,Japan,COMBUSTION,16,44,26.31,18,57.06,18,79.0,30,4.5,32,3.5,8,100.32,12,179.29,18,51.79,0.0,502.0
+Sanyo-Onoda City University at Tokyo University of Science,Japan,COMBUSTION,17,21,38.26,62,19.56,28,61.0,20,34.99,30,8.44,24,76.31,11,187.05,11,59.87,-10.0,475.0
+Teikyo University,Japan,COMBUSTION,18,58,13.0,39,46.46,33,56.0,16,38.95,6,62.51,11,94.43,17,118.22,23,42.6,0.0,472.0
+Tokyo Metropolitan University,Japan,COMBUSTION,19,10,44.54,45,41.57,26,62.0,18,36.36,22,34.2,23,77.72,18,117.67,25,36.94,0.0,451.0
+Nagoya Institute of Technology,Japan,ELECTRIC,20,52,19.32,12,59.51,18,79.0,25,15.59,21,39.74,12,94.29,22,43.47,2,94.21,0.0,445.0
+Hokkaido University,Japan,COMBUSTION,21,43,27.17,12,59.51,42,48.0,21,34.28,25,31.55,21,80.78,19,116.61,15,52.84,-10.0,441.0
+Waseda University,Japan,COMBUSTION,22,22,38.23,4,66.03,26,62.0,12,48.64,20,45.47,16,91.51,24,15.0,20,47.42,0.0,414.0
+University of Toyama,Japan,COMBUSTION,23,36,31.61,24,54.61,10,87.0,17,36.64,17,49.33,20,81.91,26,13.0,21,44.79,0.0,399.0
+Toyota Technical College Nagoya,Japan,COMBUSTION,24,33,32.9,9,62.77,14,83.0,14,44.12,13,54.3,26,73.78,28,10.0,,,0.0,361.0
+The University of Tokyo,Japan,ELECTRIC,25,39,30.85,15,58.69,38,51.0,30,4.5,32,3.5,28,54.42,21,53.1,1,100.0,0.0,356.0
+"College of Science and Technology, Nihon University",Japan,COMBUSTION,26,51,20.63,28,52.17,6,110.0,29,4.72,19,47.43,29,53.5,28,10.0,17,52.22,0.0,351.0
+Shizuoka University,Japan,ELECTRIC,27,58,13.0,29,51.35,14,83.0,19,36.07,23,33.09,25,75.17,27,12.0,4,80.21,-50.0,334.0
+Osaka University,Japan,COMBUSTION,28,6,55.8,21,56.25,5,112.0,6,57.13,27,19.41,,,,,,,0.0,301.0
+Shizuoka Institute of Science and Technology,Japan,ELECTRIC,29,41,28.5,2,71.73,38,51.0,28,5.67,24,32.54,22,77.73,34,1.0,,,0.0,268.0
+Tokyo University of Agriculture and Technology,Japan,COMBUSTION,30,14,41.85,34,48.91,24,66.0,10,49.49,18,49.27,35,8.1,,,,,0.0,264.0
+Kanazawa Institute of Technology,Japan,COMBUSTION,31,25,37.65,17,57.88,51,38.0,,,,,32,47.6,20,73.86,,,0.0,255.0
+The University of Kitakyushu,Japan,COMBUSTION,32,32,33.65,31,49.72,34,53.0,24,20.76,29,11.64,27,57.41,32,3.0,,,0.0,229.0
+Tokyo City University,Japan,COMBUSTION,33,13,42.21,31,49.72,9,89.0,,,,,34,19.34,23,25.0,,,0.0,225.0
+Okayama University,Japan,COMBUSTION,34,31,33.67,59,28.53,47,45.0,26,14.66,26,23.96,31,52.4,31,8.0,,,0.0,206.0
+"College of Industrial Technology, Nihon University",Japan,COMBUSTION,35,46,24.15,46,40.76,44,47.0,30,4.5,28,14.42,30,52.77,33,2.0,,,0.0,186.0
+Tongji University,China,ELECTRIC,36,60,11.0,48,39.94,3,138.0,,,,,,,,,,,-10.0,179.0
+Sebelas Maret University,Indonesia,COMBUSTION,37,15,41.81,48,39.94,44,47.0,,,,,33,31.5,25,14.0,,,-10.0,164.0
+Sepuluh Nopember Institute of Technology,Indonesia,ELECTRIC,38,42,28.46,3,70.92,29,60.0,,,,,,,,,,,0.0,159.0
+Niigata University,Japan,COMBUSTION,39,12,42.85,21,56.25,41,50.0,,,,,,,,,,,0.0,149.0
+Honda Technical College Kansai,Japan,COMBUSTION,40,9,45.02,51,35.86,49,42.0,30,4.5,31,7.98,36,6.5,,,,,0.0,142.0
+Tohoku University,Japan,ELECTRIC,41,17,40.43,18,57.06,50,40.0,,,,,,,,,,,0.0,137.0
+Tokyo University of Science,Japan,COMBUSTION,42,45,25.73,11,60.32,38,51.0,,,,,,,,,,,0.0,137.0
+Osaka Institute of Technology,Japan,COMBUSTION,43,26,37.17,43,43.2,44,47.0,,,,,,,,,,,0.0,127.0
+Gunma University,Japan,COMBUSTION,44,18,39.61,12,59.51,60,27.0,,,,,,,,,,,0.0,126.0
+Kinki University,Japan,COMBUSTION,45,49,22.0,58,30.16,22,67.0,30,4.5,,,,,,,,,0.0,124.0
+University of Yamanashi,Japan,ELECTRIC,46,38,30.89,30,50.54,37,52.0,,,,,,,,,,,-10.0,123.0
+Kanazawa University,Japan,COMBUSTION,47,35,31.69,42,44.02,52,36.0,,,,,,,,,,,0.0,112.0
+Saitama University,Japan,COMBUSTION,48,54,18.71,24,54.61,52,36.0,,,,,,,,,,,0.0,109.0
+Fukui University of Technology,Japan,COMBUSTION,49,28,36.31,50,36.68,55,35.0,,,,,,,,,,,0.0,108.0
+Osaka Metropolitan University,Japan,COMBUSTION,50,37,31.43,44,42.39,48,43.0,,,,,,,,,,,-10.0,107.0
+Meisei University,Japan,COMBUSTION,51,40,30.63,53,35.05,55,35.0,,,,,,,,,,,0.0,101.0
+Ritsumeikan University,Japan,COMBUSTION,52,50,20.79,35,48.09,52,36.0,,,,,,,,,,,-10.0,95.0
+Khulna University of Engineering & Technology,Bangladesh,COMBUSTION,53,29,36.13,31,49.72,30,59.0,,,,,,,,,,,-50.0,95.0
+National Cheng Kung University,Taiwan,ELECTRIC,54,63,5.0,21,56.25,34,53.0,,,,,,,,,,,-20.0,94.0
+Hiroshima Institute of Technology,Japan,COMBUSTION,55,20,39.02,60,26.9,57,32.0,,,,,,,,,,,-10.0,88.0
+Sophia University,Japan,ELECTRIC,56,62,6.0,35,48.09,57,32.0,,,,,,,,,,,0.0,86.0
+Kurume Institute of Technology,Japan,COMBUSTION,57,55,18.05,56,32.6,59,29.0,,,,,,,,,,,-10.0,70.0
+Kanagawa Institute of Technology,Japan,ELECTRIC,58,53,18.81,51,35.86,34,53.0,,,,,,,,,,,-40.0,68.0
+Nishinippon Institute of Technology,Japan,COMBUSTION,59,56,15.03,53,35.05,64,6.0,,,,,,,,,,,0.0,56.0
+Toyohashi University of Technology,Japan,ELECTRIC,60,57,13.11,57,30.97,22,67.0,,,,,,,,,,,-60.0,51.0
+Shizuoka Professional College of Automobile Technology,Japan,ELECTRIC,61,61,10.0,53,35.05,42,48.0,,,,,,,,,,,-50.0,43.0
+Nissan Automobile Technical College Kyoto,Japan,ELECTRIC,62,48,23.29,,,61,20.0,,,,,36,6.5,,,,,-10.0,40.0
+Tottori University,Japan,COMBUSTION,63,47,23.64,,,63,7.0,,,,,,,,,,,-20.0,11.0
+Tokyo University of Technology,Japan,ELECTRIC,64,64,4.75,61,20.38,62,17.0,,,,,,,,,,,-40.0,2.0

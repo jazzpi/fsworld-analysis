@@ -1,0 +1,18 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Centro Universitário da FEI,Brazil,COMBUSTION,1,1,82.0,2,69.47,1,130.08,3,63.86,1,50.0,1,150.0,1,300.0,1,100.0,0.0,945.0
+Universidade Paulista,Brazil,COMBUSTION,2,14,15.0,11,34.74,11,57.33,2,65.16,4,32.28,3,139.0,2,299.15,3,24.94,0.0,668.0
+Universidade Federal do Rio de Janeiro,Brazil,COMBUSTION,3,5,66.2,7,46.58,8,76.17,5,28.59,6,19.08,5,86.48,3,242.56,2,79.44,0.0,645.0
+Escola de Engenharia de São Carlos da Universidade de São Paulo,Brazil,COMBUSTION,4,2,70.1,6,48.95,3,112.58,1,75.0,3,34.31,2,141.14,,,,,0.0,482.0
+Centro Federal de Educação Tecnológica de Minas Gerais,Brazil,COMBUSTION,5,8,60.3,3,60.79,7,77.5,,,5,22.16,4,101.25,,,,,0.0,322.0
+Centro Universitário Facens,Brazil,COMBUSTION,6,9,43.2,1,75.0,4,88.17,,,2,35.19,6,76.75,,,,,0.0,318.0
+Instituto Mauá de Tecnologia,Brazil,COMBUSTION,7,7,60.7,8,45.79,6,80.42,7,3.5,7,16.59,7,56.65,,,,,0.0,264.0
+Escola Politécnica da Universidade de São Paulo,Brazil,COMBUSTION,8,4,67.9,5,53.68,5,82.42,4,38.58,9,2.5,8,7.5,,,,,0.0,253.0
+Universidade Estadual de Campinas,Brazil,COMBUSTION,9,6,64.9,10,45.0,2,113.67,6,7.42,8,5.03,8,7.5,,,,,0.0,244.0
+Hindustan Institute of Technology and Science,India,COMBUSTION,10,3,68.9,11,34.74,13,46.42,,,,,8,7.5,,,,,0.0,158.0
+Universidade Estadual Paulista - Guaratinguetá,Brazil,COMBUSTION,11,13,28.2,8,45.79,10,66.92,,,,,,,,,,,0.0,141.0
+Universidade Federal Fluminense - Niterói,Brazil,COMBUSTION,12,9,43.2,13,30.0,12,46.58,,,,,,,,,,,0.0,120.0
+Universidade Federal de Santa Maria,Brazil,COMBUSTION,13,11,39.5,,,9,68.33,,,,,,,,,,,0.0,108.0
+Universidade Tecnológica Federal do Paraná,Brazil,COMBUSTION,14,12,33.0,14,11.05,15,44.0,,,,,,,,,,,0.0,88.0
+Centro integrado de Manufatura e Tecnologia - SENAI/CIMATEC,Brazil,COMBUSTION,15,,,4,55.26,17,20.0,,,,,,,,,,,0.0,75.0
+Universidade Paulista - Sorocaba,Brazil,COMBUSTION,16,,,,,14,45.67,,,,,,,,,,,0.0,46.0
+Federal University of Paraíba,Brazil,COMBUSTION,17,15,6.0,,,16,23.92,,,,,,,,,,,0.0,30.0

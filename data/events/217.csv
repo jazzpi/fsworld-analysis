@@ -1,0 +1,16 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Westsächsische Hochschule Zwickau,Germany,ELECTRIC,1,8,82.0,13,49.0,4,135.0,2,73.81,1,75.0,1,100.0,1,325.0,1,100.0,0.0,940.0
+Czech Technical University in Prague,Czech Republic,ELECTRIC,2,5,84.0,3,71.0,7,117.0,1,75.0,2,61.85,2,88.17,2,198.59,5,93.63,0.0,789.0
+Helsinki Metropolia University of Applied Sciences,Finland,ELECTRIC,3,4,89.0,5,66.0,9,94.0,5,63.15,4,42.66,4,73.14,3,194.63,3,98.52,0.0,721.0
+Universität Bayreuth,Germany,ELECTRIC,4,3,90.0,8,60.0,5,126.0,7,39.58,6,38.87,6,55.33,4,181.44,4,96.56,0.0,688.0
+Technische Universität Clausthal,Germany,ELECTRIC,5,13,62.0,4,67.0,10,86.0,6,40.42,7,33.72,7,15.58,5,90.33,2,99.68,0.0,495.0
+Politecnico di Torino,Italy,ELECTRIC,6,2,94.0,6,65.0,2,145.0,4,70.32,5,40.12,3,73.95,,,,,0.0,488.0
+Technische Universität Wien,Austria,ELECTRIC,7,5,84.0,1,75.0,1,150.0,9,24.69,3,52.74,5,71.59,6,25.0,,,0.0,483.0
+KU Leuven - Group T Campus,Belgium,ELECTRIC,8,10,78.0,8,60.0,6,124.0,3,70.9,8,32.55,9,4.5,,,,,0.0,370.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),Germany,ELECTRIC,9,9,80.0,8,60.0,3,140.0,,,,,,,,,,,0.0,280.0
+Hochschule Esslingen,Germany,ELECTRIC,10,12,66.0,14,43.0,8,103.0,8,37.93,9,20.95,9,4.5,,,,,0.0,275.0
+UAS Würzburg-Schweinfurt,Germany,ELECTRIC,11,5,84.0,2,73.0,11,82.0,,,,,,,,,,,0.0,239.0
+Technische Universität Berlin,Germany,ELECTRIC,12,1,95.0,7,61.0,14,70.0,,,,,,,,,,,0.0,226.0
+Slovak University of Technology in Bratislava,Slovakia,ELECTRIC,13,15,51.0,12,54.0,11,82.0,,,,,8,12.75,,,,,0.0,200.0
+Universität Duisburg-Essen,Germany,ELECTRIC,14,11,68.0,11,58.0,13,73.0,,,,,,,,,,,0.0,199.0
+Belgorod state technological university named after V. G. Shukhov,Russia,ELECTRIC,15,14,52.0,15,34.0,15,50.0,,,,,,,,,,,0.0,136.0

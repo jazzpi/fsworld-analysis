@@ -1,0 +1,16 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Rzeszów University of Technology,Poland,COMBUSTION,1,9,46.0,5,71.0,4,135.0,4,48.31,5,59.11,5,66.32,1,325.0,,,0.0,751.0
+Università degli Studi di Napoli Federico II,Italy,COMBUSTION,2,5,69.0,6,70.0,8,105.0,7,38.25,9,42.67,9,10.96,2,245.83,1,100.0,0.0,682.0
+Czech Technical University in Prague,Czech Republic,COMBUSTION,3,2,88.0,2,74.0,1,150.0,1,75.0,6,57.09,1,100.0,,,,,0.0,544.0
+University of Thessaly,Greece,COMBUSTION,4,1,95.0,3,73.0,2,145.0,9,28.2,4,61.41,3,78.27,,,,,0.0,481.0
+Budapest University of Technology and Economics,Hungary,COMBUSTION,5,3,83.0,10,50.0,3,140.0,5,42.54,1,75.0,4,71.16,,,,,0.0,462.0
+AGH University of Science and Technology,Poland,COMBUSTION,6,10,44.0,7,62.0,7,115.0,3,62.47,2,70.61,2,84.33,,,,,0.0,438.0
+Czech University of Life Sciences Prague,Czech Republic,COMBUSTION,7,6,57.0,9,52.0,5,120.0,6,40.57,8,51.69,6,63.27,,,,,0.0,385.0
+University of Oulu,Finland,COMBUSTION,8,10,44.0,13,40.0,6,116.0,2,62.97,3,67.12,7,37.5,,,,,-5.0,363.0
+University of Rijeka,Croatia,COMBUSTION,9,13,37.0,12,45.0,12,61.0,8,36.37,7,53.19,8,30.69,,,,,0.0,263.0
+University Politehnica Of Bucharest,Romania,COMBUSTION,10,6,57.0,1,75.0,9,83.0,11,15.08,11,3.5,10,4.5,,,,,-5.0,233.0
+Technical University of Liberec,Czech Republic,COMBUSTION,11,8,52.0,4,72.0,10,70.0,,,,,,,,,,,0.0,194.0
+Universitatea Politehnica Timișoara,Romania,COMBUSTION,12,14,25.0,11,49.0,13,58.0,10,16.83,10,17.0,10,4.5,,,,,0.0,170.0
+University of Indonesia,Indonesia,COMBUSTION,13,10,44.0,7,62.0,14,41.0,,,,,,,,,,,0.0,147.0
+Gheorghe Asachi Technical University of Iaşi,Romania,COMBUSTION,14,4,72.0,14,32.0,15,31.0,,,,,,,,,,,0.0,135.0
+Eskişehir Technical University,Turkey,COMBUSTION,15,15,15.0,15,29.0,11,69.0,,,,,,,,,,,0.0,113.0

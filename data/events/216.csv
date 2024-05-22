@@ -1,0 +1,34 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Czech Technical University in Prague,Czech Republic,COMBUSTION,1,4,89.0,3,71.0,3,140.0,8,66.87,2,71.84,1,100.0,1,325.0,5,80.26,0.0,944.0
+Wroclaw University of Technology,Poland,COMBUSTION,2,7,85.0,4,70.0,2,145.0,4,70.86,6,65.36,3,74.05,2,289.14,6,71.92,0.0,871.0
+Brno University of Technology,Czech Republic,COMBUSTION,3,2,93.0,4,70.0,1,150.0,4,70.86,8,64.26,2,83.34,8,228.76,2,84.27,0.0,844.0
+Alma Mater Studiorum - Università di Bologna,Italy,COMBUSTION,4,3,92.0,1,75.0,8,114.0,7,67.36,4,66.11,8,67.74,4,275.73,13,48.0,0.0,806.0
+Fachhochschule Konstanz,Germany,COMBUSTION,5,15,78.0,15,60.0,9,113.0,12,58.43,10,62.07,13,56.27,3,275.77,8,59.57,0.0,763.0
+University of West Bohemia,Czech Republic,COMBUSTION,6,21,73.0,7,68.0,12,99.0,2,74.47,11,58.86,17,48.9,6,267.94,9,57.95,0.0,748.0
+Università di Pisa,Italy,COMBUSTION,7,6,88.0,7,68.0,15,89.0,10,64.45,12,58.15,5,71.42,10,210.27,10,57.59,0.0,707.0
+Széchenyi István University,Hungary,COMBUSTION,8,4,89.0,15,60.0,7,116.0,,,,,12,63.19,5,274.78,1,100.0,0.0,703.0
+Białystok University of Technology,Poland,COMBUSTION,9,24,70.0,25,50.0,5,130.0,9,64.93,7,64.99,4,73.8,11,183.16,11,55.37,0.0,692.0
+University of Southampton,United Kingdom,COMBUSTION,10,16,77.0,23,52.0,6,117.0,12,58.43,4,66.11,15,52.55,7,236.94,15,16.47,0.0,676.0
+University of Huddersfield,United Kingdom,COMBUSTION,11,11,80.0,22,53.0,17,86.0,25,29.93,16,51.68,14,55.81,9,213.17,14,39.68,0.0,609.0
+VŠB - Technical University of Ostrava,Czech Republic,COMBUSTION,12,13,79.0,12,61.0,24,62.0,11,62.56,17,50.69,19,44.13,12,134.1,3,82.9,0.0,576.0
+University of Burgundy - ISAT,France,COMBUSTION,13,13,79.0,26,48.0,27,60.0,15,50.65,15,52.01,18,45.31,13,122.29,4,81.18,0.0,538.0
+University of Thessaly,Greece,COMBUSTION,14,1,94.0,2,73.0,11,107.0,6,67.85,20,43.98,6,68.52,,,,,0.0,454.0
+Hochschule Niederrhein,Germany,COMBUSTION,15,27,65.0,15,60.0,4,135.0,16,50.23,9,62.43,9,67.5,,,,,0.0,440.0
+Otto-von-Guericke-Universität Magdeburg,Germany,COMBUSTION,16,16,77.0,21,54.0,24,62.0,18,47.38,23,21.68,25,4.5,14,117.76,12,53.86,0.0,438.0
+Poznan University of Technology,Poland,COMBUSTION,17,21,73.0,23,52.0,10,110.0,1,75.0,14,52.68,7,68.46,,,,,0.0,431.0
+Technion - Israel Institute of Technology,Israel,COMBUSTION,18,10,82.0,9,67.0,13,97.0,24,38.23,1,75.0,20,43.65,,,,,0.0,403.0
+Fachhochschule Stralsund,Germany,COMBUSTION,19,9,83.0,12,61.0,19,78.0,3,71.88,19,44.6,11,63.42,,,,,0.0,402.0
+University of Toronto,Canada,COMBUSTION,20,31,64.0,12,61.0,15,89.0,19,45.79,18,47.44,10,64.18,17,25.0,,,0.0,396.0
+Gdańsk University of Technology,Poland,COMBUSTION,21,24,70.0,31,25.0,33,18.0,21,38.96,21,28.95,24,4.89,15,87.07,7,67.2,0.0,340.0
+Technical University of Liberec,Czech Republic,COMBUSTION,22,8,84.0,30,32.0,29,50.0,14,51.48,3,67.61,16,51.55,,,,,0.0,337.0
+Rzeszów University of Technology,Poland,COMBUSTION,23,18,76.0,18,55.0,21,74.0,17,48.59,22,27.61,21,37.12,,,,,0.0,318.0
+Bergische Universität Wuppertal,Germany,COMBUSTION,24,27,65.0,18,55.0,26,61.0,28,18.84,25,15.62,25,4.5,16,72.19,,,0.0,292.0
+Delhi Technological University,India,COMBUSTION,25,19,75.0,10,65.0,14,93.0,27,23.28,26,3.96,25,4.5,17,25.0,,,0.0,290.0
+TAMK University of Applied Sciences,Finland,COMBUSTION,26,21,73.0,18,55.0,29,50.0,22,38.59,13,54.7,25,4.5,,,,,0.0,276.0
+Budapest University of Technology and Economics,Hungary,COMBUSTION,27,26,68.0,6,69.0,20,75.0,22,38.59,26,3.96,23,5.9,,,,,0.0,260.0
+University of Miskolc,Hungary,COMBUSTION,28,32,60.0,28,37.0,28,59.0,26,27.01,24,17.52,25,4.5,,,,,0.0,205.0
+Karlstad University,Sweden,COMBUSTION,29,19,75.0,29,36.0,18,84.0,,,,,,,,,,,0.0,195.0
+Middle East Technical University,Turkey,COMBUSTION,30,11,80.0,27,43.0,22,64.0,,,,,,,,,,,0.0,187.0
+Koblenz University of Applied Science,Germany,COMBUSTION,31,27,65.0,11,64.0,31,42.0,,,,,,,,,,,0.0,171.0
+Technical University of Sofia,Bulgaria,COMBUSTION,32,27,65.0,,,32,36.0,20,40.43,,,22,10.93,,,,,0.0,152.0
+Bauman Moscow State Technical University,Russia,COMBUSTION,33,33,55.0,32,15.0,23,63.0,,,,,,,,,,,0.0,133.0

@@ -1,0 +1,19 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Duale Hochschule Baden-Württemberg Stuttgart,Germany,ELECTRIC,1,3,90.61,5,70.21,1,150.0,1,100.0,2,74.58,3,112.55,1,275.0,4,89.24,0.0,962.0
+GFR DHBW Ravensburg & Oregon State University,Bermuda,ELECTRIC,2,9,72.19,4,71.01,2,148.96,4,79.57,4,66.93,4,106.65,2,266.88,3,92.44,0.0,905.0
+Politecnico di Torino,Italy,ELECTRIC,3,6,80.1,8,60.64,5,131.25,3,83.6,1,75.0,2,123.97,3,208.38,5,83.83,-10.0,837.0
+Hochschule Bonn-Rhein-Sieg,Germany,ELECTRIC,4,17,45.55,9,56.65,3,136.46,5,52.89,7,45.46,1,125.0,4,196.22,2,93.46,0.0,752.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,Germany,ELECTRIC,5,1,100.0,7,62.23,11,85.42,8,4.5,6,46.11,7,56.88,5,129.46,1,100.0,0.0,585.0
+Technische Universität Dresden,Germany,ELECTRIC,6,2,99.82,1,75.0,9,105.21,2,91.09,3,68.9,8,6.5,,,,,0.0,447.0
+Hochschule Aalen - Technik und Wirtschaft,Germany,ELECTRIC,7,14,57.16,11,43.09,4,133.33,6,46.8,5,60.45,5,94.85,8,4.0,,,0.0,440.0
+Aristotle University of Thessaloniki,Greece,ELECTRIC,8,12,64.7,3,71.81,6,119.79,7,17.38,8,3.5,6,69.13,6,9.0,,,0.0,355.0
+Fachhochschule Kiel,Germany,ELECTRIC,9,8,72.94,2,73.4,8,113.54,,,,,,,7,6.0,,,0.0,266.0
+"Università degli Studi di Roma ""La Sapienza""",Italy,ELECTRIC,10,4,86.67,16,29.52,6,119.79,,,,,,,,,,,0.0,236.0
+University of Iceland,Iceland,ELECTRIC,11,10,71.17,6,69.42,10,100.0,,,,,,,,,,,-20.0,221.0
+TECNUN - University of Navarra,Spain,ELECTRIC,12,16,50.0,10,45.48,12,73.96,,,,,,,,,,,0.0,169.0
+Universität Bremen,Germany,ELECTRIC,13,5,83.06,15,35.11,15,48.96,,,,,,,,,,,0.0,167.0
+ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),France,ELECTRIC,14,7,76.45,14,35.9,18,34.38,,,,,,,,,,,0.0,147.0
+Hochschule Ruhr West - UAS,Germany,ELECTRIC,15,11,66.74,18,23.14,17,35.42,8,4.5,8,3.5,8,6.5,9,2.0,,,0.0,142.0
+Università degli Studi di Trento,Italy,ELECTRIC,16,15,51.25,12,41.49,13,71.88,,,,,,,,,,,-30.0,135.0
+Hochschule Düsseldorf,Germany,ELECTRIC,17,13,59.74,17,28.72,14,51.04,,,,,,,,,,,-100.0,40.0
+Hochschule für Angewandte Wissenschaften Hof,Germany,ELECTRIC,18,18,42.43,13,37.5,16,42.71,,,,,,,,,,,-100.0,23.0

@@ -1,0 +1,28 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Vishwakarma Institute of Technology,India,COMBUSTION,1,6,75.99,10,64.55,12,83.64,2,72.81,2,73.52,1,100.0,1,325.0,1,100.0,0.0,896.0
+Nirma University,India,COMBUSTION,2,15,52.07,23,42.98,2,135.0,1,75.0,1,75.0,2,75.0,,,,,0.0,455.0
+Pune Vidyarti Griha,India,COMBUSTION,3,7,74.87,17,52.29,4,125.0,3,65.41,4,43.78,4,9.72,,,,,0.0,371.0
+"Sinhgad College of Engineering, Vadgaon",India,COMBUSTION,4,17,51.08,12,62.5,3,130.0,5,57.92,3,58.59,5,4.5,,,,,0.0,365.0
+Manipal Academy of Higher Education,India,COMBUSTION,5,2,94.0,7,67.18,13,78.77,4,64.09,,,3,36.77,,,,,0.0,341.0
+Thapar Institute of Engineering and Technology,India,COMBUSTION,6,1,95.0,3,73.0,1,150.0,,,,,,,,,,,0.0,318.0
+VIT University - Vellore,India,COMBUSTION,7,4,92.0,1,75.0,5,120.0,,,,,,,,,,,-20.0,267.0
+Indian Institute of Technology Kharagpur,India,COMBUSTION,8,3,93.0,6,68.36,7,100.0,,,5,3.5,,,,,,,-20.0,245.0
+VIT University - Chennai,India,COMBUSTION,9,8,72.0,15,53.13,6,115.0,,,,,,,,,,,0.0,240.0
+Thakur College of Engineering and Technology,India,COMBUSTION,10,11,63.89,9,65.9,9,90.67,7,3.5,,,,,,,,,0.0,224.0
+Ramaiah Institute of Technology,India,COMBUSTION,11,18,48.52,4,71.0,8,92.92,,,,,,,,,,,0.0,212.0
+"The National Institute of Engineering, Mysore",India,COMBUSTION,12,12,63.05,11,63.81,19,25.73,6,40.29,,,5,4.5,,,,,0.0,197.0
+Aligarh Muslim University,India,COMBUSTION,13,20,29.61,2,74.0,11,85.41,,,,,,,,,,,0.0,189.0
+St. Vincent Pallotti College of Engineering and Technology,India,COMBUSTION,14,19,39.52,19,46.92,10,87.92,,,,,,,,,,,0.0,174.0
+Government Engineering College - Thrissur,India,COMBUSTION,15,10,64.17,13,62.06,16,56.84,,,,,,,,,,,-20.0,163.0
+Pillai College Of Engineering,India,COMBUSTION,16,9,68.68,14,56.68,20,22.69,,,,,,,,,,,0.0,148.0
+"MIT Art, Design and Technology University",India,COMBUSTION,17,5,79.93,18,49.04,25,5.61,,,,,,,,,,,0.0,135.0
+Kumaraguru College of Technology,India,COMBUSTION,18,14,56.5,20,45.36,26,1.54,,,,,,,2,25.0,,,0.0,128.0
+Charotar University of Science and Technology,India,COMBUSTION,19,,,5,70.0,18,40.94,,,,,,,,,,,-20.0,91.0
+"National Institute of Technology, Raipur",India,COMBUSTION,20,16,51.49,8,66.2,,,,,,,,,,,,,-30.0,88.0
+"Amrita School of Engineering, Coimbatore",India,COMBUSTION,21,,,26,34.03,17,50.42,,,,,,,,,,,0.0,84.0
+SASTRA Deemed To Be University,India,COMBUSTION,22,,,27,32.65,14,74.41,,,,,,,,,,,-40.0,67.0
+Marathwada Mitra Mandal,India,COMBUSTION,23,,,21,44.67,21,19.78,,,,,,,,,,,0.0,64.0
+Sikkim Manipal Institute of Technology,India,COMBUSTION,24,,,22,43.03,22,13.82,,,,,,,,,,,-5.0,52.0
+Ahsanullah University of Science and Technology,Bangladesh,COMBUSTION,25,21,1.02,25,38.44,24,12.71,,,,,,,,,,,-20.0,32.0
+College of Engineering Trivandrum,India,COMBUSTION,26,,,16,52.78,15,65.9,,,,,,,,,,,-90.0,29.0
+Rajendra Mane College of Engineering and Technology,India,COMBUSTION,27,13,61.36,24,39.97,23,13.49,,,,,,,,,,,-90.0,25.0

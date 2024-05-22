@@ -1,0 +1,11 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Cornell University,United States,COMBUSTION,1,,,,,,,,,,,,,,,,,0.0,855.0
+University of Texas at Arlington,United States,COMBUSTION,2,,,,,,,,,,,,,,,,,0.0,792.0
+Virginia Polytechnic Institute and State University,United States,COMBUSTION,3,,,,,,,,,,,,,,,,,0.0,681.0
+West Virginia University,United States,COMBUSTION,4,,,,,,,,,,,,,,,,,0.0,563.0
+San José State University,United States,COMBUSTION,5,,,,,,,,,,,,,,,,,0.0,526.0
+The University of Akron,United States,COMBUSTION,6,,,,,,,,,,,,,,,,,0.0,465.0
+University of Michigan - Ann Arbor,United States,COMBUSTION,7,,,,,,,,,,,,,,,,,0.0,451.0
+University of Waterloo,Canada,COMBUSTION,8,,,,,,,,,,,,,,,,,0.0,431.0
+University of Illinois at Urbana-Champaign,United States,COMBUSTION,9,,,,,,,,,,,,,,,,,0.0,414.0
+Western Washington University,United States,COMBUSTION,10,,,,,,,,,,,,,,,,,0.0,408.0

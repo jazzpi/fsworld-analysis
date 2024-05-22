@@ -1,0 +1,21 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Westsächsische Hochschule Zwickau,Germany,ELECTRIC,1,5,76.83,1,75.0,1,150.0,6,58.6,1,50.0,1,150.0,2,296.66,7,92.63,-20.0,930.0
+Duale Hochschule Baden-Württemberg Stuttgart,Germany,ELECTRIC,2,9,69.11,3,70.21,3,138.78,2,71.79,10,18.66,,,3,279.0,5,94.9,0.0,742.0
+Technische Universität Bergakademie Freiberg,Germany,ELECTRIC,3,1,100.0,6,64.63,7,117.35,9,45.42,9,19.73,,,1,300.0,4,97.0,-20.0,724.0
+Ostfalia University of Applied Sciences,Germany,ELECTRIC,4,3,88.96,10,59.04,8,114.29,1,75.0,2,38.38,5,88.84,6,25.0,1,100.0,0.0,590.0
+Politecnico di Torino,Italy,ELECTRIC,5,18,32.99,16,43.09,4,132.65,12,33.14,6,24.34,11,38.85,4,182.97,6,92.9,0.0,581.0
+Technische Hochschule Ingolstadt,Germany,ELECTRIC,6,12,63.52,14,51.06,10,109.18,10,45.25,7,21.99,4,95.57,6,25.0,8,88.5,-40.0,460.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,ELECTRIC,7,14,56.1,5,65.43,2,142.86,3,62.27,13,2.5,3,101.53,12,8.0,,,0.0,439.0
+Escola Superior d,Spain,ELECTRIC,8,2,99.66,7,63.03,6,118.37,4,60.17,11,15.64,2,109.5,10,13.0,,,-50.0,429.0
+Hochschule Aalen - Technik und Wirtschaft,Germany,ELECTRIC,9,16,48.36,4,66.22,17,62.25,8,55.34,3,26.93,6,88.0,8,17.0,2,98.59,-70.0,393.0
+Georg-Simon-Ohm-Hochschule Nürnberg,Germany,ELECTRIC,10,4,79.35,8,60.64,13,96.94,,,,,12,13.11,5,112.18,3,98.13,-100.0,360.0
+Czech Technical University in Prague,Czech Republic,ELECTRIC,11,8,70.82,9,59.84,5,130.61,5,59.19,4,24.99,8,67.39,13,6.0,,,-75.0,344.0
+Technische Universität Hamburg,Germany,ELECTRIC,12,11,64.48,11,55.85,11,104.08,7,56.1,8,19.92,9,57.89,9,14.0,,,-50.0,322.0
+Technische Universität Clausthal,Germany,ELECTRIC,13,13,58.74,15,43.88,15,91.84,11,39.66,12,7.9,7,68.69,11,10.0,,,0.0,321.0
+Technische Universität Dresden,Germany,ELECTRIC,14,,,2,73.4,9,111.22,13,30.23,5,24.55,10,40.32,14,2.0,,,-50.0,232.0
+Ben-Gurion University of the Negev,Israel,ELECTRIC,15,7,71.71,13,52.66,12,98.98,,,,,,,,,,,-10.0,213.0
+Universität Duisburg-Essen,Germany,ELECTRIC,16,17,44.37,18,40.69,13,96.94,,,,,,,,,,,-50.0,132.0
+R.V.College of Engineering,India,ELECTRIC,17,6,72.34,11,55.85,20,23.47,,,,,,,,,,,-20.0,132.0
+SRM Institute of Science and Technology - Kattankulathur,India,ELECTRIC,18,15,48.87,17,41.49,19,40.82,,,,,,,,,,,0.0,131.0
+"Università degli Studi di Roma ""La Sapienza""",Italy,ELECTRIC,19,10,68.91,20,32.71,16,75.51,,,,,,,,,,,-110.0,67.0
+Bern University of Applied Sciences,Switzerland,ELECTRIC,20,19,31.66,19,37.5,18,46.94,,,,,,,,,,,-50.0,66.0

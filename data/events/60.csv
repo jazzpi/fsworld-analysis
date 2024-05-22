@@ -1,0 +1,22 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Monash University,Australia,COMBUSTION,1,1,74.87,5,62.01,1,150.0,2,73.19,1,50.0,1,150.0,2,328.7,,,0.0,889.0
+University of Western Australia,Australia,COMBUSTION,2,3,67.26,3,65.08,2,145.0,1,75.0,2,36.05,3,132.5,3,312.3,,,0.0,833.0
+University of Wollongong,Australia,COMBUSTION,3,2,74.12,1,75.0,10,80.0,3,60.67,8,10.44,6,88.76,4,310.6,,,0.0,700.0
+Queensland University of Technology,Australia,COMBUSTION,4,10,53.2,6,60.55,15,65.0,7,45.0,5,18.65,4,126.0,5,289.0,,,0.0,657.0
+RMIT University,Australia,COMBUSTION,5,5,60.48,4,62.16,7,93.0,,,,,9,49.55,1,366.7,,,0.0,632.0
+Edith Cowan University,Australia,COMBUSTION,6,6,59.94,15,50.34,4,120.0,5,48.84,9,6.67,8,61.05,7,203.4,,,0.0,550.0
+University of Melbourne,Australia,COMBUSTION,7,17,43.52,17,46.4,5,100.0,8,41.29,4,21.38,7,71.11,8,183.0,,,0.0,507.0
+University of Sydney,Australia,COMBUSTION,8,7,57.97,12,51.65,12,72.0,8,41.29,6,16.38,10,7.5,6,211.1,,,0.0,458.0
+University of Auckland,New Zealand,COMBUSTION,9,11,51.26,9,56.76,3,135.0,10,40.38,3,29.61,5,120.19,,,,,0.0,433.0
+Swinburne University of Technology,Australia,COMBUSTION,10,13,49.2,7,58.51,6,99.0,5,48.84,7,13.74,2,138.93,,,,,0.0,408.0
+King Mongkut,Thailand,COMBUSTION,11,16,45.13,12,51.65,14,68.0,,,,,10,7.5,10,141.7,,,0.0,314.0
+University of South Australia,Australia,COMBUSTION,12,12,51.19,8,57.2,20,37.0,,,,,10,7.5,9,154.6,,,0.0,307.0
+University of New South Wales - Australian Defence Force Academy,Australia,COMBUSTION,13,15,45.85,2,66.97,9,87.0,,,,,10,7.5,11,93.2,,,0.0,301.0
+University of Adelaide,Australia,COMBUSTION,14,4,63.72,14,51.36,8,89.0,,,,,10,7.5,,,,,0.0,212.0
+University of New South Wales,Australia,COMBUSTION,15,18,40.74,16,49.9,19,38.0,4,51.31,,,10,7.5,,,,,0.0,187.0
+Tokyo Denki University,Japan,COMBUSTION,16,8,56.87,19,45.38,13,71.0,,,,,,,,,,,0.0,173.0
+Iran University of Science and Technology - Arak,Iran,COMBUSTION,17,14,46.18,20,43.63,16,64.0,,,,,,,,,,,0.0,154.0
+Curtin University,Australia,COMBUSTION,18,19,11.0,10,53.11,11,78.0,,,,,,,,,,,0.0,142.0
+University of Waikato,New Zealand,COMBUSTION,19,20,6.0,18,45.67,17,63.0,,,,,10,7.5,,,,,0.0,122.0
+"University of Technology, Sydney",Australia,COMBUSTION,20,21,5.0,11,52.24,18,43.0,11,3.5,10,2.5,10,7.5,,,,,0.0,114.0
+PEC University of Technology,India,COMBUSTION,21,9,54.0,,,21,18.0,,,,,,,,,,,0.0,72.0

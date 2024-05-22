@@ -1,0 +1,13 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Carnegie Mellon University,United States,ELECTRIC,1,1,94.0,2,71.3,1,145.0,1,100.0,1,75.0,1,125.0,1,275.0,3,95.7,0.0,981.0
+University of Michigan - Ann Arbor,United States,ELECTRIC,2,11,61.2,6,58.5,5,95.0,2,78.9,2,56.1,2,101.5,3,162.4,2,98.2,0.0,712.0
+Université Laval,Canada,ELECTRIC,3,3,80.3,9,46.7,4,105.0,3,22.7,4,44.1,3,89.6,2,182.0,1,100.0,0.0,670.0
+Western University,Canada,ELECTRIC,4,4,78.4,5,58.9,2,140.0,,,,,,,,,,,0.0,277.0
+McGill University,Canada,ELECTRIC,5,2,81.3,4,64.9,3,125.0,4,4.5,,,,,,,,,0.0,276.0
+The University of Akron,United States,ELECTRIC,6,7,67.7,12,34.3,7,80.0,4,4.5,3,47.5,4,6.5,4,5.0,,,0.0,245.0
+University of Manitoba,Canada,ELECTRIC,7,5,73.4,1,75.0,8,60.0,,,,,,,,,,,0.0,208.0
+Olin College of Engineering,United States,ELECTRIC,8,9,65.7,3,67.5,6,90.0,,,,,,,,,,,-30.0,193.0
+Purdue University - West Lafayette,United States,ELECTRIC,9,10,62.7,7,56.5,8,60.0,,,,,,,,,,,0.0,179.0
+University of Waterloo,Canada,ELECTRIC,10,8,66.1,11,36.6,8,60.0,,,,,,,,,,,0.0,163.0
+University of Iowa,United States,ELECTRIC,11,6,73.0,8,51.1,8,60.0,,,,,,,,,,,-50.0,134.0
+University of Ontario Institute of Technology,Canada,ELECTRIC,12,12,51.5,10,40.1,12,40.0,,,,,,,,,,,-10.0,122.0

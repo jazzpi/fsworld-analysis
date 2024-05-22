@@ -1,0 +1,19 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Tallinn TU UAS,Estonia,ELECTRIC,1,6,86.33,11,60.48,1,150.0,2,90.65,1,75.0,2,120.72,1,275.0,1,100.0,0.0,958.0
+GFR DHBW Ravensburg & Oregon State University,Bermuda,ELECTRIC,2,7,83.08,5,68.55,12,93.21,3,86.05,2,73.91,1,125.0,2,273.55,3,97.35,0.0,901.0
+Politecnico di Torino,Italy,ELECTRIC,3,3,90.96,15,47.58,4,128.57,4,79.97,4,48.99,4,95.56,3,112.08,4,96.72,0.0,700.0
+Duale Hochschule Baden-Württemberg Stuttgart,Germany,ELECTRIC,4,10,78.57,5,68.55,2,144.64,1,100.0,3,69.25,3,111.84,,,,,0.0,573.0
+Aristotle University of Thessaloniki,Greece,ELECTRIC,5,12,71.96,1,75.0,7,109.29,5,52.0,7,16.89,5,73.35,5,21.0,5,91.78,-100.0,411.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,Germany,ELECTRIC,6,1,100.0,2,72.58,6,114.64,7,4.5,9,3.5,9,6.5,4,25.0,,,0.0,327.0
+Georg-Simon-Ohm-Hochschule Nürnberg,Germany,ELECTRIC,7,18,13.41,7,67.74,8,108.21,7,4.5,6,20.24,6,56.54,6,18.0,2,98.15,-100.0,287.0
+Università degli studi di Padova,Italy,ELECTRIC,8,2,95.71,10,63.71,5,117.86,,,,,,,,,,,0.0,277.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,ELECTRIC,9,15,62.29,2,72.58,3,137.14,6,13.85,5,33.81,7,44.0,7,13.0,,,-110.0,267.0
+Università degli Studi di Trento,Italy,ELECTRIC,10,13,71.38,4,70.16,9,107.14,,,,,,,,,,,0.0,249.0
+University of Ljubljana,Slovenia,ELECTRIC,11,14,68.5,13,50.0,10,106.07,,,,,,,,,,,0.0,225.0
+VIT University - Vellore,India,ELECTRIC,12,5,86.91,8,65.32,13,67.5,,,,,,,,,,,-20.0,200.0
+Universität Duisburg-Essen,Germany,ELECTRIC,13,9,78.91,11,60.48,16,42.86,,,,,,,,,,,0.0,182.0
+"Università degli Studi di Roma ""La Sapienza""",Italy,ELECTRIC,14,4,90.26,14,49.19,11,96.43,,,,,,,,,,,-90.0,146.0
+ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),France,ELECTRIC,15,16,61.66,17,32.26,17,37.5,,,,,,,,,,,0.0,131.0
+Duale Hochschule Baden-Württemberg - Mannheim,Germany,ELECTRIC,16,11,78.45,9,64.52,13,67.5,,,,,,,,,,,-110.0,100.0
+Universität Kassel,Germany,ELECTRIC,17,8,79.06,18,21.77,18,21.43,,,,,,,,,,,-30.0,92.0
+Hochschule Ruhr West - UAS,Germany,ELECTRIC,18,17,52.74,16,43.55,15,58.93,7,4.5,8,6.37,8,7.21,8,3.0,,,-100.0,76.0

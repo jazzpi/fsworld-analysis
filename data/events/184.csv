@@ -1,0 +1,22 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Carnegie Mellon University,United States,ELECTRIC,1,10,74.5,4,71.2,9,90.0,5,81.6,5,61.3,4,98.1,2,240.0,6,92.9,-10.0,800.0
+McGill University,Canada,ELECTRIC,2,13,69.7,7,68.2,3,130.0,2,97.3,3,64.8,3,101.0,3,144.4,3,96.8,0.0,772.0
+University of Washington,United States,ELECTRIC,3,18,57.2,3,71.3,2,140.0,,,,,5,86.9,1,275.0,7,91.4,0.0,722.0
+University of Wisconsin-Madison,United States,ELECTRIC,4,15,66.9,8,66.2,1,150.0,6,58.9,4,62.9,,,5,46.0,3,96.8,0.0,548.0
+Massachusetts Institute of Technology,United States,ELECTRIC,5,8,76.0,10,57.7,5,100.0,1,100.0,2,70.7,1,125.0,,,,,0.0,529.0
+Georgia Institute of Technology,United States,ELECTRIC,6,2,91.2,11,54.6,13,60.0,,,,,6,52.1,4,121.2,2,97.6,0.0,477.0
+Purdue University - West Lafayette,United States,ELECTRIC,7,19,57.1,16,39.9,11,70.0,3,93.1,1,75.0,2,117.8,8,1.0,,,0.0,454.0
+Universidade Estadual de Campinas,Brazil,ELECTRIC,8,11,71.8,5,70.2,5,100.0,4,92.2,,,,,,,,,0.0,334.0
+École Polytechnique de Montréal,Canada,ELECTRIC,9,7,77.9,12,48.7,16,50.0,,,,,,,7,8.0,1,100.0,0.0,285.0
+University of Manitoba,Canada,ELECTRIC,10,20,55.5,9,59.3,16,50.0,,,,,,,6,9.0,5,94.8,0.0,269.0
+University of Pennsylvania,United States,ELECTRIC,11,9,74.6,1,75.0,4,110.0,,,,,,,,,,,0.0,260.0
+Missouri University of Science and Technology,United States,ELECTRIC,12,4,88.0,2,74.7,11,70.0,,,,,,,,,,,0.0,233.0
+University of Illinois at Urbana-Champaign,United States,ELECTRIC,13,14,69.6,17,39.7,5,100.0,,,,,7,6.5,,,,,0.0,216.0
+California State Polytechnic University - San Luis Obispo,United States,ELECTRIC,14,12,71.7,6,68.4,5,100.0,,,,,,,,,,,-48.0,192.0
+San José State University,United States,ELECTRIC,15,16,66.0,13,43.6,10,80.0,,,,,,,,,,,0.0,190.0
+Kookmin University,South Korea,ELECTRIC,16,5,81.0,15,41.9,19,30.0,,,,,,,,,,,0.0,153.0
+University of California Davis,United States,ELECTRIC,17,1,91.6,,,13,60.0,,,,,,,,,,,0.0,152.0
+University of Texas at Austin,United States,ELECTRIC,18,6,79.6,19,25.7,16,50.0,,,,,,,,,,,-10.0,145.0
+California Institute of Technology,United States,ELECTRIC,19,17,60.8,18,33.6,19,30.0,,,,,,,,,,,0.0,124.0
+University of Texas at San Antonio,United States,ELECTRIC,20,3,89.3,,,19,30.0,,,,,,,,,,,0.0,119.0
+University of California Irvine,United States,ELECTRIC,21,21,-9.3,13,43.6,13,60.0,,,,,,,,,,,-10.0,84.0

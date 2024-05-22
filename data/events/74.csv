@@ -1,0 +1,14 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+TU Delft,Netherlands,ELECTRIC,1,1,81.9,4,64.7,1,137.5,1,75.0,1,50.0,1,150.0,2,151.2,1,200.0,0.0,910.0
+ETH Zürich,Switzerland,ELECTRIC,2,2,81.3,8,49.3,3,118.0,3,50.1,,,2,112.3,1,200.0,3,117.1,0.0,728.0
+Technische Universiteit Eindhoven,Netherlands,ELECTRIC,3,5,76.9,3,66.1,6,94.0,2,57.4,3,32.9,4,18.3,3,122.3,4,84.3,0.0,552.0
+Westsächsische Hochschule Zwickau,Germany,ELECTRIC,4,4,77.7,1,75.0,2,129.5,4,39.7,2,47.4,3,29.8,4,117.9,5,32.3,0.0,549.0
+Imperial College London,United Kingdom,ELECTRIC,5,7,62.9,2,68.9,9,67.5,,,,,,,5,52.4,2,181.2,0.0,433.0
+Escola Superior d,Spain,OTHER,6,3,79.8,5,64.3,10,64.0,,,,,,,6,22.0,,,0.0,230.0
+Technische Universität Darmstadt,Germany,ELECTRIC,7,11,47.4,12,29.2,4,115.0,,,,,5,7.5,7,12.0,,,0.0,211.0
+Technische Universität Graz,Austria,ELECTRIC,8,8,61.3,10,39.7,5,100.0,,,,,,,,,,,0.0,201.0
+TU Delft,Netherlands,OTHER,9,11,47.4,7,49.5,7,93.0,,,,,,,,,,,0.0,190.0
+Slovak University of Technology in Bratislava,Slovakia,ELECTRIC,10,10,50.1,9,48.8,8,83.0,,,,,,,,,,,0.0,182.0
+University of Central Lancashire,United Kingdom,OTHER,11,6,70.0,6,60.8,,,5,3.5,4,27.2,,,8,7.0,,,0.0,168.0
+Manchester Metropolitan University,United Kingdom,ELECTRIC,12,9,53.2,13,22.2,11,58.0,,,,,,,,,,,0.0,133.0
+University of Iceland,Iceland,ELECTRIC,13,13,17.0,11,36.0,,,,,,,,,,,,,0.0,53.0

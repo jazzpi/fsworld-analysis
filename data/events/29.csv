@@ -1,0 +1,50 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Texas A&M University,United States,COMBUSTION,1,16,81.28,3,70.72,7,105.0,13,62.07,1,50.0,4,126.89,1,361.98,,,0.0,858.0
+RMIT University,Australia,COMBUSTION,2,8,87.51,6,68.74,3,135.0,18,58.33,2,43.65,6,117.59,7,314.64,,,0.0,825.0
+University of Wollongong,Australia,COMBUSTION,3,12,82.51,9,64.7,12,90.0,4,68.96,13,35.43,3,128.52,2,354.89,,,0.0,825.0
+University of Washington,United States,COMBUSTION,4,18,80.95,19,55.56,12,90.0,9,65.36,14,34.86,12,101.69,5,335.74,,,0.0,764.0
+Rochester Institute of Technology,United States,COMBUSTION,5,19,80.82,23,51.97,12,90.0,15,60.31,26,27.11,9,105.98,4,342.84,,,0.0,759.0
+Auburn University,United States,COMBUSTION,6,6,89.28,12,61.49,2,145.0,5,68.47,7,37.77,15,93.31,13,263.17,,,0.0,758.0
+University of Toledo,United States,COMBUSTION,7,5,89.4,17,57.75,27,50.0,12,63.07,11,36.23,5,124.94,6,334.01,,,0.0,755.0
+University of Oklahoma,United States,COMBUSTION,8,9,87.45,8,66.25,7,105.0,24,53.29,10,36.95,14,96.26,8,306.83,,,0.0,752.0
+Missouri University of Science and Technology,United States,COMBUSTION,9,23,78.71,13,60.3,18,70.0,32,40.34,23,28.83,10,105.41,3,347.79,,,0.0,731.0
+The University of Akron,United States,COMBUSTION,10,13,82.45,24,47.52,18,70.0,23,53.34,22,29.5,7,114.0,10,285.93,,,0.0,683.0
+Sophia University,Japan,COMBUSTION,11,27,77.03,4,70.6,7,105.0,2,70.47,12,35.66,31,46.68,12,270.55,,,0.0,676.0
+California State Polytechnic University - San Luis Obispo,United States,COMBUSTION,12,40,63.89,22,53.67,4,120.0,37,21.62,3,42.85,16,91.64,11,276.02,,,0.0,670.0
+Clemson University,United States,COMBUSTION,13,26,77.41,30,40.62,18,70.0,7,67.2,9,37.32,24,65.55,9,287.85,,,0.0,646.0
+Chalmers University of Technology,Sweden,COMBUSTION,14,14,81.91,20,55.27,7,105.0,19,57.92,21,29.67,23,66.52,17,168.25,,,0.0,565.0
+University of Kansas,United States,COMBUSTION,15,39,64.73,15,58.56,18,70.0,7,67.2,17,34.01,1,150.0,19,111.06,,,0.0,556.0
+Kettering University,United States,COMBUSTION,16,34,67.61,29,41.07,27,50.0,36,29.62,37,13.0,27,59.58,14,231.76,,,0.0,493.0
+Michigan State University,United States,COMBUSTION,17,45,52.44,2,72.63,4,120.0,14,60.67,6,37.96,2,133.01,,,,,0.0,477.0
+Centro Universitário Facens,Brazil,COMBUSTION,18,1,94.02,33,36.81,38,30.0,22,54.65,33,16.87,32,43.83,16,190.38,,,0.0,467.0
+École de Technologie Superieure,Canada,COMBUSTION,19,7,89.01,5,70.25,1,150.0,31,45.31,15,34.52,21,72.27,,,,,0.0,461.0
+Oregon State University,United States,COMBUSTION,20,24,78.22,1,75.0,12,90.0,1,75.0,29,21.97,13,98.73,,,,,0.0,439.0
+"California State Polytechnic University, Pomona",United States,COMBUSTION,21,33,68.89,10,64.64,12,90.0,6,68.36,24,28.41,11,102.16,,,,,0.0,422.0
+The Ohio State University,United States,COMBUSTION,22,3,90.09,31,39.09,12,90.0,10,65.04,28,26.05,8,107.59,,,,,0.0,418.0
+"California State University, Northridge",United States,COMBUSTION,23,22,78.77,26,45.53,27,50.0,27,51.43,27,26.33,19,81.35,22,73.91,,,0.0,407.0
+South Dakota School of Mines and Technology,United States,COMBUSTION,24,41,62.47,18,56.1,27,50.0,21,56.47,19,30.97,37,23.37,18,122.72,,,0.0,402.0
+Lafayette College,United States,COMBUSTION,25,47,48.34,39,29.78,38,30.0,39,19.4,40,2.5,33,39.48,15,231.19,,,0.0,401.0
+École Polytechnique de Montréal,Canada,COMBUSTION,26,20,79.4,38,32.94,7,105.0,26,52.29,8,37.67,17,85.45,,,,,0.0,393.0
+University of California Davis,United States,COMBUSTION,27,11,84.81,35,35.98,18,70.0,25,52.57,4,41.22,25,64.33,,,,,0.0,349.0
+Western University,Canada,COMBUSTION,28,21,78.79,11,62.54,27,50.0,20,57.57,30,21.13,22,71.8,,,,,0.0,342.0
+University of California San Diego,United States,COMBUSTION,29,38,65.69,32,38.51,18,70.0,3,69.8,25,27.83,28,58.13,,,,,0.0,330.0
+University of Victoria,Canada,COMBUSTION,30,36,66.73,48,23.61,18,70.0,29,50.25,18,33.2,20,79.31,,,,,0.0,323.0
+Colorado State University,United States,COMBUSTION,31,44,56.3,16,58.14,18,70.0,17,58.93,34,15.78,30,51.47,,,,,0.0,311.0
+Instituto Tecnológico de Chihuahua,Mexico,COMBUSTION,32,25,78.2,34,36.01,27,50.0,30,49.41,,,39,10.72,20,82.27,,,0.0,307.0
+University of Delaware,United States,COMBUSTION,33,31,72.04,27,44.86,38,30.0,16,59.8,36,14.67,18,82.46,,,,,0.0,304.0
+Brigham Young University,United States,COMBUSTION,34,29,74.25,7,67.95,27,50.0,11,64.08,16,34.28,40,9.91,,,,,0.0,300.0
+University of Texas at San Antonio,United States,COMBUSTION,35,30,74.15,36,34.27,27,50.0,28,50.96,20,29.73,29,57.18,,,,,0.0,296.0
+Washington State University,United States,COMBUSTION,36,35,67.18,46,24.77,38,30.0,34,37.53,5,38.83,36,25.67,23,52.78,,,0.0,277.0
+University of Alberta,Canada,COMBUSTION,37,4,89.83,21,54.08,38,30.0,38,20.92,32,18.16,34,29.71,,,,,0.0,243.0
+University of Arizona,United States,COMBUSTION,38,2,90.26,14,59.84,38,30.0,41,7.4,31,19.46,35,25.72,,,,,0.0,233.0
+University of Texas at Arlington,United States,COMBUSTION,39,42,62.07,25,47.16,4,120.0,,,,,,,,,,,0.0,229.0
+Middle Tennessee State University,United States,COMBUSTION,40,46,52.07,45,25.09,38,30.0,,,38,11.87,38,19.08,21,81.61,,,0.0,220.0
+University of Calgary,Canada,COMBUSTION,41,32,71.27,44,27.92,38,30.0,33,39.62,35,14.81,41,7.5,,,,,0.0,191.0
+University of British Columbia - Vancouver,Canada,COMBUSTION,42,15,81.48,28,44.68,27,50.0,,,,,,,,,,,0.0,176.0
+Western Washington University,United States,COMBUSTION,43,17,81.13,47,23.79,18,70.0,,,,,,,,,,,0.0,175.0
+Polytechnic University of Puerto Rico,Puerto Rico,COMBUSTION,44,10,85.92,43,27.93,27,50.0,,,,,,,,,,,0.0,164.0
+Montana State University - Bozeman,United States,COMBUSTION,45,28,76.33,40,29.01,38,30.0,40,8.06,39,3.88,41,7.5,,,,,0.0,155.0
+Universidad Iberoamericana,Mexico,COMBUSTION,46,37,66.69,37,34.05,38,30.0,42,3.5,40,2.5,41,7.5,,,,,0.0,144.0
+University of Utah,United States,COMBUSTION,47,43,61.64,41,28.75,27,50.0,,,,,,,,,,,0.0,140.0
+University of California Irvine,United States,COMBUSTION,48,48,12.72,42,28.36,,,,,,,26,62.22,,,,,0.0,103.0
+"California State University, Fresno",United States,COMBUSTION,49,49,-0.94,,,,,35,35.89,,,41,7.5,,,,,0.0,42.0

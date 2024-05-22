@@ -1,0 +1,15 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Universität Stuttgart,Germany,COMBUSTION,1,2,96.0,4,62.67,1,150.0,1,75.0,1,75.0,1,100.0,1,325.0,1,100.0,0.0,984.0
+TAMK University of Applied Sciences,Finland,COMBUSTION,2,3,95.0,6,60.2,5,84.73,4,31.48,3,30.36,4,26.57,2,124.67,2,10.15,-20.0,443.0
+VŠB - Technical University of Ostrava,Czech Republic,COMBUSTION,3,1,98.0,2,72.0,3,115.0,2,50.96,2,53.71,2,30.59,,,,,0.0,420.0
+Hochschule Hannover,Germany,COMBUSTION,4,7,55.69,5,61.3,2,122.76,,,,,3,30.26,,,,,0.0,270.0
+Escola Politècnica Superior d,Spain,COMBUSTION,5,5,81.9,10,42.15,4,91.6,5,3.5,,,,,,,,,0.0,219.0
+University of Malaga,Spain,COMBUSTION,6,13,18.02,9,56.35,8,62.4,3,46.07,,,,,3,25.0,,,-20.0,188.0
+Gadjah Mada University,Indonesia,COMBUSTION,7,11,32.76,1,75.0,6,67.56,,,,,,,,,,,0.0,175.0
+Technische Hochschule Lübeck,Germany,COMBUSTION,8,6,63.88,7,59.65,10,50.38,,,,,,,,,,,-30.0,144.0
+Hochschule Niederrhein,Germany,COMBUSTION,9,10,34.4,8,57.54,7,65.27,,,,,,,,,,,-20.0,137.0
+Helmut Schmidt Universität / Universität der Bundeswehr Hamburg,Germany,COMBUSTION,10,4,83.53,14,9.9,11,42.37,,,,,,,,,,,-30.0,106.0
+Fachhochschule Dortmund,Germany,COMBUSTION,11,8,37.67,13,27.49,12,36.64,,,,,,,,,,,0.0,102.0
+Gdańsk University of Technology,Poland,COMBUSTION,12,,,11,36.65,9,60.69,,,,,,,,,,,-25.0,72.0
+Birla Institute of Science and Technology Pilani - Dubai,United Arab Emirates,COMBUSTION,13,12,21.29,3,70.0,13,14.89,,,,,,,,,,,-40.0,66.0
+Odessa Polytechnic National State University,Ukraine,COMBUSTION,14,9,36.03,12,32.98,14,14.02,,,,,,,,,,,-20.0,63.0

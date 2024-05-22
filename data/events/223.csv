@@ -1,0 +1,42 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Indian Institute of Technology Madras,India,COMBUSTION,1,5,95.0,1,75.0,1,150.0,5,57.06,3,53.7,3,76.91,3,255.82,1,100.0,0.0,863.0
+Vishwakarma Institute of Technology,India,COMBUSTION,2,7,90.71,19,47.71,3,130.0,4,62.7,4,40.97,5,68.82,2,286.37,3,39.3,0.0,767.0
+Gujarat Technological University,India,COMBUSTION,3,19,57.61,24,43.47,5,100.0,1,75.0,,,6,68.63,1,325.0,2,85.26,-10.0,745.0
+Smt. Kashibai Navale College of Engineering,India,COMBUSTION,4,2,99.0,10,61.53,14,71.0,2,69.49,1,75.0,2,95.16,5,86.3,4,13.46,0.0,571.0
+PES University,India,COMBUSTION,5,3,97.0,4,72.0,24,45.0,,,,,4,69.53,4,185.2,,,0.0,469.0
+"Sardar Patel College of Engineering, Mumbai",India,COMBUSTION,6,12,76.0,12,60.05,4,120.0,7,54.18,8,17.39,9,4.5,,,,,0.0,332.0
+Dwarkadas. J. Sanghvi College of Engineering,India,COMBUSTION,7,1,100.0,8,69.36,10,74.0,,,2,71.39,9,4.5,,,,,0.0,319.0
+Manipal Academy of Higher Education,India,COMBUSTION,8,10,85.81,9,69.08,21,59.0,,,,,1,100.0,,,,,0.0,314.0
+SRM Institute of Science and Technology - Kattankulathur,India,COMBUSTION,9,11,84.58,5,71.0,2,140.0,,,,,9,4.5,,,,,0.0,300.0
+Indian Institute of Technology Kharagpur,India,COMBUSTION,10,15,68.65,2,74.0,6,99.0,8,32.45,9,10.51,9,4.5,,,,,0.0,289.0
+Lovely Professional University,India,COMBUSTION,11,25,51.29,30,33.43,12,72.0,3,68.05,5,39.52,,,,,,,-5.0,259.0
+MIT World Peace University,India,COMBUSTION,12,8,89.48,6,70.0,8,91.0,,,,,,,,,,,0.0,250.0
+Ramaiah Institute of Technology,India,COMBUSTION,13,4,96.0,13,58.3,18,63.0,,,,,,,,,,,0.0,217.0
+R.V.College of Engineering,India,COMBUSTION,14,9,87.03,3,73.0,25,44.0,,,,,,,,,,,0.0,204.0
+VIT University - Chennai,India,COMBUSTION,15,6,91.94,18,48.82,28,31.0,,,7,26.72,,,,,,,0.0,198.0
+Pune Vidyarti Griha,India,COMBUSTION,16,34,34.32,28,33.8,9,75.0,,,,,7,40.3,,,,,0.0,183.0
+Aligarh Muslim University,India,COMBUSTION,17,33,36.77,7,69.54,22,58.0,,,,,,,6,25.0,,,-10.0,179.0
+Symbiosis Institute of Technology,India,COMBUSTION,18,23,51.48,11,60.14,12,72.0,,,,,,,,,,,-10.0,174.0
+MCT,India,COMBUSTION,19,12,76.0,20,47.62,23,49.0,,,,,,,,,,,0.0,173.0
+"The National Institute of Engineering, Mysore",India,COMBUSTION,20,23,51.48,16,52.22,17,64.0,,,,,,,,,,,0.0,168.0
+"Amrita School of Engineering, Coimbatore",India,COMBUSTION,21,17,64.97,14,55.26,27,39.0,,,,,,,,,,,0.0,159.0
+Vishwakarma Institute of Information Technology,India,COMBUSTION,22,35,33.1,17,49.76,16,66.0,,,10,3.5,9,4.5,,,,,0.0,157.0
+"Sinhgad College of Engineering, Vadgaon",India,COMBUSTION,23,36,30.65,23,43.75,7,92.0,,,,,,,,,,,-10.0,156.0
+RMD Sinhgad School of Engineering,India,COMBUSTION,24,14,72.32,24,43.47,29,30.0,,,,,,,,,,,-10.0,136.0
+Fr Conceicao Rodrigues College of Engineering,India,COMBUSTION,25,21,56.39,22,46.05,31,29.0,,,,,,,,,,,0.0,131.0
+Kumaraguru College of Technology,India,COMBUSTION,26,31,39.23,37,25.79,39,10.0,6,55.61,6,34.34,8,36.13,,,,,-70.0,131.0
+Rajendra Mane College of Engineering and Technology,India,COMBUSTION,27,26,49.03,26,40.34,15,67.0,,,,,,,,,,,-30.0,126.0
+"Kakatiya Institute of Technology and Science, Warangal",India,COMBUSTION,28,19,57.61,15,54.38,33,22.0,,,,,,,,,,,-10.0,124.0
+Sri Venkateswara College of Engineering,India,COMBUSTION,29,29,45.35,21,46.79,26,40.0,,,,,,,,,,,-13.0,119.0
+Indira Gandhi Delhi Technical University for Women,India,COMBUSTION,30,18,61.29,27,34.08,34,20.0,,,,,,,,,,,0.0,115.0
+SRM Institute of Science and Technology - Ramapuram,India,COMBUSTION,31,39,20.65,32,31.13,29,30.0,,,,,,,,,,,0.0,82.0
+Pillai College Of Engineering,India,COMBUSTION,32,,,37,25.79,19,62.0,,,,,,,,,,,-10.0,78.0
+Kalinga Institute of Industrial Technology,India,COMBUSTION,33,37,26.97,40,19.99,20,60.0,,,,,,,,,,,-32.0,75.0
+Vasavi College of Engineering,India,COMBUSTION,34,26,49.03,33,29.75,35,17.0,,,,,,,,,,,-35.0,61.0
+St. Vincent Pallotti College of Engineering and Technology,India,COMBUSTION,35,38,23.29,34,29.01,36,15.0,,,,,,,,,,,-10.0,57.0
+K L University,India,COMBUSTION,36,32,38.0,41,18.83,,,,,,,,,,,,,0.0,57.0
+Galgotias University,India,COMBUSTION,37,22,53.94,31,32.51,40,8.0,,,,,,,,,,,-40.0,54.0
+DIT University,India,COMBUSTION,38,16,66.19,35,28.55,38,13.0,,,,,,,,,,,-70.0,38.0
+Sardar Vallabhbhai National Institute of Technology,India,COMBUSTION,39,28,46.58,28,33.8,36,15.0,,,,,,,,,,,-70.0,25.0
+Charotar University of Science and Technology,India,COMBUSTION,40,40,18.39,39,25.14,10,74.0,,,,,,,,,,,-100.0,18.0
+TKM  College of Engineering,India,COMBUSTION,41,30,44.13,36,27.2,32,24.0,,,,,,,,,,,-78.0,17.0

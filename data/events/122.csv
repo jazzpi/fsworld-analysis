@@ -1,0 +1,21 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Tallinn TU UAS,Estonia,ELECTRIC,1,9,62.01,2,73.44,3,142.97,2,70.8,4,37.31,1,150.0,1,300.0,6,87.14,0.0,924.0
+Czech Technical University in Prague,Czech Republic,ELECTRIC,2,10,60.17,6,56.25,5,140.63,9,47.28,3,38.2,4,110.98,2,281.17,8,83.75,-90.0,728.0
+Hochschule Bonn-Rhein-Sieg,Germany,ELECTRIC,3,4,79.88,11,42.19,8,111.33,10,44.67,1,50.0,6,100.99,3,198.02,4,93.19,0.0,720.0
+Ostfalia University of Applied Sciences,Germany,ELECTRIC,4,14,38.08,7,53.91,7,131.25,4,64.77,6,32.32,7,89.43,5,164.85,1,100.0,0.0,675.0
+Georg-Simon-Ohm-Hochschule Nürnberg,Germany,ELECTRIC,5,12,51.03,18,29.69,11,104.3,5,55.94,11,20.94,8,75.16,4,185.2,2,94.34,0.0,617.0
+Technische Hochschule Ingolstadt,Germany,ELECTRIC,6,13,40.99,3,70.31,2,146.48,3,66.44,5,32.89,2,143.37,9,19.0,5,90.22,0.0,610.0
+Technische Universität Darmstadt,Germany,ELECTRIC,7,5,79.7,1,75.0,1,150.0,1,75.0,2,40.56,5,107.62,7,24.0,9,80.13,-40.0,592.0
+Technische Hochschule Köln,Germany,ELECTRIC,8,,,19,28.13,6,137.11,7,53.0,7,30.36,3,123.79,8,20.0,7,86.74,0.0,479.0
+Hochschule Landshut,Germany,ELECTRIC,9,,,11,42.19,10,105.47,,,,,11,40.34,6,102.89,3,93.46,-50.0,334.0
+Politecnico di Torino,Italy,ELECTRIC,10,7,64.21,10,47.66,4,141.8,12,7.13,9,26.65,12,27.2,12,6.0,,,0.0,321.0
+Fachhochschule für Wirtschaft und Technik,Germany,ELECTRIC,11,2,94.52,5,57.81,13,86.72,11,43.5,13,3.48,13,16.41,13,5.0,,,0.0,307.0
+Hochschule Aalen - Technik und Wirtschaft,Germany,ELECTRIC,12,15,37.38,15,37.5,15,82.03,8,52.35,12,17.32,9,55.03,11,11.0,,,0.0,293.0
+University of Southern Denmark,Denmark,ELECTRIC,13,3,85.76,8,53.13,12,96.09,,,8,28.46,14,7.5,10,14.0,,,0.0,285.0
+Saarland University,Germany,ELECTRIC,14,1,100.0,4,60.94,9,107.81,,,,,,,,,,,0.0,269.0
+Slovak University of Technology in Bratislava,Slovakia,ELECTRIC,15,,,15,37.5,19,43.36,6,53.5,10,24.17,10,46.42,15,3.0,,,0.0,208.0
+Hochschule Niederrhein,Germany,ELECTRIC,16,8,63.79,9,52.34,14,84.38,,,,,,,,,,,0.0,201.0
+TECNUN - University of Navarra,Spain,ELECTRIC,17,11,56.35,14,39.06,16,65.63,13,3.5,14,2.5,14,7.5,13,5.0,,,0.0,180.0
+Moscow State Automobile & Road Technical University - MADI,Russia,ELECTRIC,18,6,70.21,13,40.63,17,53.91,,,,,,,,,,,0.0,165.0
+VIT University - Vellore,India,ELECTRIC,19,,,15,37.5,18,45.7,,,,,,,,,,,-20.0,63.0
+Hochschule für Angewandte Wissenschaften Hof,Germany,ELECTRIC,20,,,20,26.56,20,29.3,,,,,,,,,,,-50.0,6.0

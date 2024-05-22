@@ -1,0 +1,27 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Hochschule Karlsruhe,Germany,COMBUSTION,1,3,95.0,5,69.87,4,120.0,4,37.79,2,50.0,4,76.08,1,250.0,1,75.0,0.0,774.0
+Széchenyi István University,Hungary,COMBUSTION,2,2,99.0,23,48.1,4,120.0,6,36.93,5,35.88,2,87.09,2,226.97,2,71.36,-20.0,705.0
+Fachhochschule Coburg,Germany,COMBUSTION,3,16,63.0,17,53.13,9,90.0,1,50.0,11,23.26,5,67.29,3,211.11,3,64.63,0.0,622.0
+Białystok University of Technology,Poland,COMBUSTION,4,15,65.0,25,46.31,7,95.0,5,37.3,7,28.26,7,51.17,4,157.73,6,34.92,0.0,516.0
+Universitat Politécnica de Valéncia,Spain,COMBUSTION,5,11,78.0,4,70.0,2,137.0,7,29.86,1,105.0,6,61.83,,,,,0.0,482.0
+Universität Stuttgart,Germany,COMBUSTION,6,1,100.0,8,64.67,1,140.0,2,42.52,4,40.99,3,85.97,,,,,0.0,474.0
+Hochschule Esslingen,Germany,COMBUSTION,7,14,71.0,2,74.0,3,130.0,3,38.16,3,47.48,1,100.0,,,,,0.0,461.0
+University of Seville,Spain,COMBUSTION,8,12,75.0,1,75.0,9,90.0,10,24.52,6,35.2,9,25.51,,,,,0.0,325.0
+Università degli Studi di Napoli Federico II,Italy,COMBUSTION,9,8,84.0,7,66.78,7,95.0,11,24.34,9,25.99,11,16.56,,,,,0.0,313.0
+University of Thessaly,Greece,COMBUSTION,10,5,92.0,3,73.0,6,100.0,13,15.13,14,3.5,8,35.39,,,,,-20.0,299.0
+Aalborg University,Denmark,COMBUSTION,11,19,52.0,18,52.97,15,55.0,12,16.07,13,5.7,13,4.5,5,49.6,5,38.49,0.0,274.0
+Rzeszów University of Technology,Poland,COMBUSTION,12,9,82.0,11,62.07,13,65.0,16,3.5,8,27.16,10,23.61,8,25.0,,,-25.0,263.0
+University Carlos III of Madrid,Spain,COMBUSTION,13,6,90.0,14,58.01,11,80.0,8,27.3,14,3.5,13,4.5,,,,,0.0,263.0
+Hochschule Hannover,Germany,COMBUSTION,14,18,53.0,8,64.67,16,50.0,9,25.79,14,3.5,13,4.5,6,38.64,4,41.26,-25.0,256.0
+Escola Politècnica Superior d,Spain,COMBUSTION,15,4,93.0,20,49.4,16,50.0,16,3.5,14,3.5,13,4.5,7,28.97,7,20.36,0.0,253.0
+Hochschule Niederrhein,Germany,COMBUSTION,16,13,72.0,10,64.1,11,80.0,,,14,3.5,13,4.5,,,,,0.0,224.0
+Helmut Schmidt Universität / Universität der Bundeswehr Hamburg,Germany,COMBUSTION,17,10,81.0,20,49.4,22,40.0,14,14.01,,,13,4.5,8,25.0,,,0.0,214.0
+Technische Hochschule Lübeck,Germany,COMBUSTION,18,7,89.0,15,56.87,24,35.0,15,12.21,12,22.44,12,6.31,,,,,-40.0,182.0
+Manipal Academy of Higher Education,India,COMBUSTION,19,17,56.0,6,68.9,22,40.0,,,,,,,,,,,0.0,165.0
+University of Cadiz,Spain,COMBUSTION,20,21,45.0,16,53.86,20,45.0,,,,,13,4.5,,,,,0.0,148.0
+Gdańsk University of Technology,Poland,COMBUSTION,21,24,33.0,22,49.07,13,65.0,,,10,24.93,13,4.5,,,,,-30.0,146.0
+Politecnico di Bari,Italy,COMBUSTION,22,22,43.0,11,62.07,24,35.0,,,,,,,,,,,0.0,140.0
+Fachhochschule Dortmund,Germany,COMBUSTION,23,20,47.0,26,42.25,16,50.0,,,,,,,,,,,-10.0,129.0
+University of Rijeka,Croatia,COMBUSTION,24,26,17.0,13,58.11,26,30.0,,,,,,,,,,,0.0,105.0
+University of Cambridge,United Kingdom,COMBUSTION,25,25,29.0,19,49.48,16,50.0,,,,,,,,,,,-30.0,98.0
+Universitat Jaume I,Spain,COMBUSTION,26,23,34.0,23,48.1,20,45.0,,,,,,,,,,,-30.0,97.0

@@ -1,0 +1,41 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Centro Universitário Facens,Brazil,COMBUSTION,1,5,73.7,15,41.9,3,103.0,2,92.9,2,74.3,6,88.4,1,275.0,3,71.0,0.0,820.0
+Instituto Tecnológico de Buenos Aires,Argentina,COMBUSTION,2,26,48.7,1,75.0,4,102.0,3,86.6,9,41.8,11,74.7,3,134.7,2,82.1,0.0,646.0
+Centro Federal de Educação Tecnológica de Minas Gerais,Brazil,COMBUSTION,3,16,55.7,3,64.5,2,125.0,1,100.0,4,66.3,1,125.0,6,20.0,,,0.0,556.0
+Escola de Engenharia de São Carlos da Universidade de São Paulo,Brazil,COMBUSTION,4,1,86.5,9,48.4,1,130.0,8,63.8,1,75.0,3,107.6,15,7.0,,,-20.0,498.0
+Universidade Federal de Santa Maria,Brazil,COMBUSTION,5,23,49.6,21,33.9,7,88.5,7,67.5,11,32.9,10,76.5,2,148.4,,,-25.0,472.0
+Centro Universitário da FEI,Brazil,COMBUSTION,6,9,63.0,15,41.9,6,90.3,5,79.9,3,71.8,2,109.8,17,3.0,,,0.0,460.0
+Universidade Federal do Rio de Janeiro,Brazil,COMBUSTION,7,4,74.0,36,17.7,9,77.8,9,60.8,6,53.9,15,32.3,5,21.0,4,58.8,0.0,396.0
+Universidade Federal de São João del Rei,Brazil,COMBUSTION,8,15,56.2,13,43.5,10,76.8,6,69.0,7,49.1,7,87.1,8,11.0,,,0.0,393.0
+Instituto Mauá de Tecnologia,Brazil,COMBUSTION,9,7,64.3,4,56.5,29,18.5,11,48.8,5,57.6,7,87.1,8,11.0,,,0.0,344.0
+Universidade Federal de Itajubá - Itabira,Brazil,COMBUSTION,10,20,51.6,19,38.7,12,66.0,10,51.0,8,42.1,5,101.8,8,11.0,,,-20.0,342.0
+Universidade Federal de Minas Gerais,Brazil,COMBUSTION,11,8,63.1,11,46.0,,,4,80.7,10,37.0,4,104.6,,,,,0.0,332.0
+Escola Politécnica da Universidade de São Paulo,Brazil,COMBUSTION,12,13,59.6,8,50.0,8,80.3,13,33.5,13,15.7,12,69.5,8,11.0,,,0.0,320.0
+Universidade Estadual de Campinas,Brazil,COMBUSTION,13,2,83.2,10,47.6,5,91.3,,,16,3.5,9,82.8,18,1.0,,,0.0,309.0
+UNESP - Campus de Ilha Solteira,Brazil,COMBUSTION,14,11,62.2,25,29.0,16,50.3,12,41.9,12,20.2,14,44.5,7,17.0,5,34.7,0.0,300.0
+São Paulo State University - UNESP - Bauru,Brazil,COMBUSTION,15,33,28.4,35,18.5,17,49.0,15,4.5,16,3.5,19,12.8,4,53.5,1,100.0,-20.0,250.0
+Universidade Federal Fluminense - Niterói,Brazil,COMBUSTION,16,25,49.0,15,41.9,15,52.8,14,12.6,14,8.8,13,47.0,8,11.0,,,-20.0,203.0
+Universidade Federal do Rio Grande do Sul,Brazil,COMBUSTION,17,14,58.5,2,71.0,13,62.8,,,,,,,,,,,0.0,192.0
+Universidade Federal do Paraná,Brazil,COMBUSTION,18,10,62.8,12,45.2,14,54.8,,,,,20,6.5,18,1.0,,,0.0,170.0
+Universidade de Brasília,Brazil,COMBUSTION,19,19,52.7,14,42.7,11,66.8,,,,,,,,,,,0.0,162.0
+Universidade Federal de Santa Catarina,Brazil,COMBUSTION,20,6,69.9,5,54.8,30,17.5,,,,,,,,,,,0.0,142.0
+Polo Universitario de Volta Redonda - Universidade Federal Fluminense,Brazil,COMBUSTION,21,3,75.2,28,26.6,,,15,4.5,16,3.5,17,18.3,8,11.0,,,0.0,139.0
+Escola de Engenharia de Lorena da Universidade de São Paulo,Brazil,COMBUSTION,22,24,49.2,5,54.8,27,20.0,,,,,,,,,,,0.0,124.0
+Universidade Federal De Lavras,Brazil,COMBUSTION,23,18,53.6,21,33.9,21,31.0,,,,,,,,,,,0.0,118.0
+Universidade Estadual Paulista - Guaratinguetá,Brazil,COMBUSTION,24,27,48.4,28,26.6,19,43.0,,,,,18,16.0,,,,,-20.0,114.0
+Federal University of Paraíba,Brazil,COMBUSTION,25,28,48.0,36,17.7,18,45.5,,,,,,,,,,,0.0,111.0
+Universidade Federal de Campina Grande,Brazil,COMBUSTION,26,17,54.9,34,19.4,24,28.8,,,,,20,6.5,,,,,0.0,110.0
+Universidad Tecnológica de Pereira,Colombia,COMBUSTION,27,29,44.8,23,32.3,25,26.0,,,,,,,,,,,0.0,103.0
+Universidade Federal da Bahia,Brazil,COMBUSTION,28,32,30.4,15,41.9,20,31.5,15,4.5,,,20,6.5,16,6.0,,,-20.0,101.0
+Universidade Comunitária Regional de Chapecó,Brazil,COMBUSTION,29,22,50.3,32,21.0,31,15.0,,,,,20,6.5,18,1.0,,,0.0,94.0
+Universidade Federal de São Carlos,Brazil,COMBUSTION,30,12,60.1,38,5.6,26,23.8,,,,,,,,,,,0.0,89.0
+UniSALESIANO Araçatuba,Brazil,COMBUSTION,31,,,32,21.0,34,5.0,15,4.5,15,6.8,15,32.3,14,9.0,,,0.0,78.0
+Universidade Federal de Sergipe,Brazil,COMBUSTION,32,30,42.4,24,29.8,22,30.5,,,,,,,,,,,-25.0,78.0
+Universidade Federal de Santa Catarina - Joinville,Brazil,COMBUSTION,33,21,50.7,27,27.4,33,9.0,,,,,,,18,1.0,,,-20.0,68.0
+Centro integrado de Manufatura e Tecnologia - SENAI/CIMATEC,Brazil,COMBUSTION,34,31,39.2,26,28.2,,,,,,,,,,,,,0.0,67.0
+Universidade Federal de Viçosa,Brazil,COMBUSTION,35,34,23.0,20,36.3,,,,,,,,,,,,,0.0,59.0
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Brazil,COMBUSTION,36,35,11.7,,,27,20.0,,,,,,,,,,,0.0,32.0
+Universidade Federal do Pará - Campus Tucuruí - UFPA,Brazil,COMBUSTION,37,36,3.9,30,23.4,,,,,,,,,,,,,0.0,27.0
+Universidade Federal de Uberlândia - UFU,Brazil,COMBUSTION,38,,,31,21.8,,,,,,,,,,,,,0.0,22.0
+Universidade Estadual do Oeste do Paraná,Brazil,COMBUSTION,39,,,7,50.8,23,30.3,,,,,,,,,,,-70.0,11.0
+Universidade Paulista - Campinas - Campus II,Brazil,COMBUSTION,40,,,,,32,10.0,,,,,,,,,,,0.0,10.0

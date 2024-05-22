@@ -1,0 +1,14 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Pimpri Chinchwad College Of Engineering,India,ELECTRIC,1,1,100.0,6,62.93,1,140.0,,,,,,,1,325.0,1,100.0,0.0,728.0
+K. J. Somaiya College of Engineering,India,ELECTRIC,2,7,86.0,3,70.0,3,130.0,,,1,75.0,,,2,240.97,2,90.97,0.0,693.0
+Indian Institute of Technology Delhi,India,ELECTRIC,3,3,97.0,7,60.89,2,135.0,,,,,,,,,,,0.0,293.0
+Dwarkadas. J. Sanghvi College of Engineering,India,ELECTRIC,4,4,95.0,2,73.0,5,109.19,,,,,,,,,,,0.0,277.0
+Indian Institute of Technology Bombay,India,ELECTRIC,5,8,84.33,1,75.0,4,117.43,,,,,,,,,,,0.0,277.0
+MIT World Peace University,India,ELECTRIC,6,6,92.67,4,63.67,7,98.08,,,,,,,,,,,0.0,254.0
+COEP Technological University ,India,ELECTRIC,7,2,98.0,8,59.99,8,96.34,,,,,,,,,,,0.0,254.0
+Smt. Kashibai Navale College of Engineering,India,ELECTRIC,8,5,93.67,11,53.8,6,100.18,,,,,,,,,,,0.0,248.0
+"Sardar Patel College of Engineering, Mumbai",India,ELECTRIC,9,10,72.8,4,63.67,11,86.49,,,,,,,,,,,0.0,223.0
+Ramaiah Institute of Technology,India,ELECTRIC,10,9,73.33,13,46.61,10,88.88,,,,,,,,,,,0.0,209.0
+MCT,India,ELECTRIC,11,11,48.67,12,53.63,12,85.7,,,,,,,,,,,0.0,188.0
+PSG Institute of Technology and Applied Research,India,ELECTRIC,12,13,34.13,9,56.87,9,92.95,,,,,,,,,,,0.0,184.0
+Delhi Technological University,India,ELECTRIC,13,12,39.67,10,55.19,,,,,,,,,,,,,0.0,95.0

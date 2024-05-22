@@ -1,0 +1,22 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Smt. Kashibai Navale College of Engineering,India,ELECTRIC,1,3,94.0,14,60.72,4,125.0,,,,,,,1,325.0,1,100.0,-5.0,700.0
+Pimpri Chinchwad College Of Engineering,India,ELECTRIC,2,1,98.0,8,67.98,1,150.0,1,75.0,1,75.0,1,100.0,,,,,0.0,566.0
+Indian Institute of Technology Madras,India,ELECTRIC,3,4,92.0,1,75.0,2,130.0,,,,,,,,,,,0.0,297.0
+COEP Technological University ,India,ELECTRIC,4,9,72.67,15,56.33,7,100.0,2,45.49,2,3.5,2,84.62,,,,,-70.0,293.0
+Dwarkadas. J. Sanghvi College of Engineering,India,ELECTRIC,5,2,96.0,9,66.85,5,120.0,,,,,,,,,,,0.0,283.0
+"Sardar Patel College of Engineering, Mumbai",India,ELECTRIC,6,7,76.23,17,55.4,3,126.0,,,,,,,,,,,0.0,258.0
+Fr Conceicao Rodrigues College of Engineering,India,ELECTRIC,7,8,73.75,4,71.0,9,85.15,,,,,,,,,,,0.0,230.0
+MIT World Peace University,India,ELECTRIC,8,12,55.58,7,68.64,6,102.96,,,,,,,,,,,0.0,227.0
+MCT,India,ELECTRIC,9,6,82.14,5,70.5,11,74.06,,,,,,,,,,,0.0,227.0
+St. Vincent Pallotti College of Engineering and Technology,India,ELECTRIC,10,16,39.99,13,63.99,10,77.84,,,,,,,,,,,-5.0,177.0
+Delhi Technological University,India,ELECTRIC,11,5,85.0,10,66.59,17,24.88,,,,,,,,,,,0.0,176.0
+National Institute of Technology - Karnataka,India,ELECTRIC,12,14,49.03,3,71.5,13,39.39,,,,,,,,,,,-20.0,140.0
+Vidyavardhini,India,ELECTRIC,13,13,49.66,19,42.56,8,93.46,,,,,,,,,,,-50.0,136.0
+"Birla Institute of Technology, Mesra",India,ELECTRIC,14,10,70.01,18,49.91,18,19.39,,,,,,,,,,,-20.0,119.0
+Indian Institute of Technology Roorkee,India,ELECTRIC,15,11,56.55,6,70.0,12,41.58,,,,,,,,,,,-80.0,88.0
+Rajshahi University of Engineering & Technology,Bangladesh,ELECTRIC,16,18,29.0,11,65.2,,,,,,,,,,,,,-20.0,74.0
+Pillai College Of Engineering,India,ELECTRIC,17,17,31.76,12,64.33,15,32.3,,,,,,,,,,,-60.0,68.0
+Thakur College of Engineering and Technology,India,ELECTRIC,18,15,43.48,16,55.65,19,14.45,,,,,,,,,,,-50.0,64.0
+PSG Institute of Technology and Applied Research,India,ELECTRIC,19,19,27.33,20,32.18,16,28.67,,,,,,,,,,,-40.0,48.0
+R.V.College of Engineering,India,ELECTRIC,20,,,21,30.15,20,11.19,,,,,,,,,,,0.0,41.0
+Birla Institute of Science and Technology Pilani - Dubai,United Arab Emirates,ELECTRIC,21,,,2,72.0,14,34.13,,,,,,,,,,,-70.0,36.0

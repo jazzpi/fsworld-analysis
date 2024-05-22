@@ -1,0 +1,16 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Hochschule Esslingen,Germany,COMBUSTION,1,2,81.5,6,64.6,1,135.0,2,74.2,1,75.0,1,100.0,1,325.0,2,94.9,0.0,950.0
+Fachhochschule Coburg,Germany,COMBUSTION,2,6,72.6,13,48.5,5,95.0,4,72.2,6,44.0,5,62.6,2,270.2,4,51.9,0.0,717.0
+Ostbayerische Technische Hochschule Regensburg,Germany,COMBUSTION,3,3,79.6,5,71.0,6,86.0,1,75.0,3,56.1,4,64.4,3,204.4,5,47.5,0.0,684.0
+UAS Kempten,Germany,COMBUSTION,4,1,83.0,1,75.0,7,80.0,5,71.7,7,41.3,2,67.9,4,199.9,,,0.0,619.0
+University of Huddersfield,United Kingdom,COMBUSTION,5,5,75.5,11,56.0,8,73.0,10,51.3,4,55.4,6,52.0,6,148.9,1,100.0,0.0,612.0
+UAS Würzburg-Schweinfurt,Germany,COMBUSTION,6,15,49.0,14,43.1,4,98.0,7,62.1,9,32.2,7,33.1,5,157.5,3,81.3,0.0,556.0
+Hochschule Karlsruhe,Germany,COMBUSTION,7,7,72.3,7,62.5,2,130.0,3,73.3,2,66.9,3,66.8,,,,,0.0,472.0
+"Università degli Studi di Roma ""La Sapienza""",Italy,COMBUSTION,8,10,62.0,12,49.5,3,107.0,6,70.5,10,31.2,11,4.5,7,85.0,6,11.3,0.0,421.0
+Fachhochschule Aachen,Germany,COMBUSTION,9,4,76.7,3,73.0,9,70.0,9,61.5,8,34.0,9,15.6,,,,,0.0,331.0
+Universidad Europea de Madrid,Spain,COMBUSTION,10,8,69.7,8,59.2,11,66.0,8,61.8,5,48.0,11,4.5,,,,,0.0,309.0
+Universitatea Transilvania din Braşov,Romania,COMBUSTION,11,9,64.3,9,58.2,12,60.0,12,48.2,13,17.0,8,18.7,8,25.0,,,0.0,291.0
+Hochschule Mannheim,Germany,COMBUSTION,12,11,60.0,2,74.0,10,69.0,11,49.3,11,29.9,10,5.6,,,,,0.0,288.0
+University of Portsmouth,United Kingdom,COMBUSTION,13,13,58.9,10,57.1,13,58.0,13,3.5,12,17.9,11,4.5,,,,,0.0,200.0
+Universidad Politécnica de Cartagena,Spain,COMBUSTION,14,14,53.8,4,72.0,14,51.0,,,,,,,,,,,0.0,177.0
+University of Seville,Spain,COMBUSTION,15,12,59.3,15,29.1,15,41.0,,,,,,,,,,,0.0,129.0

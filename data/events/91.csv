@@ -1,0 +1,14 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+ETH Zürich,Switzerland,ELECTRIC,1,1,86.4,2,74.0,1,145.0,1,75.0,1,75.0,1,100.0,1,370.74,,,0.0,926.0
+Karlsruhe Institute of Technology,Germany,ELECTRIC,2,4,76.0,6,70.0,2,135.0,2,68.55,4,51.69,2,95.97,3,330.04,,,0.0,827.0
+Universität Stuttgart,Germany,ELECTRIC,3,6,70.4,3,73.0,3,125.0,3,67.16,2,70.6,3,74.93,2,344.1,,,0.0,825.0
+Universität Siegen,Germany,ELECTRIC,4,11,55.8,4,72.0,10,74.0,5,49.69,3,56.1,5,51.95,4,268.93,,,0.0,628.0
+Fachhochschule München,Germany,ELECTRIC,5,7,67.1,5,71.0,5,110.0,8,17.95,,,8,11.39,5,232.54,,,0.0,510.0
+Hochschule RheinMain,Germany,ELECTRIC,6,9,61.6,1,75.0,6,103.0,7,36.51,10,16.66,10,4.5,7,77.15,,,0.0,374.0
+Deggendorf Institute of Technology,Germany,ELECTRIC,7,10,59.7,10,63.4,9,79.0,10,9.78,8,32.15,9,11.31,6,100.0,,,0.0,355.0
+Leibniz Universität Hannover,Germany,ELECTRIC,8,2,77.8,9,65.7,7,93.0,4,54.05,7,36.6,7,16.46,,,,,0.0,344.0
+Slovak University of Technology in Bratislava,Slovakia,ELECTRIC,9,12,44.0,7,68.8,12,53.0,6,43.63,6,38.22,4,57.69,8,25.0,,,0.0,330.0
+Technische Hochschule Köln,Germany,ELECTRIC,10,8,62.4,13,55.2,4,117.0,11,3.5,9,29.95,6,26.07,,,,,0.0,294.0
+University of the Basque Country,Spain,ELECTRIC,11,3,76.2,12,56.4,11,64.0,11,3.5,11,5.86,10,4.5,8,25.0,,,0.0,235.0
+Escola Tècnica Superior d,Spain,ELECTRIC,12,5,71.0,8,68.1,8,84.0,9,14.99,5,42.33,10,4.5,,,,,-60.0,225.0
+TECNUN - University of Navarra,Spain,ELECTRIC,13,13,-74.6,11,59.9,13,31.0,,,,,,,,,,,0.0,16.0

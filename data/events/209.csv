@@ -1,0 +1,21 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Technical University of Munich,Germany,ELECTRIC,1,9,88.26,6,69.53,5,129.5,4,59.67,1,75.0,1,100.0,1,325.0,1,100.0,0.0,947.0
+Universität Stuttgart,Germany,ELECTRIC,2,1,100.0,14,54.31,1,150.0,2,73.89,10,41.22,4,66.03,3,239.65,2,99.79,0.0,825.0
+Technische Universität Bergakademie Freiberg,Germany,ELECTRIC,3,8,91.54,11,61.71,11,103.0,8,44.34,8,44.9,6,53.28,4,219.54,4,97.4,0.0,716.0
+Tallinn TU UAS,Estonia,ELECTRIC,4,10,86.78,13,57.19,8,119.5,,,,,3,77.28,2,263.9,6,95.39,0.0,700.0
+Rheinisch-Westfälische Technische Hochschule Aachen,Germany,ELECTRIC,5,5,96.0,2,74.0,4,135.0,6,51.21,9,43.41,7,46.71,6,119.78,5,95.95,0.0,662.0
+Hochschule Bonn-Rhein-Sieg,Germany,ELECTRIC,6,13,81.52,7,66.65,11,103.0,3,63.25,7,49.16,5,54.6,5,138.35,3,97.5,0.0,654.0
+TU Delft,Netherlands,ELECTRIC,7,3,98.0,1,75.0,3,140.0,1,75.0,2,67.8,2,79.05,,,,,0.0,535.0
+Escola Superior d,Spain,ELECTRIC,8,2,99.0,3,73.0,5,129.5,7,50.48,5,50.73,11,22.2,,,,,0.0,425.0
+Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,Germany,ELECTRIC,9,6,95.21,9,62.54,13,98.5,10,9.4,3,54.49,12,16.7,,,,,0.0,337.0
+University of Ljubljana,Slovenia,ELECTRIC,10,14,77.36,18,47.73,15,90.0,9,40.6,6,49.44,10,28.62,,,,,0.0,334.0
+Helsinki Metropolia University of Applied Sciences,Finland,ELECTRIC,11,17,69.62,15,53.49,17,64.0,5,56.77,4,53.87,9,29.35,,,,,0.0,327.0
+Karlsruhe Institute of Technology,Germany,ELECTRIC,12,4,97.0,8,65.42,2,145.0,,,,,,,,,,,0.0,307.0
+Technische Universität Hamburg,Germany,ELECTRIC,13,7,92.73,19,44.43,10,104.0,,,12,25.49,8,35.53,,,,,0.0,302.0
+Universidade de Lisboa - Instituto Superior Técnico,Portugal,ELECTRIC,14,15,75.07,4,72.0,9,106.0,11,3.5,11,36.94,13,4.5,,,,,0.0,298.0
+Fachhochschule für Wirtschaft und Technik,Germany,ELECTRIC,15,12,84.3,5,71.59,19,56.5,11,3.5,13,16.1,13,4.5,,,,,0.0,236.0
+AGH University of Science and Technology,Poland,ELECTRIC,16,20,48.1,17,52.66,7,121.5,,,,,,,,,,,0.0,222.0
+Fachhochschule Kiel,Germany,ELECTRIC,17,11,86.28,9,62.54,16,72.0,,,,,,,,,,,0.0,221.0
+Budapest University of Technology and Economics,Hungary,ELECTRIC,18,18,66.64,15,53.49,14,93.5,,,,,,,,,,,0.0,214.0
+Technische Universität Berlin,Germany,ELECTRIC,19,16,73.49,12,59.66,20,41.0,,,,,,,,,,,0.0,174.0
+Hochschule für Technik und Wirtschaft Mittweida,Germany,ELECTRIC,20,19,58.51,20,41.14,18,61.0,,,,,,,,,,,0.0,161.0

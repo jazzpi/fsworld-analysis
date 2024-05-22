@@ -1,0 +1,15 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Technical University of Munich,Germany,ELECTRIC,1,5,68.5,9,59.5,1,150.0,1,100.0,1,75.0,1,125.0,4,232.3,1,100.0,0.0,910.0
+Monash University,Australia,ELECTRIC,2,7,63.1,5,68.9,2,147.7,2,49.9,3,42.5,2,122.0,1,275.0,3,25.5,0.0,795.0
+University of Auckland,New Zealand,ELECTRIC,3,4,70.9,4,72.2,3,129.6,6,10.1,2,42.6,5,80.7,3,240.9,2,67.0,0.0,714.0
+University of Canterbury,New Zealand,ELECTRIC,4,7,63.1,1,75.0,7,114.5,,,10,6.3,3,95.8,2,252.3,,,0.0,607.0
+RMIT University,Australia,ELECTRIC,5,9,52.2,8,63.3,4,127.3,3,42.6,4,42.2,4,88.5,5,12.0,,,0.0,428.0
+University of Queensland,Australia,ELECTRIC,6,1,84.0,1,75.0,6,116.0,4,32.9,9,7.8,9,46.1,7,7.0,,,0.0,369.0
+University of Melbourne,Australia,ELECTRIC,7,6,63.2,7,65.6,5,120.0,,,5,41.8,7,60.9,6,11.0,,,0.0,362.0
+"University of Technology, Sydney",Australia,ELECTRIC,8,3,71.0,3,73.9,9,106.6,5,18.2,8,8.8,6,62.1,11,1.0,,,0.0,342.0
+University of Adelaide,Australia,ELECTRIC,9,2,71.6,13,52.8,12,94.2,8,4.5,7,9.4,8,58.9,9,3.0,,,0.0,294.0
+Hochschule Ruhr West - UAS,Germany,ELECTRIC,10,14,20.5,10,58.1,10,98.7,7,4.9,6,13.2,10,34.8,8,5.0,,,0.0,235.0
+Swinburne University of Technology,Australia,ELECTRIC,11,10,52.0,6,66.1,8,112.1,,,,,,,,,,,0.0,230.0
+University of Tasmania,Australia,ELECTRIC,12,12,45.0,11,53.9,13,87.2,,,,,,,10,2.0,,,0.0,188.0
+University of Wollongong,Australia,ELECTRIC,13,13,33.5,11,53.9,11,98.6,,,,,,,11,1.0,,,0.0,187.0
+The University of Newcastle,Australia,ELECTRIC,14,11,49.6,,,14,29.5,,,,,,,,,,,0.0,79.0
