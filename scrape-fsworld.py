@@ -53,6 +53,9 @@ class EventData:
     id: int
     kind: EventKind
     name: str
+    date: str
+    competitiveness: float
+    abbr: str
     results: list[TeamData]
 
 
@@ -95,8 +98,13 @@ for wrl_kind, url in DATASETS.items():
     soup = scraper.get(url)
     event_select = soup.find(id="WorldEvents")
     assert isinstance(event_select, bs4.Tag)
-    event_ids = map(lambda x: int(x["value"]), event_select.find_all("option"))
-    for event_id in event_ids:
+    event_data = list(
+        map(lambda x: [int(x["value"]), x.text], event_select.find_all("option"))
+    )
+    for ev in event_data:
+        event_id, event_text = ev
+        _, date, competitiveness, abbr = event_text.split(" | ")
+        competitiveness = float(competitiveness.replace(",", "."))
         if event_id in events:
             print(
                 f"Skipping {wrl_kind}/{event_id} (already scraped, probably a mixed event)"
@@ -177,7 +185,9 @@ for wrl_kind, url in DATASETS.items():
                 )
             )
 
-        events[event_id] = EventData(event_id, event_kind, event_name, results)
+        events[event_id] = EventData(
+            event_id, event_kind, event_name, date, competitiveness, abbr, results
+        )
 
         with open(EVENT_DIR / f"{event_id}.csv", "w") as fh:
             writer = csv.DictWriter(
@@ -239,14 +249,26 @@ for wrl_kind, url in DATASETS.items():
     with open(OUTPUT_DIR / f"{wrl_kind}.csv", "w") as fh:
         writer = csv.DictWriter(
             fh,
-            fieldnames=["id", "kind", "name", "teams"],
+            fieldnames=[
+                "id",
+                "kind",
+                "date",
+                "competitiveness",
+                "abbr",
+                "name",
+                "teams",
+            ],
         )
         writer.writeheader()
-        for event in events.values():
+        for ev in event_data:
+            event = events[ev[0]]
             writer.writerow(
                 {
                     "id": event.id,
                     "kind": event.kind.name,
+                    "date": event.date,
+                    "competitiveness": event.competitiveness,
+                    "abbr": event.abbr,
                     "name": event.name,
                     "teams": len(event.results),
                 }

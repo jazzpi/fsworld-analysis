@@ -1,112 +1,112 @@
-id,kind,name,teams
-284,ELECTRIC,Formula SAE® Australasia 2023,22
-283,MIXED,Student Formula Japan 2023,64
-282,ELECTRIC,Formula Student Alpe Adria 2023,29
-280,ELECTRIC,Formula Student Germany 2023,70
-278,ELECTRIC,Formula Student Spain 2023,19
-276,ELECTRIC,Formula Student Czech Republic 2023,35
-274,ELECTRIC,Formula Student East 2023,31
-272,ELECTRIC,Formula Student Austria 2023,34
-270,MIXED,Formula Student United Kingdom 2023,60
-269,ELECTRIC,Formula SAE® Italy 2023,29
-267,ELECTRIC,Formula Student Netherlands 2023,33
-265,ELECTRIC,Formula SAE® Michigan 2023,61
-263,ELECTRIC,Formula Bharat - India 2023,21
-261,ELECTRIC,Formula SAE® Australasia 2022,20
-260,ELECTRIC,Formula Student Spain 2022,38
-258,ELECTRIC,Formula Student Alpe Adria 2022,25
-256,ELECTRIC,Formula Student Germany 2022,63
-254,ELECTRIC,Formula Student East 2022,33
-252,ELECTRIC,Formula Student Austria 2022,30
-250,ELECTRIC,Formula Student Czech Republic 2022,19
-248,ELECTRIC,Formula SAE® Italy 2022,26
-246,ELECTRIC,Formula Student Netherlands 2022,21
-244,MIXED,Formula Student United Kingdom 2022,51
-243,ELECTRIC,Formula SAE® Michigan - June 2022,43
-240,ELECTRIC,Formula Bharat - India 2022,13
-238,ELECTRIC,Formula SAE® Italy 2021,18
-236,ELECTRIC,Formula Student Germany 2021,38
-234,ELECTRIC,Formula Student East 2021,26
-232,ELECTRIC,Formula Student Spain 2021,16
-230,ELECTRIC,Formula Student Czech Republic 2021,14
-228,ELECTRIC,Formula Student Austria 2021,27
-226,MIXED,Formula Student United Kingdom 2021,32
-225,ELECTRIC,Formula Student Netherlands 2021,28
-222,ELECTRIC,Formula SAE® Australasia 2019,16
-220,MIXED,Student Formula Japan 2019,87
-219,ELECTRIC,Formula Student Spain 2019,39
-217,ELECTRIC,Formula Student Czech Republic 2019,15
-215,ELECTRIC,Formula Student Germany 2019,38
-213,ELECTRIC,Formula Student Austria 2019,24
-211,ELECTRIC,Formula SAE® Italy 2019,25
-209,ELECTRIC,Formula Student East 2019,20
-207,MIXED,Formula Student United Kingdom 2019,64
-206,ELECTRIC,Formula Student Netherlands 2019,21
-204,ELECTRIC,Formula SAE® Lincoln 2019,25
-202,ELECTRIC,Formula SAE® North - Canada 2019,12
-198,ELECTRIC,Formula SAE® Australasia 2018,14
-196,MIXED,Student Formula Japan 2018,86
-195,ELECTRIC,Formula Student Spain 2018,38
-193,ELECTRIC,Formula Student Germany 2018,39
-191,ELECTRIC,Formula Student Austria 2018,19
-189,ELECTRIC,Formula Student East 2018,16
-187,ELECTRIC,Formula SAE® Italy 2018,18
-185,MIXED,Formula Student United Kingdom 2018,70
-184,ELECTRIC,Formula SAE® Lincoln 2018,21
-177,MIXED,Student Formula Japan 2017,83
-176,ELECTRIC,Formula Student Spain 2017,30
-174,ELECTRIC,Formula Student Germany 2017,34
-172,ELECTRIC,Formula Student Czech Republic 2017,14
-170,ELECTRIC,Formula Student Austria 2017,19
-168,MIXED,Formula Student United Kingdom 2017,62
-167,MIXED,Formula Student East 2017,38
-166,ELECTRIC,Formula SAE® Italy 2017,18
-163,ELECTRIC,Formula SAE® Lincoln 2017,21
-161,MIXED,Formula SAE® Australasia 2016,32
-159,MIXED,Student Formula Japan 2016,83
-158,ELECTRIC,Formula Student Spain 2016,29
-156,ELECTRIC,Formula Student Germany 2016,37
-154,ELECTRIC,Formula Student Czech Republic 2016,10
-152,ELECTRIC,Formula Student Austria 2016,18
-150,MIXED,Formula Student East 2016,28
-149,ELECTRIC,Formula SAE® Italy 2016,20
-147,MIXED,Formula Student United Kingdom 2016,106
-143,MIXED,Formula SAE® Australasia 2015,29
-141,ELECTRIC,Formula SAE® Italy 2015,20
-139,ELECTRIC,Formula Student Czech Republic 2015,13
-137,MIXED,Student Formula Japan 2015,75
-136,ELECTRIC,Formula Student Spain 2015,30
-134,MIXED,Formula Student Hungary 2015,37
-133,ELECTRIC,Formula Student Austria 2015,18
-131,ELECTRIC,Formula Student Germany 2015,39
-129,MIXED,Formula Student United Kingdom 2015,92
-125,MIXED,Formula SAE® Australasia 2014,22
-123,MIXED,Student Formula Japan 2014,75
-122,ELECTRIC,Formula SAE® Italy 2014,20
-120,ELECTRIC,Formula Student Spain 2014,23
-118,MIXED,Formula Student Hungary 2014,38
-117,ELECTRIC,Formula Student Austria 2014,18
-115,ELECTRIC,Formula Student Germany 2014,39
-113,MIXED,Formula Student United Kingdom 2014,90
-110,MIXED,Formula SAE® Australasia 2013,23
-108,ELECTRIC,Formula SAE® Italy 2013,24
-106,MIXED,Student Formula Japan 2013,69
-105,ELECTRIC,Formula Student Spain 2013,16
-103,MIXED,Formula Student Austria 2013,39
-102,MIXED,Formula Student Hungary 2013,37
-101,ELECTRIC,Formula Student Germany 2013,40
-99,MIXED,Formula Student United Kingdom 2013,83
-96,MIXED,Formula SAE® Australasia 2012,21
-94,ELECTRIC,Formula SAE® Italy 2012,17
-91,ELECTRIC,Formula Student Spain 2012,13
-89,MIXED,Formula Student Hungary 2012,39
-88,ELECTRIC,Formula Student Germany 2012,32
-86,MIXED,Formula Student Austria 2012,37
-85,MIXED,Formula Student United Kingdom 2012,97
-82,MIXED,Formula SAE® Australasia 2011,23
-77,ELECTRIC,Formula Student Germany 2011,28
-75,MIXED,Formula Student Austria 2011,27
-74,ELECTRIC,Formula Student United Kingdom 2011,13
-70,MIXED,Formula SAE® Australasia 2010,27
-66,MIXED,Formula Student Austria 2010,27
-65,ELECTRIC,Formula Student Germany 2010,15
+id,kind,date,competitiveness,abbr,name,teams
+284,ELECTRIC,2023-12-17,0.91,AU ,Formula SAE® Australasia 2023,22
+283,MIXED,2023-09-02,0.85,JP ,Student Formula Japan 2023,64
+282,ELECTRIC,2023-08-26,0.89,AA ,Formula Student Alpe Adria 2023,29
+280,ELECTRIC,2023-08-20,0.92,DE ,Formula Student Germany 2023,70
+278,ELECTRIC,2023-08-13,0.85,ES ,Formula Student Spain 2023,19
+276,ELECTRIC,2023-08-12,0.9,CZ ,Formula Student Czech Republic 2023,35
+274,ELECTRIC,2023-08-06,0.92,EA ,Formula Student East 2023,31
+272,ELECTRIC,2023-07-27,0.93,AT ,Formula Student Austria 2023,34
+270,MIXED,2023-07-23,0.85,UK ,Formula Student United Kingdom 2023,60
+269,ELECTRIC,2023-07-16,0.85,IT ,Formula SAE® Italy 2023,29
+267,ELECTRIC,2023-07-13,0.92,NL ,Formula Student Netherlands 2023,33
+265,ELECTRIC,2023-06-17,0.88,MI ,Formula SAE® Michigan 2023,61
+263,ELECTRIC,2023-01-24,0.85,FB ,Formula Bharat - India 2023,21
+261,ELECTRIC,2022-12-11,0.9,AU ,Formula SAE® Australasia 2022,20
+260,ELECTRIC,2022-09-04,0.85,ES ,Formula Student Spain 2022,38
+258,ELECTRIC,2022-08-28,0.85,AA ,Formula Student Alpe Adria 2022,25
+256,ELECTRIC,2022-08-22,0.93,DE ,Formula Student Germany 2022,63
+254,ELECTRIC,2022-08-12,0.92,EA ,Formula Student East 2022,33
+252,ELECTRIC,2022-07-28,0.95,AT ,Formula Student Austria 2022,30
+250,ELECTRIC,2022-07-14,0.85,CZ ,Formula Student Czech Republic 2022,19
+248,ELECTRIC,2022-07-17,0.85,IT ,Formula SAE® Italy 2022,26
+246,ELECTRIC,2022-07-14,0.9,NL ,Formula Student Netherlands 2022,21
+244,MIXED,2022-07-10,0.85,UK ,Formula Student United Kingdom 2022,51
+243,ELECTRIC,2022-06-18,0.91,MI ,Formula SAE® Michigan - June 2022,43
+240,ELECTRIC,2022-01-25,0.85,FB ,Formula Bharat - India 2022,13
+238,ELECTRIC,2021-10-13,0.85,IT ,Formula SAE® Italy 2021,18
+236,ELECTRIC,2021-08-21,0.94,DE ,Formula Student Germany 2021,38
+234,ELECTRIC,2021-08-11,0.93,EA ,Formula Student East 2021,26
+232,ELECTRIC,2021-08-08,0.85,ES ,Formula Student Spain 2021,16
+230,ELECTRIC,2021-08-01,0.85,CZ ,Formula Student Czech Republic 2021,14
+228,ELECTRIC,2021-07-29,0.92,AT ,Formula Student Austria 2021,27
+226,MIXED,2021-07-25,0.85,UK ,Formula Student United Kingdom 2021,32
+225,ELECTRIC,2021-07-08,0.93,NL ,Formula Student Netherlands 2021,28
+222,ELECTRIC,2019-12-08,0.85,AU ,Formula SAE® Australasia 2019,16
+220,MIXED,2019-08-31,0.96,JP ,Student Formula Japan 2019,87
+219,ELECTRIC,2019-08-25,0.95,ES ,Formula Student Spain 2019,39
+217,ELECTRIC,2019-08-17,0.85,CZ ,Formula Student Czech Republic 2019,15
+215,ELECTRIC,2019-08-11,0.97,DE ,Formula Student Germany 2019,38
+213,ELECTRIC,2019-08-01,0.95,AT ,Formula Student Austria 2019,24
+211,ELECTRIC,2019-07-28,0.85,IT ,Formula SAE® Italy 2019,25
+209,ELECTRIC,2019-07-22,0.92,EA ,Formula Student East 2019,20
+207,MIXED,2019-07-21,0.85,UK ,Formula Student United Kingdom 2019,64
+206,ELECTRIC,2019-07-11,0.89,NL ,Formula Student Netherlands 2019,21
+204,ELECTRIC,2019-06-22,0.86,LN ,Formula SAE® Lincoln 2019,25
+202,ELECTRIC,2019-06-02,0.85,FN ,Formula SAE® North - Canada 2019,12
+198,ELECTRIC,2018-12-09,0.85,AU ,Formula SAE® Australasia 2018,14
+196,MIXED,2018-09-08,0.95,JP ,Student Formula Japan 2018,86
+195,ELECTRIC,2018-08-26,0.97,ES ,Formula Student Spain 2018,38
+193,ELECTRIC,2018-08-12,0.98,DE ,Formula Student Germany 2018,39
+191,ELECTRIC,2018-08-02,0.97,AT ,Formula Student Austria 2018,19
+189,ELECTRIC,2018-07-22,0.88,EA ,Formula Student East 2018,16
+187,ELECTRIC,2018-07-15,0.85,IT ,Formula SAE® Italy 2018,18
+185,MIXED,2018-07-15,0.88,UK ,Formula Student United Kingdom 2018,70
+184,ELECTRIC,2018-06-23,0.85,LN ,Formula SAE® Lincoln 2018,21
+177,MIXED,2017-09-08,0.92,JP ,Student Formula Japan 2017,83
+176,ELECTRIC,2017-08-27,0.97,ES ,Formula Student Spain 2017,30
+174,ELECTRIC,2017-08-13,0.96,DE ,Formula Student Germany 2017,34
+172,ELECTRIC,2017-08-05,0.86,CZ ,Formula Student Czech Republic 2017,14
+170,ELECTRIC,2017-08-03,0.92,AT ,Formula Student Austria 2017,19
+168,MIXED,2017-07-23,0.85,UK ,Formula Student United Kingdom 2017,62
+167,MIXED,2017-07-23,0.99,EA ,Formula Student East 2017,38
+166,ELECTRIC,2017-07-23,0.85,IT ,Formula SAE® Italy 2017,18
+163,ELECTRIC,2017-06-24,0.85,LN ,Formula SAE® Lincoln 2017,21
+161,MIXED,2016-12-11,0.9,AU ,Formula SAE® Australasia 2016,32
+159,MIXED,2016-09-10,0.94,JP ,Student Formula Japan 2016,83
+158,ELECTRIC,2016-08-28,0.97,ES ,Formula Student Spain 2016,29
+156,ELECTRIC,2016-08-14,1.0,DE ,Formula Student Germany 2016,37
+154,ELECTRIC,2016-08-07,0.85,CZ ,Formula Student Czech Republic 2016,10
+152,ELECTRIC,2016-08-04,0.99,AT ,Formula Student Austria 2016,18
+150,MIXED,2016-07-31,0.89,EA ,Formula Student East 2016,28
+149,ELECTRIC,2016-07-25,0.85,IT ,Formula SAE® Italy 2016,20
+147,MIXED,2016-07-17,0.98,UK ,Formula Student United Kingdom 2016,106
+143,MIXED,2015-12-13,0.92,AU ,Formula SAE® Australasia 2015,29
+141,ELECTRIC,2015-09-14,0.85,IT ,Formula SAE® Italy 2015,20
+139,ELECTRIC,2015-09-06,0.85,CZ ,Formula Student Czech Republic 2015,13
+137,MIXED,2015-09-05,0.95,JP ,Student Formula Japan 2015,75
+136,ELECTRIC,2015-08-30,0.97,ES ,Formula Student Spain 2015,30
+134,MIXED,2015-08-23,0.9,HU ,Formula Student Hungary 2015,37
+133,ELECTRIC,2015-08-13,0.96,AT ,Formula Student Austria 2015,18
+131,ELECTRIC,2015-08-02,0.98,DE ,Formula Student Germany 2015,39
+129,MIXED,2015-07-12,0.94,UK ,Formula Student United Kingdom 2015,92
+125,MIXED,2014-12-14,0.89,AU ,Formula SAE® Australasia 2014,22
+123,MIXED,2014-09-06,0.93,JP ,Student Formula Japan 2014,75
+122,ELECTRIC,2014-09-01,0.85,IT ,Formula SAE® Italy 2014,20
+120,ELECTRIC,2014-08-31,0.96,ES ,Formula Student Spain 2014,23
+118,MIXED,2014-08-24,0.9,HU ,Formula Student Hungary 2014,38
+117,ELECTRIC,2014-08-20,0.97,AT ,Formula Student Austria 2014,18
+115,ELECTRIC,2014-08-03,1.0,DE ,Formula Student Germany 2014,39
+113,MIXED,2014-07-13,0.98,UK ,Formula Student United Kingdom 2014,90
+110,MIXED,2013-12-15,0.87,AU ,Formula SAE® Australasia 2013,23
+108,ELECTRIC,2013-09-16,0.95,IT ,Formula SAE® Italy 2013,24
+106,MIXED,2013-09-07,0.93,JP ,Student Formula Japan 2013,69
+105,ELECTRIC,2013-09-01,0.85,ES ,Formula Student Spain 2013,16
+103,MIXED,2013-08-29,0.97,AT ,Formula Student Austria 2013,39
+102,MIXED,2013-08-25,0.92,HU ,Formula Student Hungary 2013,37
+101,ELECTRIC,2013-08-04,1.0,DE ,Formula Student Germany 2013,40
+99,MIXED,2013-07-07,0.97,UK ,Formula Student United Kingdom 2013,83
+96,MIXED,2012-12-09,0.88,AU ,Formula SAE® Australasia 2012,21
+94,ELECTRIC,2012-09-17,0.85,IT ,Formula SAE® Italy 2012,17
+91,ELECTRIC,2012-09-02,0.85,ES ,Formula Student Spain 2012,13
+89,MIXED,2012-08-20,0.91,HU ,Formula Student Hungary 2012,39
+88,ELECTRIC,2012-08-05,0.99,DE ,Formula Student Germany 2012,32
+86,MIXED,2012-07-20,0.95,AT ,Formula Student Austria 2012,37
+85,MIXED,2012-07-15,0.95,UK ,Formula Student United Kingdom 2012,97
+82,MIXED,2011-12-18,0.87,AU ,Formula SAE® Australasia 2011,23
+77,ELECTRIC,2011-08-07,0.98,DE ,Formula Student Germany 2011,28
+75,MIXED,2011-07-30,0.94,AT ,Formula Student Austria 2011,27
+74,ELECTRIC,2011-07-17,0.85,UK ,Formula Student United Kingdom 2011,13
+70,MIXED,2010-12-12,0.9,AU ,Formula SAE® Australasia 2010,27
+66,MIXED,2010-08-14,0.93,AT ,Formula Student Austria 2010,27
+65,ELECTRIC,2010-08-08,1.0,DE ,Formula Student Germany 2010,15
