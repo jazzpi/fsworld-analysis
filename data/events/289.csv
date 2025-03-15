@@ -1,0 +1,16 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+ETH Zürich,Switzerland,ELECTRIC,1,2,95.0,6,63.0,1,150.0,1,75.0,1,75.0,1,100.0,1,325.0,1,100.0,0.0,983.0
+Politecnico di Milano,Italy,ELECTRIC,2,1,96.0,1,75.0,2,148.0,2,55.91,,,2,71.79,2,221.68,3,35.39,0.0,704.0
+Hochschule Pforzheim,Germany,ELECTRIC,3,3,94.0,8,55.0,7,113.0,6,28.21,4,19.82,7,16.68,3,124.26,2,36.08,0.0,487.0
+Duale Hochschule Baden-Württemberg - Mannheim,Germany,ELECTRIC,4,6,89.0,10,47.0,8,87.0,7,9.54,5,9.26,5,22.97,5,68.23,,,0.0,333.0
+Bern University of Applied Sciences,Switzerland,ELECTRIC,5,10,59.0,4,70.0,6,114.0,3,54.76,2,32.48,,,,,,,0.0,330.0
+École Polytechnique de Montréal,Canada,ELECTRIC,6,7,73.0,13,40.0,3,121.0,,,,,3,50.0,9,6.25,,,0.0,290.0
+Zürcher Hochschule für Angewandte Wissenschaften,Switzerland,ELECTRIC,7,3,94.0,2,74.0,5,118.0,,,,,,,10,3.75,,,0.0,290.0
+Aristotle University of Thessaloniki,Greece,ELECTRIC,8,10,59.0,3,71.0,12,65.0,5,30.22,3,26.54,8,4.5,6,25.0,,,0.0,281.0
+École Polytechnique Fédérale de Lausanne,Switzerland,ELECTRIC,9,5,93.0,15,27.0,4,120.0,,,,,,,,,,,0.0,240.0
+Georg-Simon-Ohm-Hochschule Nürnberg,Germany,ELECTRIC,10,8,70.0,7,56.0,9,75.0,4,38.89,,,4,29.81,,,,,-40.0,230.0
+HES-SO Valais-Wallis,Switzerland,ELECTRIC,11,13,43.0,11,45.0,10,74.0,8,3.5,6,3.5,8,4.5,6,25.0,,,0.0,198.0
+Universität Kassel,Germany,ELECTRIC,12,9,64.0,9,51.0,14,56.0,,,6,3.5,,,8,16.25,,,0.0,191.0
+University of Maribor,Slovenia,ELECTRIC,13,14,30.0,5,68.0,11,66.0,,,,,6,17.77,4,89.25,,,-90.0,181.0
+Helmut Schmidt Universität / Universität der Bundeswehr Hamburg,Germany,ELECTRIC,14,12,53.0,12,43.0,15,35.0,,,,,,,,,,,0.0,131.0
+Shenzhen Technology University,China,ELECTRIC,15,14,30.0,14,34.0,13,58.0,,,,,,,,,,,0.0,122.0

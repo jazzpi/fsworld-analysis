@@ -1,0 +1,19 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Vishwakarma Institute of Information Technology,India,COMBUSTION,1,5,83.24,9,57.25,9,112.0,1,75.0,2,62.89,1,100.0,,,,,0.0,490.0
+Pune Vidyarti Griha,India,COMBUSTION,2,9,54.63,2,69.6,3,126.0,2,57.58,1,75.0,2,57.35,,,,,0.0,440.0
+Thapar Institute of Engineering and Technology,India,COMBUSTION,3,2,88.0,6,60.33,1,150.0,,,,,,,,,,,-2.0,296.0
+Manipal Academy of Higher Education,India,COMBUSTION,4,1,93.0,4,65.44,4,125.0,,,,,,,,,,,0.0,283.0
+"The National Institute of Engineering, Mysore",India,COMBUSTION,5,3,87.0,11,56.98,6,124.0,,,,,,,,,,,0.0,268.0
+R.V.College of Engineering,India,COMBUSTION,6,7,79.72,1,74.0,2,127.0,,,,,,,,,,,-20.0,261.0
+VIT University - Chennai,India,COMBUSTION,7,8,76.79,13,51.43,4,125.0,,,,,,,,,,,0.0,253.0
+St. Vincent Pallotti College of Engineering and Technology,India,COMBUSTION,8,,,10,57.11,7,123.0,,,,,,,,,,,0.0,180.0
+BMS College of Engineering,India,COMBUSTION,9,,,7,59.96,8,114.0,,,,,,,,,,,0.0,174.0
+Ramaiah Institute of Technology,India,COMBUSTION,10,6,81.0,15,39.23,10,111.0,,,,,,,,,,,-69.0,162.0
+Shri G.S. Institute of Technology and Science Indore,India,COMBUSTION,11,10,47.45,12,56.92,12,26.38,,,,,,,,,,,0.0,131.0
+University Institute of Technology RGPV Bhopal,India,COMBUSTION,12,4,86.0,17,23.51,14,14.09,,,,,,,,,,,-15.0,109.0
+Kumaraguru College of Technology,India,COMBUSTION,13,,,3,68.6,11,33.5,,,,,,,,,,,-5.0,97.0
+Government Engineering College - Thrissur,India,COMBUSTION,14,,,5,61.69,18,1.83,,,,,,,,,,,0.0,64.0
+Thakur College of Engineering and Technology,India,COMBUSTION,15,,,16,28.72,16,7.45,,,,,,,,,,,0.0,36.0
+"J.C. Bose University of Science and Technology, YMCA",India,COMBUSTION,16,,,,,13,20.34,,,,,,,,,,,0.0,20.0
+"National Institute of Technology, Raipur",India,COMBUSTION,17,,,14,44.0,15,12.27,,,,,,,,,,,-47.0,9.0
+College of Engineering Trivandrum,India,COMBUSTION,18,,,8,59.79,17,6.27,,,,,,,,,,,-60.0,6.0

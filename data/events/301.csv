@@ -1,0 +1,17 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Modena and Reggio Emilia,Italy,COMBUSTION,1,3,92.0,3,70.0,2,145.3,2,74.8,3,71.2,1,100.0,2,323.5,2,94.9,0.0,972.0
+Aristotle University of Thessaloniki,Greece,COMBUSTION,2,1,100.0,6,59.0,5,124.4,5,55.1,2,74.3,2,76.6,1,325.0,5,45.1,0.0,860.0
+Budapest University of Technology and Economics,Hungary,COMBUSTION,3,6,84.5,4,65.0,1,150.0,3,64.4,4,63.1,5,55.8,5,216.6,3,83.8,0.0,783.0
+Escola Politècnica Superior d,Spain,COMBUSTION,4,4,90.0,1,75.0,8,106.6,11,47.7,1,75.0,13,4.5,4,228.1,1,100.0,0.0,727.0
+VŠB - Technical University of Ostrava,Czech Republic,COMBUSTION,5,8,68.5,9,53.0,7,108.1,4,62.7,6,49.2,4,59.8,3,241.4,,,0.0,643.0
+Universitatea Transilvania din Braşov,Romania,COMBUSTION,6,12,54.0,13,42.0,15,61.7,5,55.1,8,39.1,7,48.0,6,127.0,4,53.6,0.0,480.0
+Széchenyi István University,Hungary,COMBUSTION,7,7,78.5,15,38.0,3,132.1,9,50.3,5,60.5,6,51.4,,,,,-15.0,396.0
+Fachhochschule Dortmund,Germany,COMBUSTION,8,2,95.0,6,59.0,9,97.4,10,48.4,9,33.4,10,36.3,,,,,0.0,370.0
+Yıldız Technical University,Türkiye,COMBUSTION,9,11,57.0,10,49.0,13,73.0,1,75.0,7,40.4,3,61.9,,,,,0.0,356.0
+Gdańsk University of Technology,Poland,COMBUSTION,10,14,49.0,5,62.0,4,125.4,8,51.8,11,16.0,8,46.5,,,,,0.0,351.0
+Warsaw University of Technology,Poland,COMBUSTION,11,9,63.5,12,48.0,6,110.3,7,55.0,10,23.7,12,30.2,,,,,0.0,331.0
+ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),France,COMBUSTION,12,13,53.0,2,73.0,10,86.2,14,24.5,,,9,37.4,,,,,0.0,274.0
+Technische Hochschule Lübeck,Germany,COMBUSTION,13,5,88.0,8,58.0,11,84.2,13,26.8,,,,,,,,,0.0,257.0
+Universitatea Politehnica Timișoara,Romania,COMBUSTION,14,10,60.0,10,49.0,14,66.0,12,34.3,12,11.2,11,30.6,,,,,0.0,251.0
+Óbuda University,Hungary,COMBUSTION,15,16,24.5,14,41.0,16,56.8,15,23.7,13,3.5,13,4.5,,,,,0.0,154.0
+University of Rijeka,Croatia,COMBUSTION,16,15,33.5,16,32.0,12,75.0,,,,,,,,,,,0.0,140.0

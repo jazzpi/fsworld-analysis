@@ -1,6 +1,21 @@
 id,kind,date,competitiveness,abbr,name,teams
+308,ELECTRIC,2024-12-08,0.91,AU ,Formula SAE® Australasia 2024,22
+307,ELECTRIC,2024-10-26,0.85,CN ,Formula Student China 2024,64
+305,MIXED,2024-09-14,0.9,JP ,Formula SAE® Japan 2024,71
+304,ELECTRIC,2024-09-08,0.93,IT ,Formula SAE® Italy 2024,34
+302,ELECTRIC,2024-08-25,0.85,AA ,Formula Student Alpe Adria 2024,29
+300,ELECTRIC,2024-08-18,0.94,DE ,Formula Student Germany 2024,79
+299,ELECTRIC,2024-08-10,0.9,CZ ,Formula Student Czech Republic 2024,47
+297,ELECTRIC,2024-08-07,0.85,ES ,Formula Student Spain 2024,25
+295,ELECTRIC,2024-08-03,0.94,EA ,Formula Student East 2024,32
+293,ELECTRIC,2024-07-25,0.93,AT ,Formula Student Austria 2024,38
+291,MIXED,2024-07-21,0.85,UK ,Formula Student United Kingdom 2024,51
+290,ELECTRIC,2024-07-18,0.93,NL ,Formula Student Netherlands 2024,31
+289,ELECTRIC,2024-07-17,0.85,CH ,Formula Student Switzerland 2024,15
+288,ELECTRIC,2024-06-15,0.95,MI ,Formula SAE® Michigan 2024,69
+286,ELECTRIC,2024-01-24,0.85,FB ,Formula Bharat - India 2024,18
 284,ELECTRIC,2023-12-17,0.91,AU ,Formula SAE® Australasia 2023,22
-283,MIXED,2023-09-02,0.85,JP ,Student Formula Japan 2023,64
+283,MIXED,2023-09-02,0.85,JP ,Formula SAE® Japan 2023,64
 282,ELECTRIC,2023-08-26,0.89,AA ,Formula Student Alpe Adria 2023,29
 280,ELECTRIC,2023-08-20,0.92,DE ,Formula Student Germany 2023,70
 278,ELECTRIC,2023-08-13,0.85,ES ,Formula Student Spain 2023,19

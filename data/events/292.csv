@@ -1,0 +1,21 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Modena and Reggio Emilia,Italy,COMBUSTION,1,8,60.0,9,58.4,6,117.0,1,75.0,2,63.7,1,100.0,1,325.0,1,100.0,0.0,899.0
+Universitat Politécnica de Valéncia,Spain,COMBUSTION,2,3,81.0,3,71.0,1,150.0,3,68.1,1,75.0,2,80.9,2,277.2,6,45.4,0.0,849.0
+Széchenyi István University,Hungary,COMBUSTION,3,9,59.0,17,34.7,4,126.2,7,49.1,4,53.9,3,80.2,5,242.7,2,94.4,0.0,740.0
+University of Thessaly,Greece,COMBUSTION,4,2,85.0,12,53.4,3,127.6,9,42.4,12,23.0,8,58.3,4,256.9,3,52.7,0.0,699.0
+Białystok University of Technology,Poland,COMBUSTION,5,13,47.0,18,28.7,10,98.4,2,72.6,3,58.8,4,76.4,3,259.7,5,50.3,0.0,692.0
+University of Oulu,Finland,COMBUSTION,6,17,30.0,10,54.9,16,70.4,4,60.2,6,40.7,12,27.8,6,221.8,4,51.5,0.0,558.0
+VŠB - Technical University of Ostrava,Czech Republic,COMBUSTION,7,10,58.0,8,60.9,11,94.0,8,47.2,10,26.5,7,63.7,7,147.1,,,-10.0,488.0
+Gdańsk University of Technology,Poland,COMBUSTION,8,20,4.0,6,61.9,13,80.4,5,59.3,9,29.1,5,69.8,8,119.2,,,0.0,424.0
+Budapest University of Technology and Economics,Hungary,COMBUSTION,9,4,76.0,11,53.9,9,104.0,6,53.3,7,39.8,6,66.7,,,,,0.0,394.0
+University Carlos III of Madrid,Spain,COMBUSTION,10,5,75.0,1,75.0,5,124.2,13,30.9,5,51.4,11,33.2,,,,,0.0,390.0
+Technische Hochschule Lübeck,Germany,COMBUSTION,11,6,72.0,6,61.9,17,68.5,10,37.2,13,3.8,10,35.3,9,84.3,,,-10.0,353.0
+TAMK University of Applied Sciences,Finland,COMBUSTION,12,7,71.0,5,63.4,2,136.0,12,35.6,8,29.4,13,17.4,,,,,0.0,353.0
+Università degli studi di Padova,Italy,COMBUSTION,13,1,92.0,2,73.0,8,108.2,,,,,,,,,,,0.0,273.0
+Gheorghe Asachi Technical University of Iaşi,Romania,COMBUSTION,14,11,53.0,16,40.8,14,74.4,11,36.8,11,25.4,14,5.0,,,,,0.0,235.0
+University of Cadiz,Spain,COMBUSTION,15,16,31.0,4,64.0,7,112.2,,,,,,,,,,,0.0,207.0
+University of Malaga,Spain,COMBUSTION,16,19,5.0,13,45.8,15,70.8,,,,,9,42.5,,,,,0.0,164.0
+Fachhochschule Dortmund,Germany,COMBUSTION,17,12,50.0,14,44.3,19,56.8,,,,,,,,,,,0.0,151.0
+Universidad Europea de Madrid,Spain,COMBUSTION,18,14,45.0,15,42.3,20,49.0,,,,,,,,,,,-30.0,106.0
+Universidade NOVA de Lisboa,Portugal,COMBUSTION,19,17,30.0,,,18,60.8,,,,,,,,,,,0.0,91.0
+"California State Polytechnic University, Pomona",United States,COMBUSTION,20,15,44.0,19,4.5,12,85.4,,,,,,,,,,,-50.0,84.0

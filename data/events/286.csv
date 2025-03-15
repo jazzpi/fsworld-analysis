@@ -1,0 +1,19 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Indian Institute of Technology Bombay,India,ELECTRIC,1,2,91.0,10,60.92,3,139.0,,,,,,,,,,,0.0,291.0
+Indian Institute of Technology Madras,India,ELECTRIC,2,5,85.0,16,52.92,1,150.0,,,,,,,,,,,0.0,288.0
+Pimpri Chinchwad College Of Engineering,India,ELECTRIC,3,9,79.16,13,59.58,2,144.0,,,,,,,,,,,0.0,283.0
+COEP Technological University ,India,ELECTRIC,4,1,98.0,15,54.73,5,126.0,,,,,,,,,,,0.0,279.0
+Vishwakarma Institute of Technology,India,ELECTRIC,5,7,82.88,12,59.67,4,131.0,,,,,,,,,,,0.0,274.0
+K. J. Somaiya College of Engineering,India,ELECTRIC,6,3,90.0,14,56.28,6,125.0,,,,,,,,,,,0.0,271.0
+MIT World Peace University,India,ELECTRIC,7,7,82.88,8,65.0,8,114.0,,,,,,,,,,,0.0,262.0
+Dwarkadas. J. Sanghvi College of Engineering,India,ELECTRIC,8,5,85.0,5,68.73,12,103.99,,,,,,,,,,,0.0,258.0
+"Sardar Patel College of Engineering, Mumbai",India,ELECTRIC,9,4,88.0,1,73.0,11,105.75,,,,,,,,,,,-10.0,257.0
+University of Moratuwa,Sri Lanka,ELECTRIC,10,15,59.61,4,69.6,9,108.0,,,,,,,,,,,-8.0,229.0
+Fr Conceicao Rodrigues College of Engineering,India,ELECTRIC,11,12,74.03,11,60.31,14,99.55,,,,,,,,,,,-34.0,200.0
+Ramaiah Institute of Technology,India,ELECTRIC,12,16,57.5,2,72.5,10,106.0,,,,,,,,,,,-60.0,176.0
+Indian Institute of Technology Roorkee,India,ELECTRIC,13,10,76.16,7,67.72,7,121.0,,,,,,,,,,,-100.0,165.0
+Indian Institute of Technology Kanpur,India,ELECTRIC,14,14,65.34,16,52.92,13,100.0,,,,,,,,,,,-60.0,158.0
+National Institute of Technology - Karnataka,India,ELECTRIC,15,11,74.5,18,42.88,16,28.5,,,,,,,,,,,-25.0,121.0
+Rajiv Gandhi Institute of Technology - Mumbai,India,ELECTRIC,16,13,67.59,6,68.06,18,12.96,,,,,,,,,,,-30.0,119.0
+Vidyavardhini,India,ELECTRIC,17,,,9,63.34,15,93.47,,,,,,,,,,,-117.0,40.0
+Delhi Technological University,India,ELECTRIC,18,,,3,72.1,17,14.06,,,,,,,,,,,-84.0,2.0

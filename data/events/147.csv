@@ -32,7 +32,7 @@ Oxford Brookes University,United Kingdom,COMBUSTION,30,15,67.3,51,45.3,15,125.0,
 École Centrale de Lyon,France,COMBUSTION,31,22,61.1,61,41.6,36,100.0,40,23.7,33,19.2,41,50.4,19,129.7,,,0.0,426.0
 Universität Stuttgart,Germany,ELECTRIC,32,59,43.1,76,35.8,23,110.0,7,60.7,3,45.5,6,116.8,,,,,0.0,412.0
 Białystok University of Technology,Poland,COMBUSTION,33,43,52.5,42,50.3,23,110.0,10,52.4,20,31.0,19,98.3,41,11.0,,,0.0,406.0
-Yıldız Technical University,Turkey,COMBUSTION,34,63,41.6,73,36.6,96,30.0,25,38.4,35,17.9,29,68.4,19,129.7,24,40.2,0.0,403.0
+Yıldız Technical University,Türkiye,COMBUSTION,34,63,41.6,73,36.6,96,30.0,25,38.4,35,17.9,29,68.4,19,129.7,24,40.2,0.0,403.0
 Loughborough University,United Kingdom,COMBUSTION,35,29,59.4,37,51.1,23,110.0,48,15.5,47,2.5,44,44.1,24,59.3,27,32.5,0.0,374.0
 Tallinn TU UAS,Estonia,ELECTRIC,36,35,57.2,66,39.4,23,110.0,,,,,32,63.4,33,21.0,9,88.2,-10.0,369.0
 University of Burgundy - ISAT,France,COMBUSTION,37,62,41.9,86,32.6,50,80.0,16,47.3,31,20.8,27,73.8,37,16.0,17,53.2,0.0,366.0
@@ -103,5 +103,5 @@ University of Huddersfield,United Kingdom,COMBUSTION,101,,,47,47.6,82,50.0,,,,,,
 University of Ulster,United Kingdom,COMBUSTION,102,98,9.8,103,12.7,92,35.0,,,,,56,7.5,26,22.0,,,-10.0,77.0
 University of Leicester,United Kingdom,ELECTRIC,103,,,80,34.6,92,35.0,,,,,,,,,,,0.0,70.0
 Imperial College London,United Kingdom,ELECTRIC,104,89,22.6,104,11.6,92,35.0,,,,,,,,,,,0.0,69.0
-Hacettepe University,Turkey,COMBUSTION,105,96,12.4,93,31.2,105,20.0,,,,,,,,,,,0.0,64.0
+Hacettepe University,Türkiye,COMBUSTION,105,96,12.4,93,31.2,105,20.0,,,,,,,,,,,0.0,64.0
 University of Warwick,United Kingdom,COMBUSTION,106,94,16.4,66,39.4,106,5.0,,,,,,,,,,,-30.0,31.0

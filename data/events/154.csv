@@ -1,5 +1,5 @@
 name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
-Escola Tècnica Superior d,Spain,ELECTRIC,1,6,63.0,4,63.0,2,140.0,5,44.87,3,34.45,2,104.0,3,256.76,1,100.0,0.0,806.0
+Barcelona School of Industrial Engineering - ETSEIB - UPC,Spain,ELECTRIC,1,6,63.0,4,63.0,2,140.0,5,44.87,3,34.45,2,104.0,3,256.76,1,100.0,0.0,806.0
 Fachhochschule Kiel,Germany,ELECTRIC,2,3,69.0,6,60.0,8,105.0,4,47.99,6,30.18,3,89.99,2,290.79,5,78.7,0.0,772.0
 Universidade de Lisboa - Instituto Superior Técnico,Portugal,ELECTRIC,3,5,66.0,1,75.0,4,125.0,6,37.29,2,41.24,6,24.36,4,215.33,2,93.81,0.0,678.0
 Hochschule Esslingen,Germany,ELECTRIC,4,7,51.0,10,52.0,5,120.0,,,5,30.36,7,7.5,1,300.0,6,76.88,0.0,638.0

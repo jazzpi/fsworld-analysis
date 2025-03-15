@@ -1,0 +1,14 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+University of Modena and Reggio Emilia,Italy,COMBUSTION,1,5,79.82,1,75.0,1,150.0,1,75.0,1,75.0,1,100.0,1,325.0,1,100.0,0.0,980.0
+Fachhochschule Aachen,Germany,COMBUSTION,2,7,75.68,5,56.8,2,147.62,2,60.85,2,38.71,2,75.0,2,279.14,2,96.8,0.0,831.0
+Frederick University,Cyprus,COMBUSTION,3,12,31.05,11,35.5,4,121.43,3,36.16,3,3.75,3,25.15,3,63.06,,,0.0,316.0
+"Università degli Studi di Roma ""La Sapienza""",Italy,COMBUSTION,4,1,100.0,3,71.0,3,142.86,,,,,,,,,,,0.0,314.0
+Thapar Institute of Engineering and Technology,India,COMBUSTION,5,6,76.4,7,53.84,6,88.1,,,,,4,5.0,,,,,0.0,223.0
+University of Kocaeli,Türkiye,COMBUSTION,6,9,55.03,9,41.42,5,116.67,,,,,,,,,,,0.0,213.0
+University of Cyprus,Cyprus,COMBUSTION,7,3,85.98,6,56.21,9,64.29,,,,,,,,,,,0.0,206.0
+Escola Politècnica Superior d,Spain,COMBUSTION,8,4,81.82,8,52.07,10,52.38,,,,,,,,,,,0.0,186.0
+University of Perugia,Italy,COMBUSTION,9,8,62.45,10,40.83,8,65.48,,,,,,,,,,,-20.0,149.0
+Sebelas Maret University,Indonesia,COMBUSTION,10,2,87.65,2,74.0,7,78.57,,,,,,,,,,,-150.0,90.0
+Izmir Katip Celebi University,Türkiye,COMBUSTION,11,10,38.47,13,5.92,11,23.81,,,,,,,,,,,0.0,68.0
+Technical University of Crete,Greece,COMBUSTION,12,11,37.25,4,68.04,,,,,,,,,,,,,-50.0,55.0
+Gebze Technical University,Türkiye,COMBUSTION,13,,,12,34.91,,,,,,,,,,,,,0.0,35.0

@@ -1,0 +1,70 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Rochester Institute of Technology,United States,ELECTRIC,1,16,76.7,44,42.9,11,110.0,3,65.4,6,55.0,11,100.4,2,274.2,14,36.2,0.0,761.0
+École Polytechnique de Montréal,Canada,ELECTRIC,2,28,71.9,62,29.4,2,140.0,4,64.5,7,52.3,7,103.8,4,260.5,15,35.5,0.0,758.0
+University of Wisconsin-Madison,United States,ELECTRIC,3,7,83.2,28,49.4,11,110.0,16,34.6,8,51.5,2,117.5,5,256.4,10,51.5,0.0,754.0
+Georgia Institute of Technology,United States,ELECTRIC,4,21,75.1,8,67.0,19,90.0,1,100.0,1,75.0,1,125.0,8,234.9,17,34.7,-50.0,752.0
+San José State University,United States,ELECTRIC,5,2,95.2,14,60.7,7,125.0,11,49.4,12,47.0,5,106.0,3,261.0,,,-20.0,724.0
+Cornell University,United States,ELECTRIC,6,19,76.0,5,69.2,16,95.0,6,59.1,2,63.9,12,98.8,18,149.9,1,100.0,0.0,712.0
+University of Illinois at Urbana-Champaign,United States,ELECTRIC,7,25,74.4,5,69.2,4,135.0,25,9.4,15,40.7,3,116.4,11,209.0,11,45.9,0.0,700.0
+University of Washington,United States,ELECTRIC,8,37,65.4,3,72.4,27,80.0,28,4.5,3,63.6,13,97.2,1,275.0,20,29.4,0.0,688.0
+University of Pittsburgh,United States,ELECTRIC,9,20,75.8,36,45.6,7,125.0,5,62.5,27,22.4,18,79.8,9,231.6,13,40.1,0.0,683.0
+University of Toronto,Canada,ELECTRIC,10,34,67.3,28,49.4,6,130.0,7,53.0,16,40.6,16,86.8,12,203.8,8,51.8,0.0,683.0
+National University of Singapore,Singapore,ELECTRIC,11,41,61.4,33,46.9,15,100.0,9,51.5,11,49.7,10,101.8,10,211.2,5,59.4,0.0,682.0
+California State Polytechnic University - San Luis Obispo,United States,ELECTRIC,12,13,77.2,32,47.4,4,135.0,19,29.6,5,56.7,8,103.6,19,124.7,4,73.3,0.0,648.0
+Virginia Polytechnic Institute and State University,United States,ELECTRIC,13,45,56.4,47,40.4,21,85.0,10,51.2,17,40.1,20,74.6,7,235.8,12,44.3,0.0,628.0
+Carnegie Mellon University,United States,ELECTRIC,14,48,51.0,12,61.8,32,75.0,8,51.6,9,50.5,19,79.2,13,186.5,18,34.3,0.0,590.0
+Kennesaw State University,United States,ELECTRIC,15,1,96.9,1,75.0,21,85.0,21,26.7,22,34.3,9,102.6,20,92.1,6,56.3,0.0,569.0
+École de Technologie Superieure,Canada,ELECTRIC,16,4,90.1,18,57.6,11,110.0,,,,,28,16.4,6,250.5,,,0.0,525.0
+The University of Akron,United States,ELECTRIC,17,51,48.7,67,20.0,45,60.0,17,32.1,18,39.8,21,71.9,15,164.5,2,87.1,0.0,524.0
+University of Michigan - Ann Arbor,United States,ELECTRIC,18,27,74.0,16,58.8,3,137.0,13,46.2,,,,,17,153.2,9,51.6,0.0,521.0
+Concordia University,Canada,ELECTRIC,19,5,84.2,10,64.4,27,80.0,26,9.0,24,28.9,,,14,176.4,7,53.7,0.0,497.0
+Western University,Canada,ELECTRIC,20,57,37.4,61,29.7,45,60.0,28,4.5,19,36.5,23,63.0,16,164.3,3,75.1,0.0,471.0
+GFR DHBW Ravensburg & Oregon State University,Bermuda,ELECTRIC,21,12,77.6,30,47.9,21,85.0,2,69.9,4,61.6,4,108.7,,,,,0.0,451.0
+University of California Davis,United States,ELECTRIC,22,6,83.9,36,45.6,32,75.0,15,36.1,13,44.2,6,105.4,34,1.0,,,0.0,391.0
+Université Laval,Canada,ELECTRIC,23,3,90.8,30,47.9,27,80.0,23,19.7,20,35.2,22,68.2,26,14.0,16,35.2,0.0,391.0
+Massachusetts Institute of Technology,United States,ELECTRIC,24,36,65.7,39,44.5,16,95.0,14,39.9,29,20.3,15,88.9,25,19.0,,,0.0,373.0
+Pennsylvania State University,United States,ELECTRIC,25,61,30.2,43,43.6,32,75.0,12,47.1,23,30.8,24,61.5,21,46.0,21,28.7,0.0,363.0
+University of Texas at Arlington,United States,ELECTRIC,26,32,70.0,4,71.7,9,120.0,24,19.6,10,49.9,,,23,25.0,,,0.0,356.0
+Auburn University,United States,ELECTRIC,27,9,81.2,34,46.7,42,65.0,18,31.3,20,35.2,14,92.8,32,3.0,,,0.0,355.0
+Columbia University,United States,ELECTRIC,28,25,74.4,54,36.1,21,85.0,22,26.1,28,21.8,26,43.6,22,35.0,19,33.0,0.0,355.0
+McGill University,Canada,ELECTRIC,29,18,76.5,2,72.7,1,150.0,,,,,,,,,,,0.0,299.0
+University of Missouri,United States,ELECTRIC,30,30,70.9,24,50.8,38,70.0,20,29.1,14,41.3,17,82.6,32,3.0,,,-50.0,298.0
+University of British Columbia - Vancouver,Canada,ELECTRIC,31,10,78.3,15,60.1,38,70.0,27,5.9,25,27.1,25,60.4,30,5.0,,,-10.0,297.0
+Purdue University - West Lafayette,United States,ELECTRIC,32,21,75.1,23,52.2,21,85.0,28,4.5,30,19.0,27,41.3,34,1.0,,,0.0,278.0
+"University of California, Berkeley",United States,ELECTRIC,33,23,75.0,13,61.4,14,105.0,,,,,,,,,,,0.0,241.0
+Centro Universitário da FEI,Brazil,ELECTRIC,34,13,77.2,62,29.4,10,115.0,,,,,,,27,13.0,,,0.0,235.0
+University of Florida,United States,ELECTRIC,35,10,78.3,11,61.9,19,90.0,,,,,,,,,,,0.0,230.0
+University of Minnesota Twin Cities,United States,ELECTRIC,36,17,76.6,19,55.9,32,75.0,,,,,,,,,,,0.0,208.0
+"University of California, Los Angeles",United States,ELECTRIC,37,13,77.2,25,49.8,32,75.0,,,,,,,,,,,0.0,202.0
+University of Waterloo,Canada,ELECTRIC,38,31,70.5,41,43.7,21,85.0,,,,,,,,,,,0.0,199.0
+University of New Mexico,United States,ELECTRIC,39,33,69.4,25,49.8,38,70.0,,,,,,,28,7.0,,,0.0,196.0
+Western Washington University,United States,ELECTRIC,40,24,74.9,25,49.8,38,70.0,,,,,,,,,,,0.0,195.0
+Toronto Metropolitan University,Canada,ELECTRIC,41,8,81.4,21,54.6,63,40.0,,,,,,,,,,,0.0,176.0
+University of Texas at Austin,United States,ELECTRIC,42,53,43.4,46,41.1,53,55.0,28,4.5,26,24.9,,,28,7.0,,,0.0,176.0
+University of Calgary,Canada,ELECTRIC,43,44,59.1,35,46.5,27,80.0,,,,,,,,,,,-10.0,176.0
+Northeastern University,China,ELECTRIC,44,64,20.4,22,54.1,27,80.0,,,31,15.5,,,34,1.0,,,0.0,171.0
+Western Michigan University,United States,ELECTRIC,45,62,28.4,19,55.9,45,60.0,,,,,,,23,25.0,,,0.0,169.0
+McMaster University,Canada,ELECTRIC,46,47,54.2,51,36.8,32,75.0,,,,,,,,,,,0.0,166.0
+Rensselaer Polytechnic Institute,United States,ELECTRIC,47,40,62.5,53,36.2,42,65.0,,,,,,,,,,,0.0,164.0
+"Rutgers, The State University of New Jersey",United States,ELECTRIC,48,52,45.2,38,44.7,42,65.0,,,,,,,,,,,0.0,155.0
+Olin College of Engineering,United States,ELECTRIC,49,29,71.3,64,25.5,55,50.0,,,,,,,30,5.0,,,0.0,152.0
+University of Nevada - Reno,United States,ELECTRIC,50,46,54.4,49,37.0,45,60.0,,,,,,,,,,,0.0,151.0
+University of Maryland,United States,ELECTRIC,51,35,65.8,41,43.7,63,40.0,,,,,,,,,,,0.0,150.0
+University of Ontario Institute of Technology,Canada,ELECTRIC,52,63,23.7,9,65.0,45,60.0,,,,,,,,,,,0.0,149.0
+University of Manitoba,Canada,ELECTRIC,53,54,41.5,40,44.1,45,60.0,,,,,,,,,,,0.0,146.0
+University of Virginia,United States,ELECTRIC,54,43,60.7,65,24.2,45,60.0,,,,,,,,,,,0.0,145.0
+University of Cincinnati,United States,ELECTRIC,55,39,63.6,58,31.9,59,45.0,,,,,,,,,,,0.0,140.0
+University of California - Santa Cruz,United States,ELECTRIC,56,42,61.0,56,33.1,59,45.0,,,,,,,,,,,0.0,139.0
+University of Southern California,United States,ELECTRIC,57,49,49.4,44,42.9,59,45.0,,,,,,,,,,,0.0,137.0
+Brigham Young University,United States,ELECTRIC,58,58,36.2,17,58.7,63,40.0,,,,,,,,,,,0.0,135.0
+University of Guelph,Canada,ELECTRIC,59,68,14.9,7,68.7,55,50.0,,,,,,,,,,,0.0,134.0
+University of Windsor,Canada,ELECTRIC,60,50,49.1,57,32.8,59,45.0,,,,,,,,,,,0.0,127.0
+Texas A&M University,United States,ELECTRIC,61,38,64.9,69,10.0,16,95.0,,,32,6.5,,,,,,,-50.0,126.0
+University of California Santa Barbara,United States,ELECTRIC,62,60,31.1,60,30.6,53,55.0,,,,,,,,,,,0.0,117.0
+Binghamton University,United States,ELECTRIC,63,55,40.0,52,36.5,55,50.0,,,,,,,,,,,-10.0,116.0
+Northwestern University,United States,ELECTRIC,64,65,16.7,59,31.3,45,60.0,,,,,,,,,,,0.0,108.0
+Missouri University of Science and Technology,United States,ELECTRIC,65,55,40.0,68,16.8,55,50.0,,,,,,,,,,,0.0,107.0
+California Institute of Technology,United States,ELECTRIC,66,66,15.0,48,38.1,69,5.0,,,,,,,,,,,0.0,58.0
+Drexel University,United States,ELECTRIC,67,59,31.3,55,35.3,63,40.0,,,,,,,,,,,-50.0,57.0
+Illinois Institute of Technology,United States,ELECTRIC,68,66,15.0,49,37.0,67,10.0,,,,,,,,,,,-10.0,52.0
+University of Colorado - Colorado Springs,United States,ELECTRIC,69,,,66,20.6,67,10.0,,,,,,,,,,,0.0,31.0

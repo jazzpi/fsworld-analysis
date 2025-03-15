@@ -1,0 +1,23 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Monash University,Australia,ELECTRIC,1,10,70.63,1,75.0,1,150.0,2,86.18,1,75.0,1,125.0,3,265.03,9,15.72,0.0,863.0
+University of Auckland,New Zealand,ELECTRIC,2,16,41.98,2,73.19,2,143.0,1,100.0,4,61.85,2,114.55,4,251.6,10,8.37,0.0,795.0
+Curtin University,Australia,ELECTRIC,3,3,86.53,3,72.41,10,126.0,9,48.25,6,61.18,3,105.55,6,237.71,7,21.69,0.0,759.0
+The University of Newcastle,Australia,ELECTRIC,4,8,75.55,14,54.05,12,120.0,4,71.79,9,42.64,8,78.13,5,250.87,4,40.82,0.0,734.0
+University of Queensland,Australia,ELECTRIC,5,1,90.5,18,44.29,5,133.0,13,20.42,10,33.39,4,88.94,1,275.0,5,40.67,0.0,726.0
+University of Canterbury,New Zealand,ELECTRIC,6,4,85.33,5,69.31,11,121.0,8,52.16,5,61.32,,,8,195.42,1,100.0,0.0,685.0
+University of Wollongong,Australia,ELECTRIC,7,7,75.82,11,57.8,8,129.0,14,18.67,12,27.42,11,54.03,2,269.34,3,44.9,0.0,677.0
+University of Western Australia,Australia,ELECTRIC,8,9,72.57,13,54.31,4,137.0,6,64.52,3,64.99,6,81.48,10,129.15,8,21.26,0.0,625.0
+University of Adelaide,Australia,ELECTRIC,9,12,65.01,17,46.29,9,127.0,11,22.81,11,30.13,5,82.03,7,229.5,11,0.43,0.0,603.0
+University of Tasmania,Australia,ELECTRIC,10,2,88.83,7,62.59,14,108.0,5,70.22,7,43.42,,,9,154.7,2,50.57,0.0,578.0
+University of New South Wales,Australia,ELECTRIC,11,6,76.01,6,68.79,3,139.0,7,59.61,2,65.03,9,57.13,12,16.0,,,0.0,482.0
+RMIT University,Australia,ELECTRIC,12,18,12.75,10,62.07,5,133.0,10,48.09,13,22.96,7,78.61,13,5.0,,,0.0,362.0
+National Taipei University of Technology,Taiwan,ELECTRIC,13,,,21,40.09,20,101.0,12,22.33,8,43.24,10,54.71,11,67.87,6,27.04,0.0,356.0
+Swinburne University of Technology,Australia,ELECTRIC,14,15,48.28,20,40.34,7,132.0,3,72.97,,,,,,,,,0.0,294.0
+Queensland University of Technology,Australia,ELECTRIC,15,5,79.42,4,71.38,15,105.0,15,4.5,,,,,,,,,0.0,260.0
+Griffith University,Australia,ELECTRIC,16,11,66.41,12,54.7,15,105.0,,,,,12,6.5,,,,,0.0,233.0
+University of Melbourne,Australia,ELECTRIC,17,13,62.98,16,47.72,13,111.0,,,,,,,14,1.0,,,0.0,223.0
+University of Waikato,New Zealand,ELECTRIC,18,14,59.02,15,51.79,17,104.0,,,,,,,,,,,0.0,215.0
+University of Sydney,Australia,ELECTRIC,19,17,16.4,9,62.46,19,103.0,,,,,,,,,,,0.0,182.0
+University of South Australia,Australia,ELECTRIC,20,,,22,37.24,17,104.0,,,,,,,,,,,0.0,141.0
+"University of Technology, Sydney",Australia,ELECTRIC,21,20,3.0,7,62.59,21,69.0,,,,,,,,,,,0.0,135.0
+Western Sydney University,Australia,ELECTRIC,22,19,4.55,19,42.55,22,45.0,,,,,,,,,,,0.0,92.0

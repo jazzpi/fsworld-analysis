@@ -1,0 +1,48 @@
+name,country,kind,place,cost_place,cost_score,bp_place,bp_score,ed_place,ed_score,acc_place,acc_score,sp_place,sp_score,autox_place,autox_score,endu_place,endu_score,eff_place,eff_score,pen,total
+Jilin University,China,COMBUSTION,1,1,83.68,14,44.96,2,139.5,1,75.0,3,32.88,2,129.41,1,300.0,4,71.89,0.0,877.0
+Wuhan University of Technology,China,COMBUSTION,2,6,66.0,36,33.95,3,114.3,11,37.44,2,36.07,3,105.25,2,229.28,1,84.37,0.0,707.0
+Guangxi University of Science and Technology,China,COMBUSTION,3,4,71.05,11,47.02,8,90.0,4,50.68,7,27.08,10,85.73,6,187.42,10,46.31,0.0,605.0
+Guilin University of Aerospace Technology,China,COMBUSTION,4,8,63.77,29,38.73,16,81.1,2,61.14,6,27.29,13,78.83,8,178.78,2,72.45,0.0,602.0
+Liaoning University of Technology,China,COMBUSTION,5,18,57.86,7,52.52,5,95.2,3,51.98,5,28.33,18,67.43,7,179.17,9,61.26,0.0,594.0
+Hebei University of Technology,China,COMBUSTION,6,9,63.75,9,50.03,12,85.0,13,34.86,9,22.87,9,88.62,5,195.24,11,45.54,0.0,586.0
+Hefei University of Technology,China,COMBUSTION,7,14,60.25,20,42.4,7,91.1,6,46.05,,,4,100.71,9,176.35,6,67.16,0.0,584.0
+Guangzhou City University of Technology,China,COMBUSTION,8,13,60.34,32,36.78,15,83.5,10,38.19,18,4.76,5,97.39,3,201.16,12,42.28,0.0,564.0
+Technische Universität Berlin,Germany,COMBUSTION,9,15,59.86,1,75.0,1,141.0,23,21.17,1,50.0,1,150.0,23,19.17,,,0.0,516.0
+Dalian University of Technology,China,COMBUSTION,10,11,63.36,10,47.11,19,74.0,21,23.35,15,10.45,29,34.06,10,156.72,3,71.91,0.0,481.0
+Sanming University,China,COMBUSTION,11,16,59.84,5,52.9,27,57.9,17,29.59,,,15,69.62,12,138.9,5,67.65,0.0,476.0
+Huaqiao University,China,COMBUSTION,12,17,58.37,19,43.76,22,68.0,16,29.93,17,5.06,17,67.58,13,116.95,7,66.04,0.0,456.0
+Shanghai Jiao Tong University,China,COMBUSTION,13,22,53.07,4,56.89,17,78.4,,,,,35,7.5,4,195.45,8,63.41,0.0,455.0
+Henan University of Science and Technology,China,COMBUSTION,14,21,55.52,12,46.88,13,84.9,19,26.91,13,13.09,26,54.74,11,145.53,13,13.97,0.0,442.0
+Shandong University of Technology,China,COMBUSTION,15,12,63.08,34,35.41,10,88.0,25,19.65,8,24.44,14,77.24,14,107.39,,,0.0,415.0
+Xiamen University of Technology,China,COMBUSTION,16,5,68.99,2,58.44,6,95.0,5,48.13,11,15.84,6,97.03,22,20.0,,,0.0,403.0
+Hubei University of Automotive Technology,China,COMBUSTION,17,2,75.43,18,43.82,11,85.5,7,44.02,4,32.44,7,95.79,32,10.0,,,0.0,387.0
+Wenzhou University,China,COMBUSTION,18,30,45.94,39,33.76,32,52.5,8,40.48,10,20.0,11,85.25,16,50.0,,,0.0,328.0
+Northwestern Polytechnical University,China,COMBUSTION,19,10,63.73,25,41.07,9,89.5,14,34.5,19,2.61,22,60.25,29,13.33,,,0.0,305.0
+Harbin Institute of Technology at Weihai,China,COMBUSTION,20,3,73.18,16,43.97,4,96.0,27,15.81,,,16,68.15,,,,,0.0,297.0
+Hunan University of Science and Technology,China,COMBUSTION,21,26,51.18,8,51.75,28,55.5,12,36.33,12,13.43,12,81.34,37,6.67,,,0.0,296.0
+Tianjin University,China,COMBUSTION,22,29,47.37,6,52.76,23,67.8,20,26.58,16,5.65,20,64.39,23,19.17,,,0.0,284.0
+Beijing Institute of Technology - Zhuhai,China,COMBUSTION,23,38,37.0,23,41.66,29,54.2,9,38.95,,,8,88.95,28,17.5,,,0.0,278.0
+Chongqing University of Technology,China,COMBUSTION,24,36,39.21,24,41.32,21,71.7,32,3.5,,,28,43.75,15,70.91,,,0.0,270.0
+Henan Institute of Technology,China,COMBUSTION,25,39,36.61,30,37.93,26,61.4,28,12.71,14,12.25,25,55.11,16,50.0,,,0.0,266.0
+North University of China,China,COMBUSTION,26,33,44.83,22,41.82,19,74.0,18,28.24,,,23,59.74,39,5.83,,,0.0,254.0
+Xi,China,COMBUSTION,27,19,56.41,41,29.64,24,64.5,30,5.85,,,27,44.79,26,18.33,,,0.0,220.0
+Nanjing University of Science and Technology,China,COMBUSTION,28,37,37.92,33,36.36,30,54.0,24,20.86,,,24,57.92,32,10.0,,,0.0,217.0
+Hunan Agricultural University,China,COMBUSTION,29,42,31.24,42,29.53,33,52.0,26,19.34,,,21,63.66,29,13.33,,,0.0,209.0
+Zhejiang University City College,China,COMBUSTION,30,24,52.15,27,39.08,35,51.5,32,3.5,,,35,7.5,16,50.0,,,0.0,204.0
+Xiangyang Automobile Vocational and Technical College,China,COMBUSTION,31,35,42.89,43,29.34,38,49.1,22,22.1,,,35,7.5,16,50.0,,,0.0,201.0
+Togliatti State University,Russia,COMBUSTION,32,20,56.21,3,58.2,14,83.7,,,,,,,,,,,0.0,198.0
+Changshu Institute of Technology,China,COMBUSTION,33,41,32.58,45,28.63,40,44.2,15,31.66,20,2.5,31,26.59,23,19.17,,,0.0,185.0
+Qingdao Technological University,China,COMBUSTION,34,28,48.02,15,44.13,31,53.0,32,3.5,,,30,26.97,36,8.33,,,0.0,184.0
+Inner Mongolia Agricultural University,China,COMBUSTION,35,7,65.24,26,40.73,18,76.5,,,,,,,,,,,0.0,182.0
+Hainan University,China,COMBUSTION,36,34,43.05,35,35.07,37,51.0,,,,,,,16,50.0,,,0.0,179.0
+Xihua University,China,COMBUSTION,37,31,45.72,13,45.14,39,48.4,32,3.5,,,33,21.18,32,10.0,,,0.0,174.0
+Nanjing Institute of Technology,China,COMBUSTION,38,23,52.98,31,37.23,25,62.6,32,3.5,,,35,7.5,37,6.67,,,0.0,170.0
+Southwest Jiaotong University,China,COMBUSTION,39,40,33.0,28,38.99,43,38.4,,,,,35,7.5,16,50.0,,,0.0,168.0
+Hubei University of Arts and Science,China,COMBUSTION,40,32,45.15,37,33.94,36,51.2,32,3.5,20,2.5,34,13.67,32,10.0,,,0.0,160.0
+Hunan University,China,COMBUSTION,41,44,11.3,17,43.87,,,29,12.44,,,19,66.84,26,18.33,,,0.0,153.0
+Ural State University of Railway Transport,Russia,COMBUSTION,42,47,3.0,21,41.94,34,51.8,31,3.62,,,32,24.58,29,13.33,,,0.0,138.0
+Kunming University of Science and Technology,China,COMBUSTION,43,25,52.0,47,27.6,42,43.0,,,,,,,40,1.67,,,0.0,124.0
+Dalian Minzu University,China,COMBUSTION,44,27,50.41,44,29.3,44,35.5,,,,,,,,,,,0.0,115.0
+Dongguan University of Technology,China,COMBUSTION,45,45,10.0,46,27.99,41,43.3,,,,,,,,,,,0.0,81.0
+Chongqing University,China,COMBUSTION,46,43,16.5,38,33.84,45,27.5,,,,,,,,,,,0.0,78.0
+Changchun Institute of Technology,China,COMBUSTION,47,46,5.0,40,31.68,46,26.0,,,,,,,,,,,0.0,63.0
